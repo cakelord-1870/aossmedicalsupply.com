@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/i-v-administration-sets.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-12T10:00:55-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412543287330</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-7210188-b-braun-a-v-set-low-volume-bloodline-set-40-cs"/>
+    <title>7210645 B Braun Dialog+® Hemodialysis System Single Needle A/V Bloodline Set, 25/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7210645.jpg?v=1554340857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            316.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h3>
+<div><strong>With post-pump arterial drip chamber.</strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><span>Dialog+® Hemodialysis System Single Needle A/V Bloodline Set, 25/cs</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412543287330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">316.94</s:price>
+      <s:sku>7210645</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412534210594</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-100383-b-braun-dialog-%C2%AE-hemodialysis-system-bloodline-set-24-cs"/>
+    <title>B-BRAUN-7210188 - A/V Set Low Volume Bloodline Set, 40/cs (For Healthcare Professionals Only).</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7210188.jpg?v=1584950248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            422.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h4>
+<div><strong>With post-pump arterial drip chamber.</strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><strong>A/V Set Low Volume Bloodline Set, 40/cs</strong></div>
+<div></div>
+<div>He Dialog+ sets standards with its three basic device configurations for extracorporeal blood treatment; single pump, double pump and HDF On-Line. The integrated and efficient treatment system permits users to have the greatest number of possible configurations in setting up the individual dialysis device. The new generation of the Dialog+, the Evolution II, demonstrates numerous comfort improvements for providers and patients. It also rigorously meets today's economic and medical needs. Options, accessories and consumables offer customers a single treatment system that fits together perfectly.<br><br>Adimea - Precise real-time measurement of dialysis dose One of B|Braun's aims is to provide doctors and nursing staff with the best-possible support for giving patients the optimum dialysis dose. The basis for this is continual precise measurement and display of the dialysis effectiveness during treatment. B|Braun has developed the Adimea real-time monitoring process.<br><br>Adimea measures dialysis efficiency by determining the reduction in molar concentration of urinary excreted substances in the spent dialysate. Hence, Adimea provides an accurate measurement process for reliable and continuous control of the dialysis dose (Kt/V) throughout the entire treatment. Treatment parameters can be adjusted by doctors and nursing staff for the benefit of patients even during treatment. This allows the equipment to optimally support the execution of the treatment objectives.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412534210594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">422.62</s:price>
+      <s:sku>7210188</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412517564450</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-streamline%C2%AE-bloodline-set-for-the-dialog-hemodialysis-system-32-cs"/>
+    <title>B Braun Dialog+® Hemodialysis System Bloodline Set, 24/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/100383.jpg?v=1584950246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            177.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h3>
+<div><strong><span>With post-pump arterial drip chamber.</span></strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><strong>Dialog+® Hemodialysis System Bloodline Set, 24/cs</strong></div>
+<div></div>
+<div>He Dialog+ sets standards with its three basic device configurations for extracorporeal blood treatment; single pump, double pump and HDF On-Line. The integrated and efficient treatment system permits users to have the greatest number of possible configurations in setting up the individual dialysis device. The new generation of the Dialog+, the Evolution II, demonstrates numerous comfort improvements for providers and patients. It also rigorously meets today's economic and medical needs. Options, accessories and consumables offer customers a single treatment system that fits together perfectly.<br><br>Adimea - Precise real-time measurement of dialysis dose One of B|Braun's aims is to provide doctors and nursing staff with the best-possible support for giving patients the optimum dialysis dose. The basis for this is continual precise measurement and display of the dialysis effectiveness during treatment. B|Braun has developed the Adimea real-time monitoring process.<br><br>Adimea measures dialysis efficiency by determining the reduction in molar concentration of urinary excreted substances in the spent dialysate. Hence, Adimea provides an accurate measurement process for reliable and continuous control of the dialysis dose (Kt/V) throughout the entire treatment. Treatment parameters can be adjusted by doctors and nursing staff for the benefit of patients even during treatment. This allows the equipment to optimally support the execution of the treatment objectives.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412517564450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">177.56</s:price>
+      <s:sku>100383</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412512124962</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-streamline%C2%AE-bloodline-set-for-the-fmc-2008-series-36-cs"/>
+    <title>B Braun - Bloodline Set For The Dialog+ Hemodialysis System, 32/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i41571__77652.1394520716.1280.1280.jpg?v=1580940063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            257.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN STREAMLINE® BLOODLINES</span></h3>
+<p>Streamline bloodlines feature an efficient and airless design intended to improve clinical and economic performance. They use less tubing and fewer connections to simplify set up and use. The Streamline bloodlines are designed to reduce dialyse flow dialyse size, treatment time and optimize dose delivery, as measured in Kt/V.</p>
+<ul>
+<li><span>Bloodline Set For The Dialog+ Hemodialysis System</span></li>
+<li>Pressure pods replaced transducer protectors</li>
+<li>Less tubing and fewer connections to simplfy use</li>
+<li>Easy setup on Dialog+ hemodialysis system</li>
+<li><span>32/cs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412512124962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">257.25</s:price>
+      <s:sku>SL-2000M2095</s:sku>
+      <s:grams>7348</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412511436834</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/streamline%C2%AE-bloodline-set-for-the-fmc-2008-series-36-cs"/>
+    <title>B Braun - Bloodline Set For The FMC 2008 Series, 36/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i41571.jpg?v=1584950244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            380.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN STREAMLINE® BLOODLINES</span></h3>
+<p>Bloodline Set For The FMC 2008 Series, 36/cs</p>
+<p>Streamline bloodlines feature an efficient and airless design intended to improve clinical and economic performance. They use less tubing and fewer connections to simplify set up and use. The Streamline bloodlines are designed to reduce dialyse flow dialyse size, treatment time and optimize dose delivery, as measured in Kt/V.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412511436834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">380.34</s:price>
+      <s:sku>SL-2000M2095</s:sku>
+      <s:grams>7598</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/386887614498</id>
+    <published>2017-11-15T04:44:06-06:00</published>
+    <updated>2017-11-15T04:44:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/administration-set-20-drops-ml"/>
+    <title>BBraun Administration Set 1 Port</title>
+    <s:type>Administration Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/661263.jpg?v=1580940065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Administration Set<br>
+        <strong>Price: </strong>
+            134.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>B. Braun ; 20 drops/ml; Roller Clamp; Injection port; Luer lock tip</p>
+<p>100/CS</p>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="text-nowrap">Manufacturer #</td>
+<td>7210385</td>
+</tr>
+<tr>
+<td class="text-nowrap">Manufacturer</td>
+<td>B. Braun</td>
+</tr>
+<tr>
+<td class="text-nowrap">Application</td>
+<td>Administration Set</td>
+</tr>
+<tr>
+<td class="text-nowrap">Connector Type</td>
+<td>Luer Lock Tip</td>
+</tr>
+<tr>
+<td class="text-nowrap">Number of Ports</td>
+<td>1 Port</td>
+</tr>
+<tr>
+<td class="text-nowrap">Port Type</td>
+<td>Injection Port</td>
+</tr>
+<tr>
+<td class="text-nowrap">Type</td>
+<td>Blood</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Administration Sets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/386887614498</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.00</s:price>
+      <s:sku>7210385</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383160549410</id>
+    <published>2017-11-15T04:44:06-06:00</published>
+    <updated>2017-11-15T04:44:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/baxter-administration-set"/>
+    <title>Interlink® Administration Set - 10 Drops / mL Drip Rate 110 Inch Tubing 3 Ports</title>
+    <s:type>Administration Set</s:type>
+    <s:vendor>Baxter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/242317.jpg?v=1564690104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baxter<br>
+        <strong>Type: </strong>Administration Set<br>
+        <strong>Price: </strong>
+            10.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Baxter</span></h4>
+<p>Non-DEHP CONTINU-FLO solution set</p>
+<p>3 interlink injection sites</p>
+<p>Approximate length of 110”</p>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="nowrap">Drip Rate</td>
+<td>10 Drops / mL Drip Rate</td>
+</tr>
+<tr>
+<td class="nowrap">Filter Size</td>
+<td>Without Filter</td>
+</tr>
+<tr>
+<td class="nowrap">Number of Ports</td>
+<td>3 Ports</td>
+</tr>
+<tr>
+<td class="nowrap">Port Type</td>
+<td>Needleless Injection Ports</td>
+</tr>
+<tr>
+<td class="nowrap">Style</td>
+<td>Drip Chamber</td>
+</tr>
+<tr>
+<td class="nowrap">Tubing Length</td>
+<td>110 Inch Tubing</td>
+</tr>
+<tr>
+<td class="nowrap">Tubing Type</td>
+<td>DEHP</td>
+</tr>
+<tr>
+<td class="nowrap">Type</td>
+<td>Solution</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Administration Sets</s:tag>
+    <s:tag>baxter</s:tag>
+    <s:tag>infusion</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383160549410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.59</s:price>
+      <s:sku>2C6537</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/386889023522</id>
+    <published>2017-11-15T04:09:00-06:00</published>
+    <updated>2017-11-15T04:09:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/administration-set-bbraun-15-drops-ml-drip-rate-93-inch-1-port"/>
+    <title>BBraun Administration Set 15 Drops / mL Drip Rate 93 Inch 1 Port</title>
+    <s:type>Administration Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/237911.jpg?v=1580940066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Administration Set<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">B Braun; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Universal spike; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Roller clamp; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Slide clamp; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Injection site 26” above distal end; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">SPIN-LOCK connector; </span><span face="Helvetica Neue" size="2" color="#000000" style="color: #000000; font-family: 'Helvetica Neue'; font-size: small;">Latex free</span></p>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="text-nowrap">Manufacturer #</td>
+<td>V1415-15</td>
+</tr>
+<tr>
+<td class="text-nowrap">Brand</td>
+<td>Bbraun</td>
+</tr>
+<tr>
+<td class="text-nowrap">Manufacturer</td>
+<td>B. Braun</td>
+</tr>
+<tr>
+<td class="text-nowrap">Administration Method</td>
+<td>Gravity</td>
+</tr>
+<tr>
+<td class="text-nowrap">Application</td>
+<td>Administration Set</td>
+</tr>
+<tr>
+<td class="text-nowrap">Drip Rate</td>
+<td>15 Drops / mL Drip Rate</td>
+</tr>
+<tr>
+<td class="text-nowrap">Filter Size</td>
+<td>Without Filter</td>
+</tr>
+<tr>
+<td class="text-nowrap">Number of Ports</td>
+<td>1 Port</td>
+</tr>
+<tr>
+<td class="text-nowrap">Port Type</td>
+<td>Injection Port</td>
+</tr>
+<tr>
+<td class="text-nowrap">Priming Volume</td>
+<td>19 mL Priming Volume</td>
+</tr>
+<tr>
+<td class="text-nowrap">Style</td>
+<td>Drip Chamber</td>
+</tr>
+<tr>
+<td class="text-nowrap">Tubing Length</td>
+<td>93 Inch</td>
+</tr>
+<tr>
+<td class="text-nowrap">Tubing Type</td>
+<td>DEHP</td>
+</tr>
+<tr>
+<td class="text-nowrap">Type</td>
+<td>Solution</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Administration Sets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/386889023522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>V1415-15</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383148425250</id>
+    <published>2017-11-15T04:09:00-06:00</published>
+    <updated>2017-11-15T04:09:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/administration-set"/>
+    <title>BBraun Administration Set - 15 Drops / mL Drip Rate 84 Inch Tubing 2 Ports</title>
+    <s:type>Administration Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/apiadqqfk__60553.1407014765.1280.1280.jpg?v=1580940064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Administration Set<br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>B Braun Medical, Inc. V1421-20 Admin Set, Universal Spike, Roller Clamp, 2 Injection Sites 28" &amp; 6" Above Distal End, SPIN-LOCk Connector, 18mL Priming Volume, 84"L, 15 Drops/mL, DEHP &amp; Latex Free (LF), 50/cs.</span></p>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="text-nowrap">Manufacturer #</td>
+<td>V1421-20</td>
+</tr>
+<tr>
+<td class="text-nowrap">Brand</td>
+<td>Bbraun</td>
+</tr>
+<tr>
+<td class="text-nowrap">Manufacturer</td>
+<td>B. Braun</td>
+</tr>
+<tr>
+<td class="text-nowrap">Administration Method</td>
+<td>Gravity</td>
+</tr>
+<tr>
+<td class="text-nowrap">Application</td>
+<td>Administration Set</td>
+</tr>
+<tr>
+<td class="text-nowrap">Drip Rate</td>
+<td>15 Drops / mL Drip Rate</td>
+</tr>
+<tr>
+<td class="text-nowrap">Filter Size</td>
+<td>Without Filter</td>
+</tr>
+<tr>
+<td class="text-nowrap">Number of Ports</td>
+<td>2 Ports</td>
+</tr>
+<tr>
+<td class="text-nowrap">Port Type</td>
+<td>Injection Ports</td>
+</tr>
+<tr>
+<td class="text-nowrap">Priming Volume</td>
+<td>18 mL Priming Volume</td>
+</tr>
+<tr>
+<td class="text-nowrap">Style</td>
+<td>Drip Chamber</td>
+</tr>
+<tr>
+<td class="text-nowrap">Tubing Length</td>
+<td>84 Inch Tubing</td>
+</tr>
+<tr>
+<td class="text-nowrap">Tubing Type</td>
+<td>DEHP</td>
+</tr>
+<tr>
+<td class="text-nowrap">Type</td>
+<td>Solution</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Administration Sets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383148425250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>V1421-20</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>

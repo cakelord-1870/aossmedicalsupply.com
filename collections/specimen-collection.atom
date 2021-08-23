@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/specimen-collection.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-19T11:57:11-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/418806235170</id>
+    <published>2017-12-19T11:57:11-06:00</published>
+    <updated>2017-12-19T11:57:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-urinalysis-tube-bd366408-13-x-100mm-6ml"/>
+    <title>BD Vacutainer® Urinalysis Tube - 13 x 100mm, 6mL</title>
+    <s:type>Urinalysis Tube</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10034-3_aa28567b-9b7a-4a26-bd40-fb0c405cb242.jpg?v=1560605062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Urinalysis Tube<br>
+        <strong>Price: </strong>
+            22.43 - 224.24
+            <a href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-urinalysis-tube-bd366408-13-x-100mm-6ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">BD VACUTAINER® URINE COLLECTION SYSTEM</span></h3>
+<div id="dnn_ctr533_ViewItemDetail_divContent" class="Normal"><span>Provides a wide array of urine collection products to meet your everyday urine testing needs. The BD proprietary mercury-free urinalysis preservative maintains sample integrity for up to 72 hours at room temperature, while our microbiology preservative maintains bacterial viability for up to 48 hours at room temperature. Products help you handle urine specimens from time of collection through preservation and transport.</span></div>
+<div class="Normal"><span></span></div>
+<p><span>Urinalysis Tube, Plus Plastic No Additive (Z), 13 x 100mm, 6mL Draw, </span></p>
+<p><strong>100/bx, 10 bx/cs = 1000Total/Case</strong></p>
+<p><span>(Continental US Only)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>Specimen Collection</s:tag>
+    <s:tag>Tubes</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418806235170</id>
+      <title>BX</title>
+      <s:price currency="USD">22.43</s:price>
+      <s:sku>BD366408-B</s:sku>
+      <s:grams>7734</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418806235170</id>
+      <title>CS</title>
+      <s:price currency="USD">224.24</s:price>
+      <s:sku>BD366408-C</s:sku>
+      <s:grams>7734</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/418727067682</id>
+    <published>2017-12-19T11:57:11-06:00</published>
+    <updated>2017-12-19T11:57:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-sterile-screw-cap-urine-collection-cup-bd364975"/>
+    <title>BD Vacutainer® Sterile Screw-Cap Urine Collection Cup</title>
+    <s:type>Urine Collection Cup</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10034-2.jpg?v=1560605061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Urine Collection Cup<br>
+        <strong>Price: </strong>
+            203.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">BD VACUTAINER® URINE COLLECTION SYSTEM</span></h3>
+<div id="dnn_ctr533_ViewItemDetail_divContent" class="Normal">Provides a wide array of urine collection products to meet your everyday urine testing needs. The BD proprietary mercury-free urinalysis preservative maintains sample integrity for up to 72 hours at room temperature, while our microbiology preservative maintains bacterial viability for up to 48 hours at room temperature. Products help you handle urine specimens from time of collection through preservation and transport.</div>
+<p><span>Urine Transfer Straw, </span></p>
+<p><span>Sterile Screw-Cap Urine Collection Cup, Integrated Transfer Device, </span></p>
+<p><span><strong>200/cs</strong> (Continental US Only)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>Specimen Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418727067682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">203.31</s:price>
+      <s:sku>BD364975</s:sku>
+      <s:grams>5171</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/418714746914</id>
+    <published>2017-12-19T11:57:11-06:00</published>
+    <updated>2017-12-19T11:57:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-transfer-straw-kit-bd364966"/>
+    <title>BD Vacutainer® Urine Transfer Straw</title>
+    <s:type>Urine Transfer Straw</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10034.jpg?v=1560605092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Urine Transfer Straw<br>
+        <strong>Price: </strong>
+            31.35 - 313.21
+            <a href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-transfer-straw-kit-bd364966">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">BD VACUTAINER® URINE COLLECTION SYSTEM</span></h3>
+<p><span>Provides a wide array of urine collection products to meet your everyday urine testing needs. The BD proprietary mercury-free urinalysis preservative maintains sample integrity for up to 72 hours at room temperature, while our microbiology preservative maintains bacterial viability for up to 48 hours at room temperature. Products help you handle urine specimens from time of collection through preservation and transport.</span></p>
+<p><span>Urine Transfer Straw, </span></p>
+<p><strong>100/bx, 10 bx/cs = 1000 Total/Case</strong></p>
+<p><span>(Continental US Only)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>Specimen Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418714746914</id>
+      <title>BX</title>
+      <s:price currency="USD">31.35</s:price>
+      <s:sku>BD364966-B</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418714746914</id>
+      <title>CS</title>
+      <s:price currency="USD">313.21</s:price>
+      <s:sku>BD364966-C</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/418706292770</id>
+    <published>2017-12-19T11:57:11-06:00</published>
+    <updated>2017-12-19T11:57:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-urine-collection-system-bd364953"/>
+    <title>BD Vacutainer® C&amp;S Transfer Straw Kit - 13 x 75mm, 4ml</title>
+    <s:type>Transfer Straw Kit</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/straw_tube_360x_d7df090e-75e5-4d37-a837-502dd59d6301.jpg?v=1560605057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Transfer Straw Kit<br>
+        <strong>Price: </strong>
+            54.54 - 212.83
+            <a href="https://aossmedicalsupply.com/products/bd-vacutainer%C2%AE-urine-collection-system-bd364953">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">BD VACUTAINER® URINE COLLECTION SYSTEM</span></h3>
+<p><span>Provides a wide array of urine collection products to meet your everyday urine testing needs. The BD proprietary mercury-free urinalysis preservative maintains sample integrity for up to 72 hours at room temperature, while our microbiology preservative maintains bacterial viability for up to 48 hours at room temperature. Products help you handle urine specimens from time of collection through preservation and transport.</span></p>
+<p><span>C&amp;S Transfer Straw Kit: 4mL Draw, 13 x 75mm C&amp;S Preservative Plus Plastic Tube &amp; Urine Transfer Straw, </span></p>
+<p><span>50/bx, 4 bx/cs = 200 Total/Case</span></p>
+<p><span>(Continental US Only)</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>Specimen Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418706292770</id>
+      <title>BX</title>
+      <s:price currency="USD">54.54</s:price>
+      <s:sku>364953-B</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/418706292770</id>
+      <title>CS</title>
+      <s:price currency="USD">212.83</s:price>
+      <s:sku>364953-B</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398486405154</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-exel-multi-draw-needle-22g-x-1-1-2"/>
+    <title>Exel Multi-Draw Needle 22G x 1 1/2&quot;</title>
+    <s:type>Blood Collection Needle</s:type>
+    <s:vendor>Exel Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/EXE26501-1-_1.jpg?v=1564463286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exel Corporation<br>
+        <strong>Type: </strong>Blood Collection Needle<br>
+        <strong>Price: </strong>
+            11.28 - 72.60
+            <a href="https://aossmedicalsupply.com/products/copy-of-exel-multi-draw-needle-22g-x-1-1-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">EXEL MULTI-DRAW NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Multi-Draw Needle, 22G x 1½", </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 10 bx/cs = 1000/ Case</span></p>
+<p>Product Description:</p>
+<div>Latex free. Sterile. Allows several samples to be taken from a single needle puncture</div>
+<div></div>
+<div>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul id="itemFeatures"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398486405154</id>
+      <title>BX</title>
+      <s:price currency="USD">11.28</s:price>
+      <s:sku>EXE 26506-B</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398486405154</id>
+      <title>CS</title>
+      <s:price currency="USD">72.60</s:price>
+      <s:sku>EXE 26506-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398484013090</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-bd-vacutainer%C2%AE-eclipse%E2%84%A2-blood-collection-needle-21-gauge-1-1-4-inch-needle-length-safety-needle-without-tubing-sterile"/>
+    <title>Exel Multi-Draw Needle 22G x 1&quot;</title>
+    <s:type>Blood Collection Needle</s:type>
+    <s:vendor>Exel Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/EXE26501-1.jpg?v=1559106116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exel Corporation<br>
+        <strong>Type: </strong>Blood Collection Needle<br>
+        <strong>Price: </strong>
+            9.50 - 95.58
+            <a href="https://aossmedicalsupply.com/products/copy-of-bd-vacutainer%C2%AE-eclipse%E2%84%A2-blood-collection-needle-21-gauge-1-1-4-inch-needle-length-safety-needle-without-tubing-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">EXEL MULTI-DRAW NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Multi-Draw Needle, 22G x 1", </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 10 bx/cs = 1000/ Case</span></p>
+<p><strong>Product Description:</strong></p>
+<div>Latex free. Sterile. Allows several samples to be taken from a single needle puncture</div>
+<div></div>
+<div>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul id="itemFeatures"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>dialysis</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>plasma</s:tag>
+    <s:tag>safety needle</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398484013090</id>
+      <title>BX</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>EXE 26505-B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398484013090</id>
+      <title>CS</title>
+      <s:price currency="USD">95.58</s:price>
+      <s:sku>EXE 26505-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398419197986</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-syringe-with-hypodermic-needle-eclipse%E2%84%A2-10-ml-22-gauge-1-1-2-inch-detachable-needle-hinged-safety-needle"/>
+    <title>BD Vacutainer® Eclipse™ Blood Collection Needle 21 Gauge 1-1/4 Inch Needle Length Safety Needle Without Tubing Sterile</title>
+    <s:type>Blood Collection Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/vacutainer-eclipse-needle_H_PAS_BC_0616-0040.png?v=1559106073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Blood Collection Needle<br>
+        <strong>Price: </strong>
+            65.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">BD VACUTAINER® ECLIPSE™ BLOOD COLLECTION NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 21G x 1¼", Pre-Attached Holder, Green Shield, </span><span face="Trebuchet MS" size="3" color="#000000">100/cs (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>These blood collection needles feature a BD Precisionglide™ blood collection needle and an integral safety shield that is already aligned with the bevel of the needle, so no adjustment is needed</li>
+<li>The immediate, one-handed activation of the safety shield allows users to help protect themselves from accidental needle stick injuries while continuing to maintain contact with their patients with their other hand</li>
+<li>Needle "Bevel up" orientation toward the pink safety shield provides easy identification of bevel position</li>
+<li>Blood collection needle with an integrated safety shield that fully covers needle after use and a pre-attached tube holder</li>
+<li>Safety shield design allows hands to remain behind the needle at all times</li>
+<li>Uses BD PrecisionGlide™ needle technology</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><a href="https://aossmedicalsupply.com/pages/physicians-license" title="Click Here to Purchase"><strong>Click Here to Purchase</strong></a></p>
+<p>Please call 1(800) 462-8310 or email <a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a> for more details on ordering this item. Thank you!</p>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398419197986</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.25</s:price>
+      <s:sku>BD368650</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383700697122</id>
+    <published>2017-11-15T13:53:19-06:00</published>
+    <updated>2017-11-15T13:53:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-specimen-container-sterile-non-sterile-4-oz"/>
+    <title>Specimen Container AOSS Polypropylene Screw Cap 120 mL (4 oz.) Sterile</title>
+    <s:type>Specimen Container</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSS_specimen_container.png?v=1563997210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Specimen Container<br>
+        <strong>Price: </strong>
+            30.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">4 oz (120ml)</span></li>
+<li>Sterile </li>
+<li>Screw on lid with label</li>
+<li>Individually packaged in poly pouch</li>
+<li>100/CS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specimen Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383700697122</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.36</s:price>
+      <s:sku>4928</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

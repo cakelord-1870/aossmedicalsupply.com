@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/cleaning-sanitation.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-01-06T09:10:36-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4710766215228</id>
+    <published>2021-01-06T09:10:36-06:00</published>
+    <updated>2021-01-06T09:10:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-1427-hand-sanitizer-1oz-square-4-pack"/>
+    <title>Dynarex, 1427 Hand Sanitizer, 1oz Square (4 PACK)</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/1427.jpg?v=1609945830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Eliminates more than 99% of many common harmful germs and bacteria</li>
+<li data-mce-fragment="1">Alcohol-based instant hand sanitizer contains 62% of Ethyl Alcohol</li>
+<li data-mce-fragment="1">Enriched with Aloe Vera to help soothe and moisturize skin</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand sanitizer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4710766215228</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4710765953084</id>
+    <published>2021-01-06T09:08:23-06:00</published>
+    <updated>2021-01-06T09:08:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-1428-hand-sanitizer-2oz-square-bottle-6-pack"/>
+    <title>Dynarex, 1428 Hand Sanitizer, 2oz Square Bottle (6 PACK)</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/1428.jpg?v=1609945704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            12.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Eliminates more than 99% of many common harmful germs and bacteria</li>
+<li data-mce-fragment="1">Alcohol-based instant hand sanitizer contains 62% of Ethyl Alcohol</li>
+<li data-mce-fragment="1">Enriched with Aloe Vera to help soothe and moisturize skin</li>
+<li data-mce-fragment="1">6 bottles included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand sanitizer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4710765953084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>1428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4492994084924</id>
+    <published>2020-04-09T10:41:07-05:00</published>
+    <updated>2020-04-09T10:41:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/purell%C2%AE-2720-12-tfx-1200-ml-dove-gray-touchless-hand-sanitizer-dispenser"/>
+    <title>Purell® 2720-12 TFX 1200 mL Dove Gray Touchless Hand Sanitizer Dispenser</title>
+    <s:type>sani</s:type>
+    <s:vendor>gojo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/270-12.jpg?v=1600266500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gojo<br>
+        <strong>Type: </strong>sani<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Automatic wall dispensers release a premeasured amount of hand sanitizer. They have battery-operated infrared sensors that detect the presence of hands for touch-free operation. These dispensers mount to a wall to free up counter and floor space in offices, restrooms, or open areas.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Hand sanitizer dispensers supply a premeasured amount of hand sanitizer to help prevent waste. They come in wall, floor, and counter models for convenient access and can also be filled with hand cleaner or hand soap. They are commonly used in restrooms, hallways, doorways, and other high-traffic areas where exposure to bacteria and germs is likely.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4492994084924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>2720-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4476685123644</id>
+    <published>2020-03-17T16:41:41-05:00</published>
+    <updated>2020-03-17T16:41:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hand-sanitizer-aoss-pure-vital%C2%AE-8-oz-alcohol-ethyl-gel-bottle"/>
+    <title>Hand Sanitizer AOSS Pure Vital® 8 oz. Alcohol (Ethyl) Gel Bottle</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/aosshandsanitizer.jpg?v=1584954562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span face="Helvetica Neue" size="2" color="#000000">AOSS Brand </span><span face="Helvetica Neue" size="2" color="#000000">extra thick hand sanitizer quickly cleans and sanitizes hands and skin. </span>Ideal for situations where water is not available. Contains 62% Ethyl alcohol. Special skin conditioner prevents skin from drying out.</h4>
+<ul>
+<li>AOSS Hand Sanitizer</li>
+<li>8 oz<br>
+</li>
+<li>Helps reduce harmful bacteria on skin.</li>
+<li>No water required for user's convenience.</li>
+<li>Dries quickly, leaves no sticky residue.</li>
+<li>Gentle formula is ideal for frequent use; moisturizes as it sanitizes.</li>
+<li>Active Ingredient: 62% Ethyl Alcohol.</li>
+<li>48/CS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4476685123644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AOSSC288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383667044386</id>
+    <published>2020-02-10T12:29:02-06:00</published>
+    <updated>2020-02-10T12:29:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-hand-sanitizer"/>
+    <title>Hand Sanitizer AOSS Pure Vital® 4 oz. Alcohol (Ethyl) Gel Bottle</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/aoss274_HandSanitizer.png?v=1559890833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            299.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span face="Helvetica Neue" size="2" color="#000000">AOSS Brand </span><span face="Helvetica Neue" size="2" color="#000000">extra thick hand sanitizer quickly cleans and sanitizes hands and skin. </span>Ideal for situations where water is not available. Contains 62% Ethyl alcohol. Special skin conditioner prevents skin from drying out.</h4>
+<ul>
+<li>AOSS Hand Sanitizer</li>
+<li>4 oz. (118 mL)</li>
+<li>Helps reduce harmful bacteria on skin.</li>
+<li>No water required for user's convenience.</li>
+<li>Dries quickly, leaves no sticky residue.</li>
+<li>Gentle formula is ideal for frequent use; moisturizes as it sanitizes.</li>
+<li>Active Ingredient: 62% Ethyl Alcohol.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383667044386</id>
+      <title>CS/60</title>
+      <s:price currency="USD">299.40</s:price>
+      <s:sku>AOSSC274CASE</s:sku>
+      <s:grams>7938</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3847197622306</id>
+    <published>2019-08-01T14:11:23-05:00</published>
+    <updated>2019-08-01T14:11:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/purell-3659-instant-hand-sanitizer-12-oz-pump-bottle-case-of-12"/>
+    <title>PURELL 3659 Instant Hand Sanitizer, 12 oz Pump Bottle (Case of 12)</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Gojo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7159yqfV0yL._SL1500.jpg?v=1564690134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gojo<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This alcohol-based formula kills 99.99 percent of most common germs that may cause disease and meets hand sanitizer guidelines provided by centers for disease control (CDC), joint commission (JC) and other organizations. Convenient bottle size. Dermatologist-tested. Specially formulated with moisturizers to leave hands feeling soft and refreshed even afer repeated use.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alcohol gel</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>hand sanitizer</s:tag>
+    <s:tag>purell</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3847197622306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>3659-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3847094665250</id>
+    <published>2019-08-01T13:24:23-05:00</published>
+    <updated>2019-08-01T13:24:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aloeguard%C2%AE-antimicrobial-soap-pump-bottle-18-fl-oz-12-cs"/>
+    <title>AloeGuard® Antimicrobial Soap Pump Bottle (18 fl. oz.) 12/CS</title>
+    <s:type>Antimicrobial Soap</s:type>
+    <s:vendor>Clorox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv13602.jpg?v=1564690088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clorox<br>
+        <strong>Type: </strong>Antimicrobial Soap<br>
+        <strong>Price: </strong>
+            131.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Triclosan-free antimicrobial soap contains 0.5% PCMX to kill germs on skin. Soothing aloe vera-infused formula moisturizes and softens skin. Pleasant fragrance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antimicrobial</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3847094665250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">131.99</s:price>
+      <s:sku>7760</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760173383714</id>
+    <published>2019-06-10T14:13:17-05:00</published>
+    <updated>2019-06-10T14:13:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/windex-multi-surface-disinfectant-lemon-23-oz-8-spray-bottles"/>
+    <title>Windex Multi-Surface Disinfectant, Lemon, 23 oz, 8 Spray Bottles</title>
+    <s:type>Multi-surface Disinfectanct</s:type>
+    <s:vendor>SC Johnson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/580539.jpg?v=1560363865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SC Johnson<br>
+        <strong>Type: </strong>Multi-surface Disinfectanct<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Streak-free shine. Cleans, shines and kills 99.9% of germs, viruses, and bacteria on hard, non-porous surfaces. Works on countertops like Corian, sealed granite, sealed marble (real or synthetic), formica and exterior surfaces of appliances like microwaves, stovetops, kitchen sinks, stainless steel, glazed ceramic tile, windows, plastic, vinyl, glass, and more.</span></div>
+<ul>
+<li>Leaves no dull residue behind</li>
+<li>Kills 99.9% of germs</li>
+<li>Clean windows, glass and much more</li>
+<li>Works on multiple surfaces</li>
+<li>10-second sanitization</li>
+<li>Lemon scent</li>
+<li>23-oz. Trigger spray bottles</li>
+<li>8 Bottle per carton</li>
+<li>Windex 305498 Multi-Surface Disinfectant Cleaner</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaners</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>Disinfectants</s:tag>
+    <s:tag>janitorial supplies</s:tag>
+    <s:tag>windex cleaners</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760173383714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>703469</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3759714304034</id>
+    <published>2019-06-10T09:29:32-05:00</published>
+    <updated>2019-06-10T09:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/gojo%C2%AE-purell%C2%AE-advanced-instant-hand-sanitizer-gel"/>
+    <title>GOJO® Purell® Advanced Instant Hand Sanitizer Gel</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Gojo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i10583.jpg?v=1560182174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gojo<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            155.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Refreshing gel. Kills more than 99.99% of most common germs that may cause illness. Outperforms other hand sanitizers ounce-for-ounce. Clinically-proven to maintain skin health.</span></p>
+<ul>
+<li>Enhanced with four skin conditioners that are clinically proven to help maintain skin health</li>
+<li>Compatible with GOJO Purell Dispenser 9621-12 (Hantover item 33056)</li>
+<li>Sanitary-sealed bag</li>
+<li>Complies with FDA regulations for cosmetic and over-the-counter drug products</li>
+</ul>
+<p>Usually ships between 7-14 business day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gojo hand sanitizer</s:tag>
+    <s:tag>hand sanitizer</s:tag>
+    <s:tag>purell</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3759714304034</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.99</s:price>
+      <s:sku>9656-12</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3734237020194</id>
+    <published>2019-05-24T08:15:50-05:00</published>
+    <updated>2019-05-24T08:15:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sannytize-hand-sanitizer-1oz-flip-cap"/>
+    <title>SannyTize Hand Sanitizer, 1oz Flip Cap</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/04-1427.jpg?v=1583930436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Alcohol-based instant hand sanitizer contains 70% of Ethyl Alcohol </li>
+<li>Enriched with Aloe Vera to help soothe and moisturize skin </li>
+<li>Comes in many convenient sizes for a variety of market segments</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand sanitizer</s:tag>
+    <s:tag>mini hand sanitizer</s:tag>
+    <s:tag>sannytize</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3734237020194</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1427-NDC</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1757808721954</id>
+    <published>2019-03-11T10:14:14-05:00</published>
+    <updated>2019-03-11T10:14:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/ipa-device-site-scrub%C2%AE-isopropyl-alcohol-70-sterile"/>
+    <title>IPA Device Site-Scrub® Isopropyl Alcohol, 70% Sterile</title>
+    <s:type>IPA Device</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/727060.jpg?v=1584955480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>IPA Device<br>
+        <strong>Price: </strong>
+            76.00 - 340.00
+            <a href="https://aossmedicalsupply.com/products/ipa-device-site-scrub%C2%AE-isopropyl-alcohol-70-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IPA device is designed to clean the intraluminal (female luers) and extraluminal surfaces of catheter hubs, injection ports, caps and stopcocks through a patent-pending friction scrub design.</p>
+<ul>
+<li>Isopropyl Alcohol, 70%</li>
+<li>IPA Device</li>
+<li>Sterile</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catheter</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>intavenous therapy</s:tag>
+    <s:tag>IV therapy</s:tag>
+    <s:tag>leurs</s:tag>
+    <s:tag>prep pads</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1757808721954</id>
+      <title>100/BX</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>3882100-B</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1757808721954</id>
+      <title>500/CS</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>9882100-CS</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/399062892578</id>
+    <published>2017-11-29T17:25:23-06:00</published>
+    <updated>2017-11-29T17:25:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hand-sanitizer-avagard%E2%84%A2-d-16-oz-alcohol-ethyl-gel-pump-bottle"/>
+    <title>Hand Sanitizer Avagard™ D 16 oz. Alcohol (Ethyl) Gel Pump Bottle</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/3M-Avagard-Instant-Hand-Antiseptic-with-Moisturizers-551368-MEDIUM_IMAGE.jpg?v=1559890836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            170.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Instant Hand Sanitizer Antiseptic Pump Bottle, 500mL, 12/cs </span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">(US Only) (Item is considered HAZMAT and cannot ship via Air)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/399062892578</id>
+      <title>Default Title</title>
+      <s:price currency="USD">170.60</s:price>
+      <s:sku>9222</s:sku>
+      <s:grams>2858</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383190564898</id>
+    <published>2017-11-15T05:20:04-06:00</published>
+    <updated>2017-11-15T05:20:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/alcavis-50"/>
+    <title>Alcavis 50 - High Level Disinfectant RTU Liquid 250 mL Bottle</title>
+    <s:type>High Level Disinfectant</s:type>
+    <s:vendor>Angelini Pharma Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ALCAVS_741638.JPG?v=1557372362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Angelini Pharma Inc<br>
+        <strong>Type: </strong>High Level Disinfectant<br>
+        <strong>Price: </strong>
+            212.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angelini Pharma</p>
+<p>250 ml; 24/cs</p>
+<ul>
+<li>Effective high level disinfectant, fast-acting against bacteria, fungi, spores, mycobacteria and viruses</li>
+<li><span>Compatible with silicone and polyurethane catheters, connectors and caps</span></li>
+<li>Requires 2 minutes contact time for disinfection</li>
+<li>Compatible with all silicone and polyurethane catheters, connectors and caps currently on the market</li>
+<li>Clear non-staining solution for dialysis disinfection</li>
+</ul>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="text-nowrap">Manufacturer #</td>
+<td>15508</td>
+</tr>
+<tr>
+<td class="text-nowrap">Brand</td>
+<td>Alcavis 50</td>
+</tr>
+<tr>
+<td class="text-nowrap">Manufacturer</td>
+<td>Angelini Pharma Inc</td>
+</tr>
+<tr>
+<td class="text-nowrap">Activation Requirement</td>
+<td>RTU</td>
+</tr>
+<tr>
+<td class="text-nowrap">Active Ingredients</td>
+<td>0.55% Sodium Hypochlorite</td>
+</tr>
+<tr>
+<td class="text-nowrap">Application</td>
+<td>High Level Disinfectant</td>
+</tr>
+<tr>
+<td class="text-nowrap">Container Type</td>
+<td>Bottle</td>
+</tr>
+<tr>
+<td class="text-nowrap">Form</td>
+<td>Liquid</td>
+</tr>
+<tr>
+<td class="text-nowrap">Scent</td>
+<td>Chlorine Scent</td>
+</tr>
+<tr>
+<td class="text-nowrap">UNSPSC Code</td>
+<td>42281604</td>
+</tr>
+<tr>
+<td class="text-nowrap">Usage</td>
+<td>Max 180 Day Use (Once Opened)</td>
+</tr>
+</tbody>
+</table>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Disinfectants</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383190564898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">212.00</s:price>
+      <s:sku>15508</s:sku>
+      <s:grams>7457</s:grams>
+    </s:variant>
+  </entry>
+</feed>

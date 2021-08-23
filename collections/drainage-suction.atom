@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/drainage-suction.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-07-15T16:28:08-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819242094626</id>
+    <published>2019-07-15T16:28:08-05:00</published>
+    <updated>2019-07-15T16:28:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-suction-tubing-with-straw-connector"/>
+    <title>Dynarex Suction Tubing with Straw Connector</title>
+    <s:type>Suction Tubing</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/30135.jpg?v=1563402258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Tubing<br>
+        <strong>Price: </strong>
+            22.67 - 50.67
+            <a href="https://aossmedicalsupply.com/products/dynarex-suction-tubing-with-straw-connector">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Flexible tubing with straw connector</li>
+<li>Non-conductive</li>
+<li>Sterile</li>
+<li>4680 is not sterile</li>
+<li>Used for connecting suction sources to suction catheters and yankauers</li>
+<li>Latex free</li>
+<li>Sold by the case</li>
+</ul>
+<p><span>Dynarex Medical Suction Tubing is non-conductive and latex free. The Suction Tubing is made from flexible tubing that includes an attached straw connector. Dynarex Tubing is used for connecting suction sources to suction catheters and yankauers. The Suction Tubing is sold by the case.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>respiratory</s:tag>
+    <s:tag>respiratory accessories</s:tag>
+    <s:tag>Suction</s:tag>
+    <s:tag>suction equipment</s:tag>
+    <s:tag>suction supplies</s:tag>
+    <s:tag>suction tubing</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x 6&apos; and 3/16&quot; x 18&quot;</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>4680</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x 18&apos; - 100/CS</title>
+      <s:price currency="USD">30.67</s:price>
+      <s:sku>4681</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x  6&quot; - 50/CS</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>4682</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x 10&apos; - 50/CS</title>
+      <s:price currency="USD">38.67</s:price>
+      <s:sku>4683</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x 12&apos; - 20/CS</title>
+      <s:price currency="USD">22.67</s:price>
+      <s:sku>4684</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>3/16&quot; x 20&apos; - 20/CS</title>
+      <s:price currency="USD">30.67</s:price>
+      <s:sku>4685</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>1/4&quot; x 6&apos; - 50/CS</title>
+      <s:price currency="USD">37.33</s:price>
+      <s:sku>4686</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>1/4&quot; x 10&apos; - 50/CS</title>
+      <s:price currency="USD">50.67</s:price>
+      <s:sku>4687</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>1/4&quot; x 12&apos; - 20/CS</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4688</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>1/4&quot; x 20&apos; - 20/CS</title>
+      <s:price currency="USD">42.67</s:price>
+      <s:sku>4689</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819242094626</id>
+      <title>9/32&quot; x 6&apos; - 50/CS</title>
+      <s:price currency="USD">46.67</s:price>
+      <s:sku>4693</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819234852898</id>
+    <published>2019-07-15T16:20:05-05:00</published>
+    <updated>2019-07-15T16:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-dynavac-ems-suction-canister-1200cc-40-cs"/>
+    <title>Dynarex DynaVac EMS Suction Canister, 1200cc, 40/Cs</title>
+    <s:type>Suction Canister</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4675.jpg?v=1563402257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Canister<br>
+        <strong>Price: </strong>
+            125.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Durable plastic container system</li>
+<li>Float shut-off with built-in filter</li>
+<li>Foam guard and float valve ultrasonically welded in place</li>
+<li>Universal design easily fits wall mounts</li>
+<li>Port caps attached to lid</li>
+<li>Patient port designed with 20° angle (1200cc model) or straight port (800cc model)</li>
+</ul>
+<p><span>Dynarex 4675, DynaVac 1200cc EMS Suction Canister, is designed to fit EMS vehicles. Superior quality, durable plastic. Lids constructed with common ports and connectors. A safe disposable option for infectious medical waste. 40/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>respiration</s:tag>
+    <s:tag>Suction</s:tag>
+    <s:tag>suction canister</s:tag>
+    <s:tag>suction cannister</s:tag>
+    <s:tag>suction equipment</s:tag>
+    <s:tag>suction supplies</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819234852898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.75</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819231477794</id>
+    <published>2019-07-15T16:17:01-05:00</published>
+    <updated>2019-07-15T16:17:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-superstick-yankauer-straight-tip-vented-50-cs"/>
+    <title>Dynarex SuperStick Yankauer -straight tip/vented, 50/cs</title>
+    <s:type>Suction Tubing</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SuperStick_Yankauer_8cc056b2-7456-4b8e-abde-45599943027a.jpg?v=1563402259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Tubing<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Larger design for the need of greater respiratory suctioning procedures</li>
+<li>Hard tipped suction device with larger belly for efficiency and unrestricted flow</li>
+<li>Comes with a thumb controlled vent for safety</li>
+<li>Individually sealed in easy-open, peel-strip sterile packages</li>
+<li>Suction tube made from medical grade PVC</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EMS</s:tag>
+    <s:tag>respiratory</s:tag>
+    <s:tag>suction</s:tag>
+    <s:tag>Suction Equipment</s:tag>
+    <s:tag>suction tubing</s:tag>
+    <s:tag>yankauer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819231477794</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>4697</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819228168226</id>
+    <published>2019-07-15T16:12:26-05:00</published>
+    <updated>2019-07-15T16:12:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-superstick-with-suction-tubing-1-4-x-3ft-50-cs"/>
+    <title>Dynarex SuperStick with Suction Tubing, 1/4&quot; x 3ft, 50/cs</title>
+    <s:type>Suction Tubing</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SuperStick_Yankauer.jpg?v=1563402259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Tubing<br>
+        <strong>Price: </strong>
+            148.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>Larger design for the need of greater respiratory suctioning procedures</li>
+<li>Hard tipped suction device with larger belly for efficiency and unrestricted flow</li>
+<li>Comes with a thumb controlled vent for safety</li>
+<li>Individually sealed in easy-open, peel-strip sterile packages</li>
+<li>Suction tube made from medical grade PVC</li>
+</ul>
+<p>Dynarex 4699, SuperStick Yankauer with Suction Tubing, Hard Tipped Suction Device, Medical Grade PVC Construction</p>
+<p>Dynarex 4699, SuperStick Yankauer with Suction Tubing, Larger design for the need of greater respiratory suctioning procedures. Hard tipped suction device with larger belly for efficiency and unrestricted flow. Comes with a thumb controlled vent for safety. Individually sealed in easy-open, peel-strip sterile packages. Suction tube made from medical grade PVC. 1/4" X 3ft 50kit/cs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EMS</s:tag>
+    <s:tag>respiratory</s:tag>
+    <s:tag>suction</s:tag>
+    <s:tag>Suction Equipment</s:tag>
+    <s:tag>suction tubing</s:tag>
+    <s:tag>yankauer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819228168226</id>
+      <title>Default Title</title>
+      <s:price currency="USD">148.25</s:price>
+      <s:sku>4699</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819227021346</id>
+    <published>2019-07-15T16:04:52-05:00</published>
+    <updated>2019-07-15T16:04:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-yankauer-with-suction-tubing"/>
+    <title>Yankauer w/Suction Tubing - Bulb Tip/ Non-Vented, 1/4&quot;x6&apos;, 50/cs</title>
+    <s:type>Suction Tubing</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4698.jpg?v=1563402293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Tubing<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><b><i>Dynarex dependable Yankauer handles with bulb and straight tips and suction tubing</i></b></span></p>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>For convenient, affordable respiratory suctioning procedures</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Individually sealed in easy-open, peel-strip packages</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Medical grade PVC</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Sterile suction tool for removing particulates and viscous material</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Bulb tip to minimize tissue trauma</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Ribbed connector for secure attachment to suction tubing</i></span></li>
+<li><span face="Arial" color="#000000" size="2" style="color: #000000; font-family: Arial; font-size: small;"><i>Blue-tinted, transparent material with slip-resistant handle</i></span></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EMS</s:tag>
+    <s:tag>respiratory</s:tag>
+    <s:tag>suction</s:tag>
+    <s:tag>Suction Equipment</s:tag>
+    <s:tag>suction tubing</s:tag>
+    <s:tag>yankauer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819227021346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>4698</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3811820896290</id>
+    <published>2019-07-10T16:55:50-05:00</published>
+    <updated>2019-07-10T16:55:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-4682-suction-tubing-w-straw-connector-3-16-x-6-50-case"/>
+    <title>Dynarex 4682 Suction Tubing w / Straw Connector - 3/16&quot; x 6&apos;, 50 / Case</title>
+    <s:type>Suction Tubing</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/DYN4684_-_MULTI.jpg?v=1562834884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Tubing<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span id="ctl00_MainContentHolder_lblDescriptionHeader">Overview for the 4682 Suction Tubing w / Straw Connector - 3/16" x 6', 50 / Case</span></h2>
+<p>The Dynarex Suction Tubing w/ Straw Connector is a non-conductive and latex free tubing which is flexible and has a straw connector. Its an awesome choice for connecting suction sources to suction catheters and yankauers.</p>
+<h3><strong>Available Options</strong></h3>
+<p>The Dynarex Suction Tubing w/ Straw Connector comes in a variety of sizes and quantities:</p>
+<ul>
+<li>3/16" x 6' and 3/16" x 18", 50 / Case, Combo Pack (4680)</li>
+<li>3/16" x 18", 100 / Case (4681)</li>
+<li>3/16" x 6', 50 / Case (4682)</li>
+<li>3/16" x 10', 50 / Case (4683)</li>
+<li>3/16" x 12', 20 / Case (4684)</li>
+<li>3/16" x 20', 20 / Case (4685)</li>
+<li>1/4" x 6', 50 / Case (4686)</li>
+<li>1/4" x 10', 50 / Case (4687)</li>
+<li>1/4" x 12', 20 / Case (4688)</li>
+<li>1/4" x 20', 20 / Case (4689)</li>
+<li>9/32" x 6', 50 / Case (4693)</li>
+</ul>
+<p>Product ships directly from vendor within 7-10 business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>respiratory</s:tag>
+    <s:tag>straw connector</s:tag>
+    <s:tag>suction</s:tag>
+    <s:tag>Suction Catheter</s:tag>
+    <s:tag>suction equipment</s:tag>
+    <s:tag>suction supplies</s:tag>
+    <s:tag>suction tubing</s:tag>
+    <s:tag>suction with straw connector</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3811820896290</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>4682</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

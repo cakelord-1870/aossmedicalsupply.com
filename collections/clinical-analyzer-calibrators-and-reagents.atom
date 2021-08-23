@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/clinical-analyzer-calibrators-and-reagents.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-01-07T12:29:00-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4711411056700</id>
+    <published>2021-01-07T12:29:00-06:00</published>
+    <updated>2021-01-07T12:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/histology-reagent-trichloroacetic-acid-acs-grade-80-4-oz"/>
+    <title>Histology Reagent Trichloroacetic Acid ACS Grade 80% 4 oz.</title>
+    <s:type>Trichloroacetic Acid</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/400569.jpg?v=1610044143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Trichloroacetic Acid<br>
+        <strong>Price: </strong>
+            163.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Trichloroacetic Acid 80% 4oz Each</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4711411056700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">163.88</s:price>
+      <s:sku>400569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

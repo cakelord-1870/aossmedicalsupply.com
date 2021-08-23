@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/i-v-therapy-accessories.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-01T04:45:42-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/400625074210</id>
+    <published>2017-12-01T04:45:42-06:00</published>
+    <updated>2017-12-01T04:45:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/disinfecting-caps-curos%E2%84%A2"/>
+    <title>Disinfecting Caps Curos™</title>
+    <s:type>Disinfecting Caps</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/987068.jpg?v=1559106107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Disinfecting Caps<br>
+        <strong>Price: </strong>
+            1192.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Stopper Disinfecting Cap for Open Female Luer, Individual,</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">270/bx, 8 bx/cs (US Only) = 2,160 Caps/ Case</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Disinfects and protects needleless connectors</li>
+<li>Helps reduce the risk of contaminants from entering the I.V. port through the catheter, post-insertion</li>
+<li>Protects for up to 7 days if not removed</li>
+<li>Curos products have a distinctive green color that allows clinicians to verify and measure compliance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>intavenous therapy</s:tag>
+    <s:tag>IV Accessories</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/400625074210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1192.18</s:price>
+      <s:sku>MMM CSA1-270</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

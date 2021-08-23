@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/compression-garments.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-13T14:15:07-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413992615970</id>
+    <published>2017-12-13T14:15:07-06:00</published>
+    <updated>2017-12-13T14:15:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/anti-embolism-stockings-c-a-r-e-%E2%84%A2-knee-high-medium-regular-white-inspection-toe"/>
+    <title>Anti-Embolism Stockings C.A.R.E.™ Knee High Medium, Regular White Inspection Toe</title>
+    <s:type>Anti-embolism Stockings</s:type>
+    <s:vendor>Albahealth, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/carolon-anti-embolism-cap-knee-high-inspection-toe-stockings-18-mmhg--987.png?v=1557372441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Albahealth, LLC<br>
+        <strong>Type: </strong>Anti-embolism Stockings<br>
+        <strong>Price: </strong>
+            72.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">ALBA C.A.R.E.™ ANTI-EMBOLISM STOCKINGS</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Knee-Length Anti-Embolism Stocking, Medium Regular, 12 ps</span><span face="Helvetica Neue" size="2" color="#000000">/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Compression Garments</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413992615970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.48</s:price>
+      <s:sku>ABH 553-02</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

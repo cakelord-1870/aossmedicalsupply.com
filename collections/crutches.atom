@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/crutches.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-04T10:04:07-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404108247074</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/universal-aluminum-crutches-tall-adult-p501053"/>
+    <title>Universal Aluminum Crutches - Tall Adult 8/Case</title>
+    <s:type>Underarm Crutch</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17419_1b00d14a-e475-4969-a457-efbb0bc60010.jpg?v=1585260753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Underarm Crutch<br>
+        <strong>Price: </strong>
+            180.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div>
+<div>
+<div>
+<p>Feature simple push button height adjust- ment in 1” increments. The handgrip position is readily adjusted with wing nuts, and underarm and handgrip pads are comfortable and durable. Designed to meet the requirements of HCPCS Code E0114. Latex Free</p>
+<p>Made of lightweight, anodized aluminum Reinforced center tube and foot piece</p>
+<ul>
+<li>8 Pair per Case</li>
+<li><span>Crutch, Tall Adult, Aluminum, Patient Height 5ft 10" to 6ft 6", Crutch Height 53" to 61", Latex Free (LF), 350 lb Weight Capacity, 8 pr/cs (12 cs/plt)</span></li>
+</ul>
+<span>Latex-free. Features push-button adjustment and patient height scale printed on the crutches for fast, accurate fitting. Includes underarms pads, handgrips and tips. Wing nut adjustment for hand grips. 350 lb. weight capacity.</span>
+</div>
+<div>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crutches</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404108247074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.40</s:price>
+      <s:sku>NDC P501053</s:sku>
+      <s:grams>16942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404103102498</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/universal-aluminum-crutches-adult-p501045"/>
+    <title>Universal Aluminum Crutches - Adult 8/ Case</title>
+    <s:type>Underarm Crutch</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17419_23dc032f-bbba-4f9e-b657-81a7cd65590a.jpg?v=1585260749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Underarm Crutch<br>
+        <strong>Price: </strong>
+            180.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div>
+<div>
+<div>
+<p>Feature simple push button height adjust- ment in 1” increments. The handgrip position is readily adjusted with wing nuts, and underarm and handgrip pads are comfortable and durable. Designed to meet the requirements of HCPCS Code E0114. Latex Free</p>
+<p>Made of lightweight, anodized aluminum Reinforced center tube and foot piece</p>
+<ul>
+<li>8 Pair per Case</li>
+<li>Crutch, Adult, Aluminum, Patient Height 5ft 2" to 5ft 10", Crutch Height 45" to 53", Latex Free (LF), 350 lb Weight Capacity, 8 pr/cs (12 cs/plt)</li>
+</ul>
+Latex-free. Features push-button adjustment and patient height scale printed on the crutches for fast, accurate fitting. Includes underarms pads, handgrips and tips. Wing nut adjustment for hand grips. 350 lb. weight capacity.</div>
+<div>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crutches</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404103102498</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.40</s:price>
+      <s:sku>NDC P501045</s:sku>
+      <s:grams>14152</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404092682274</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/universal-aluminum-crutches-youth-p501307"/>
+    <title>Universal Aluminum Crutches - Youth 8/Case</title>
+    <s:type>Underarm Crutch</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17419_f5cd5b4b-6d09-47c5-9db3-78fe69f09802.jpg?v=1585260754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Underarm Crutch<br>
+        <strong>Price: </strong>
+            180.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div>
+<div>
+<div>
+<p>Feature simple push button height adjust- ment in 1” increments. The handgrip position is readily adjusted with wing nuts, and underarm and handgrip pads are comfortable and durable. Designed to meet the requirements of HCPCS Code E0114. Latex Free</p>
+<p>Made of lightweight, anodized aluminum Reinforced center tube and foot piece</p>
+<ul>
+<li>8 Pair per Case</li>
+<li><span>Crutch, Youth, Aluminum, Patient Height 4ft 6" to 5ft 2", Crutch Height 37" to 45", Latex Free (LF), 8 pr/cs (20 cs/plt)</span></li>
+</ul>
+<span>Latex-free. Features push-button adjustment and patient height scale printed on the crutches for fast, accurate fitting. Includes underarms pads, handgrips and tips. Wing nut adjustment for hand grips. 350 lb. weight capacity.</span>
+</div>
+<div>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crutches</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404092682274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.40</s:price>
+      <s:sku>NDC P501037</s:sku>
+      <s:grams>13018</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404065320994</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/universal-aluminum-crutches"/>
+    <title>Universal Aluminum Crutches - Pedriatric 8/Case</title>
+    <s:type>Underarm Crutch</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17419.jpg?v=1585260751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Underarm Crutch<br>
+        <strong>Price: </strong>
+            180.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div>
+<div>
+<div>
+<p>Feature simple push button height adjust- ment in 1” increments. The handgrip position is readily adjusted with wing nuts, and underarm and handgrip pads are comfortable and durable. Designed to meet the requirements of HCPCS Code E0114. Latex Free</p>
+<p>Made of lightweight, anodized aluminum Reinforced center tube and foot piece</p>
+<ul>
+<li>8 Pair per Case</li>
+<li>Crutch, Pediatric, Aluminum, Patient Height 4ft to 4 ft 6", Crutch Height 31½" to 37½", Latex Free (LF), 8 pr/cs (20 cs/plt)</li>
+</ul>
+Latex-free. Features push-button adjustment and patient height scale printed on the crutches for fast, accurate fitting. Includes underarms pads, handgrips and tips. Wing nut adjustment for hand grips. 350 lb. weight capacity.</div>
+<div>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crutches</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404065320994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.40</s:price>
+      <s:sku>NDC P501031</s:sku>
+      <s:grams>11635</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/vital-signs-monitor.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-03-13T10:52:18-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1761684488226</id>
+    <published>2019-03-13T10:52:18-05:00</published>
+    <updated>2019-03-13T10:52:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/riester-rvs-100-advanced-vital-signs-monitor-w-8-color-touch-screen-nibp-spo2-temperature"/>
+    <title>Riester RVS 100 Advanced Vital Signs Monitor w/8&quot; Color Touch Screen NIBP+SpO2+Temperature</title>
+    <s:type>Vital Signs Monitors</s:type>
+    <s:vendor>Riester</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l1600_1_90e5cee7-7568-4fc3-b8cc-1f3e5893c038.jpg?v=1572543605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riester<br>
+        <strong>Type: </strong>Vital Signs Monitors<br>
+        <strong>Price: </strong>
+            1991.87 - 2349.24
+            <a href="https://aossmedicalsupply.com/products/riester-rvs-100-advanced-vital-signs-monitor-w-8-color-touch-screen-nibp-spo2-temperature">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table align="center">
+<tbody>
+<tr>
+<td>
+<div id="ds_div">
+<div>
+<div>
+<div></div>
+</div>
+<div>
+<span face="Arial"><span> </span></span>Riester’s RVS-100 is an advanced vital signs monitor which offers pulse oximetry, blood pressure and temperature measurements. The device has ‘Monitor‘, ‘Spot-Check‘ and ‘Triage‘ profile options and a high performance touchscreen.</div>
+<div>
+<div><span face="Arial"> </span></div>
+<div><span face="Arial">The RVS - 100 can communicate through a wired or wireless connection to the hospital’s EMR, according to the HL7 standard. The highly flexible, modular design offers many configurations and settings to suit the needs of hospitals, clinics and private practices, as well as long-term care settings.</span></div>
+<div><span face="Arial"> </span></div>
+<div>
+<div><b>Product Details</b></div>
+<div>
+<ul>
+<li>3 measurement modes (Monitor, Spot-check, Triage)</li>
+<li>High-sensitivity 8” TFT color touch screen with self-explanatory usr interface and integrated help-     function</li>
+<li>Displays SYS, DIA, MAP, Pulse, Temp, Plethysmogram</li>
+<li>Clinical grade NIBP* including averaging mode </li>
+<li>Programmable NIBP averaging mode (2-5 readings)</li>
+<li>Riester, Masimo* or Nellcor* Oximax SpO2</li>
+<li>Predictive Thermometer (Filac 3000)</li>
+<li>Connectivity with the EMR - follows the HL7 standard</li>
+<li>LAN Connectivity as standard</li>
+<li>Programmable alarms (audible, visible) with 3 priority levels</li>
+<li>Supports nurse call RJ11 port</li>
+<li>Available as wall, desk and floor model</li>
+<li>Can be expanded to wall diagnostic station</li>
+<li>Internal memory for 5,000 measurements</li>
+<li>Lithium-ion battery with up to 17 hours ON time</li>
+<li>     (*includes neonate mode)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>riester</s:tag>
+    <s:tag>TACHC</s:tag>
+    <s:tag>TACHC Featured Products</s:tag>
+    <s:tag>vital sign monitor</s:tag>
+    <s:tag>vital signs</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1761684488226</id>
+      <title>Base Unit</title>
+      <s:price currency="USD">1991.87</s:price>
+      <s:sku>1960-RRBXU-1</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1761684488226</id>
+      <title>Including Stand and Wifi</title>
+      <s:price currency="USD">2349.24</s:price>
+      <s:sku>1960-RRBX-WIFIU-2</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1761680883746</id>
+    <published>2019-03-13T10:52:18-05:00</published>
+    <updated>2019-03-13T10:52:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/riester-rvs-100-advanced-vital-signs-patient-monitor-with-nibp-spo2-1960-rrxxu"/>
+    <title>Riester RVS 100 Advanced Vital Signs Patient Monitor with NIBP SpO2 1960-RRXXU</title>
+    <s:type>Vital Signs Monitors</s:type>
+    <s:vendor>Riester</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l1600_1_f4fb961f-4201-42af-8771-44393c5c2ddd.jpg?v=1585072946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riester<br>
+        <strong>Type: </strong>Vital Signs Monitors<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table align="center">
+<tbody>
+<tr>
+<td>
+<div id="ds_div">
+<div>
+<div>
+<div></div>
+</div>
+<div>
+<span face="Arial"><span> </span></span>Riester’s RVS-100 is an advanced vital signs monitor which offers pulse oximetry, blood pressure and temperature measurements. The device has ‘Monitor‘, ‘Spot-Check‘ and ‘Triage‘ profile options and a high performance touchscreen.</div>
+<div>
+<div><span face="Arial"> </span></div>
+<div><span face="Arial">The RVS - 100 can communicate through a wired or wireless connection to the hospital’s EMR, according to the HL7 standard. The highly flexible, modular design offers many configurations and settings to suit the needs of hospitals, clinics and private practices, as well as long-term care settings.</span></div>
+<div><span face="Arial"> </span></div>
+<div>
+<div><b>Product Details</b></div>
+<div>
+<ul>
+<li>3 measurement modes (Monitor, Spot-check, Triage)</li>
+<li>High-sensitivity 8” TFT color touch screen with self-explanatory usr interface and integrated help-     function</li>
+<li>Displays SYS, DIA, MAP, Pulse, Temp, Plethysmogram</li>
+<li>Clinical grade NIBP* including averaging mode </li>
+<li>Programmable NIBP averaging mode (2-5 readings)</li>
+<li>Riester, Masimo* or Nellcor* Oximax SpO2</li>
+<li>Predictive Thermometer (Filac 3000)</li>
+<li>Connectivity with the EMR - follows the HL7 standard</li>
+<li>LAN Connectivity as standard</li>
+<li>Programmable alarms (audible, visible) with 3 priority levels</li>
+<li>Supports nurse call RJ11 port</li>
+<li>Available as wall, desk and floor model</li>
+<li>Can be expanded to wall diagnostic station</li>
+<li>Internal memory for 5,000 measurements</li>
+<li>Lithium-ion battery with up to 17 hours ON time</li>
+<li>     (*includes neonate mode)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vital sign monitor</s:tag>
+    <s:tag>vital signs</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1761680883746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>1960-RRXXU</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1761678164002</id>
+    <published>2019-03-13T10:52:18-05:00</published>
+    <updated>2019-03-13T10:52:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/riester-rvs-100-advanced-vital-signs-patient-monitor-nibp-spo2-temp-printer"/>
+    <title>Riester RVS 100 Advanced Vital Signs Patient Monitor NIBP SpO2 Temp. &amp; Printer</title>
+    <s:type>Vital Signs Monitors</s:type>
+    <s:vendor>Riester</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l1600_1.jpg?v=1585072944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riester<br>
+        <strong>Type: </strong>Vital Signs Monitors<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table align="center">
+<tbody>
+<tr>
+<td>
+<div id="ds_div">
+<div>
+<span face="Arial"><b>Riester RVS 100 Advanced Vital Signs Patient Monitor with NIBP SpO2 Temp. &amp; Printer </b></span><span face="Arial"><span>1960-RRBPU NIBP, Riester SpO2, Temp, Printer, US-plug</span></span>
+</div>
+<div>
+<div>
+<div></div>
+</div>
+<div><span face="Arial"><span> </span></span></div>
+<div>
+<div><span face="Arial">Riester’s RVS-100 is an advanced vital signs monitor which offers pulse oximetry, blood pressure and temperature measurements. The device has ‘Monitor‘, ‘Spot-Check‘ and ‘Triage‘ profile options and a high performance touchscreen.</span></div>
+<div><span face="Arial"> </span></div>
+<div><span face="Arial">The RVS - 100 can communicate through a wired or wireless connection to the hospital’s EMR, according to the HL7 standard. The highly flexible, modular design offers many configurations and settings to suit the needs of hospitals, clinics and private practices, as well as long-term care settings.</span></div>
+<div><span face="Arial"> </span></div>
+<div>
+<div><b>Product Details</b></div>
+<div>
+<ul>
+<li>3 measurement modes (Monitor, Spot-check, Triage)</li>
+<li>High-sensitivity 8” TFT color touch screen with self-explanatory usr interface and integrated help-     function</li>
+<li>Displays SYS, DIA, MAP, Pulse, Temp, Plethysmogram</li>
+<li>Clinical grade NIBP* including averaging mode </li>
+<li>Programmable NIBP averaging mode (2-5 readings)</li>
+<li>Riester, Masimo* or Nellcor* Oximax SpO2</li>
+<li>Predictive Thermometer (Filac 3000)</li>
+<li>Connectivity with the EMR - follows the HL7 standard</li>
+<li>LAN Connectivity as standard</li>
+<li>Programmable alarms (audible, visible) with 3 priority levels</li>
+<li>Supports nurse call RJ11 port</li>
+<li>Available as wall, desk and floor model</li>
+<li>Can be expanded to wall diagnostic station</li>
+<li>Internal memory for 5,000 measurements</li>
+<li>Lithium-ion battery with up to 17 hours ON time</li>
+<li>     (*includes neonate mode)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vital sign monitor</s:tag>
+    <s:tag>vital signs</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1761678164002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2200.00</s:price>
+      <s:sku>1960-RRBPU</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/blood-pressure.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-10-29T09:15:41-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4320274382908</id>
+    <published>2019-10-29T09:15:41-05:00</published>
+    <updated>2019-10-29T09:15:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/rbp-100-automatic-blood-pressure-monitor"/>
+    <title>RBP-100 Automatic Blood Pressure Monitor</title>
+    <s:type>Blood Pressure Cuff Kit</s:type>
+    <s:vendor>Riester</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/RBP-100.jpg?v=1572543604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riester<br>
+        <strong>Type: </strong>Blood Pressure Cuff Kit<br>
+        <strong>Price: </strong>
+            357.14 - 434.67
+            <a href="https://aossmedicalsupply.com/products/rbp-100-automatic-blood-pressure-monitor">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="bodytext">RBP-100: maximum flexibility in patient diagnostics</p>
+<p>General features:</p>
+<ul>
+<li>World class, clinical grade NIBP device</li>
+<li>Light and practical blood pressure monitor for clinical use  </li>
+<li>BP &amp; pulse measurement range:<br><b>Systolic: 60-255 mmHg<br>Diastolic: 30-200mmHg<br>MAP: 40-200 mmHg<br>Heart rate: 40-200 bpm</b>
+</li>
+<li>BIHS validated technology</li>
+<li>4" LCD screen, easy to read</li>
+<li>Oscillometric mode: Fast readings, typically 30 – 40 seconds</li>
+<li>Auscultatory mode with auto-deflate (3 mmHg/sec) provides consistent patient BP measurement and allows clinicians to verify automated readings without removing the cuff</li>
+<li>Average mode (3x) allows more objective measurement results for clinicians and helps to reduce elevated readings due to white-coat effect<br><b>Interval settings possible in average mode: 15, 30, 45, 60 seconds</b>
+</li>
+<li>Arrythmia detection</li>
+<li>Clinically validated for patients with special conditions: hypertension, hypotension, diabetes, pregnancy, pre-eclampsia, arteriosclerosis, end-stage renal disease, obesity, the elderly and for children &gt; 3 years of age</li>
+<li>Memory: capacity for 210 readings</li>
+<li>Easy to use one touch operation</li>
+<li>Display panel with WHO Blood Pressure Value Classification (colour coded)</li>
+<li>Rechargeable internal battery pack (4x NIMH AA) allows 1000 measurements if fully charged</li>
+<li>6 hours needed for a full charge</li>
+<li>Partial standy-by mode (shut-off of background illumination after 10 seconds)</li>
+<li>Storage basket on the reverse side for desk, mobile and for wall-mount version. Additional optional basket can be attached to pole of mobile stand</li>
+<li>Latex free cuffs included in standard delivery<br><b>Adult cuff (Size M, 22-32cm / 8.67 - 12.6 inch)<br>Large adult cuff (Size L+XL, 32-52cm / 12.6 - 20.48 inch)<br>Optional: Child cuff (size S, 14-22cm / 5.52-8.67 inch )<br></b>
+</li>
+<li>Cleaning recommended via wipe disinfection with a medical grade mild disinfectant spray (i.e. Cidex, Enzol or 10% bleach solution)</li>
+<li>2-year warranty</li>
+<li>Alternative power use via AC/DC adapter 7.5V/1.5A</li>
+<li>Country-specific interchangeable socket plugs are included in standard delivery of each version</li>
+<li>Total tube length 280 cm (110.24 in)</li>
+<li>Weight: 510g (1.12 lb)</li>
+<li>Ships directly from manufacturer. </li>
+</ul>
+<p>**Exclusive Show Pricing Valid Until November 30, 2019. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blodd pressure cuff kit</s:tag>
+    <s:tag>blood pressure</s:tag>
+    <s:tag>blood pressure cuff</s:tag>
+    <s:tag>diagnostic</s:tag>
+    <s:tag>diagnostic instrument</s:tag>
+    <s:tag>TACHC Featured Products</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4320274382908</id>
+      <title>Mobile Unit with Stand</title>
+      <s:price currency="USD">389.61</s:price>
+      <s:sku>1741</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4320274382908</id>
+      <title>Wall Mount</title>
+      <s:price currency="USD">357.14</s:price>
+      <s:sku>1742</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4320274382908</id>
+      <title>Table Top</title>
+      <s:price currency="USD">434.67</s:price>
+      <s:sku>1740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4320274382908</id>
+      <title>Rail Mount</title>
+      <s:price currency="USD">389.61</s:price>
+      <s:sku>1743</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4138252501026</id>
+    <published>2019-10-07T09:32:41-05:00</published>
+    <updated>2019-10-07T09:32:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/pros-combo-ii%E2%84%A2-sr-pocket-aneroid-sprague-kit"/>
+    <title>Pro&apos;s Combo II™ SR Pocket Aneroid/Sprague Kit</title>
+    <s:type>Blood Pressure</s:type>
+    <s:vendor>ADC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/768-641P-11ABCA--web.jpg?v=1570584248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADC<br>
+        <strong>Type: </strong>Blood Pressure<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Our most popular professional kit that combines our best selling 768 series pocket aneroid with our Adscope Sprague in a color coordinated premium nylon carry case.</strong><br><strong>Pro’s Combo II Sprague 768-641 series includes:</strong></p>
+<ul>
+<li>Combines ADC's<span> </span><a href="https://www.adctoday.com/node/7665">ProsphygTM 768</a><span> </span>with an<span> </span><a href="https://www.adctoday.com/node/7387">AdscopeTM Sprague 641<span> </span></a>and deluxe carry case</li>
+<li>Contemporary black enamel 300mmHg manometer</li>
+<li>Adcuff<sup>™</sup><span> </span>calibrated nylon cuff with proprietary Size Guide<sup>™</sup><span> </span>marking system prevents mis-cuffing</li>
+<li>Chrome-plated deflation valve</li>
+<li>Complete aneroid, matching case, and color-matched Sprague stethoscope</li>
+<li>Extra large, color-matched, dual pocket carry case, measures 9” x 5” x 2”</li>
+<li>Not made with natural rubber latex</li>
+<li>Assembled, inspected, and packaged in the U.S.A. from foreign components</li>
+<li>Meets or exceeds ANSI/AAMI/ISO 81060-1</li>
+</ul>
+<ul>
+<li>Item Ships from Vendor: est. shipping time 1 week</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>think pink</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4138252501026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>768-641-11ABCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4138248470562</id>
+    <published>2019-10-07T09:29:13-05:00</published>
+    <updated>2019-10-07T09:29:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/pros-combo-iii%E2%84%A2-pocket-aneroid-clinician-scope-kit"/>
+    <title>Pro&apos;s Combo III™ Pocket Aneroid/Clinician Scope Kit</title>
+    <s:type>Blood Pressure</s:type>
+    <s:vendor>ADC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/778-603P-11ABCA--web.jpg?v=1570584247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADC<br>
+        <strong>Type: </strong>Blood Pressure<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A combination of our finest pocket aneroid and our most popular Adscope 603 series clinician stethoscope. Together they provide outstanding performance and rugged durability.</strong></p>
+<p><strong>The 778-603 series features:</strong></p>
+<ul>
+<li>Chrome-plated pocket aneroid (<a href="https://www.adctoday.com/node/7664">Pro's Combo 778</a>) with luminescent dial provides day-in, day-out dependability</li>
+<li>Adcuff nylon cuff with ADC’s proprietary Size Guide marking system prevents mis-cuffing</li>
+<li>Color-coordinated matching professional<span> </span><a href="https://www.adctoday.com/node/7377">Adscope 603</a><span> </span>stethoscope</li>
+<li>Extra-large, color-matched, dual-pocket carry case</li>
+<li>Not made with natural rubber latex</li>
+<li>Ideal for nurses, PA’s, and EMT’s</li>
+<li>Lifetime quality performance guarantee on Adscope 603 covers all parts</li>
+<li>Assembled, inspected, and packaged in the U.S.A. from foreign components</li>
+<li>Meets or exceeds ANSI/AAMI/ISO 81060-1</li>
+<li>Item Ships from Vendor: est. shipping time 1 week</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>think pink</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4138248470562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>778-603-11ABCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4138246275106</id>
+    <published>2019-10-07T09:26:09-05:00</published>
+    <updated>2019-10-07T09:26:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/prosphyg%E2%84%A2-760-pocket-aneroid-sphyg"/>
+    <title>Prosphyg™ 760 Pocket Aneroid Sphyg</title>
+    <s:type>Blood Pressure</s:type>
+    <s:vendor>ADC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/760-11ABCA.jpg?v=1570584248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADC<br>
+        <strong>Type: </strong>Blood Pressure<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Our most popular aneroid, the 760 is the model of choice for demanding institutions.</strong></p>
+<p><strong>The 760 series features:</strong></p>
+<ul>
+<li>Contemporary black enamel 300mmHg manometer provides day-in, day-out dependability exceeds industry standards</li>
+<li>Adcuff<sup>™</sup><span> </span>nylon cuff with ADC’s proprietary Size Guide<sup>™</sup><span> </span>marking system, prevents mis-cuffing</li>
+<li>Chrome-plated brass air release valve</li>
+<li>Leatherette carrying case with durable nylon zipper</li>
+<li>Not made with natural rubber latex</li>
+<li>Assembled, inspected, and packaged in the U.S.A. from foreign components</li>
+<li>Meets or exceeds ANSI/AAMI/ISO 81060-1</li>
+<li>Item Ships from Vendor: est. shipping time 1 week</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>think pink</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4138246275106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>606PBCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4138240540706</id>
+    <published>2019-10-07T09:14:57-05:00</published>
+    <updated>2019-10-07T09:14:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/diagnostix%E2%84%A2-703-palm-aneroid-sphyg"/>
+    <title>Diagnostix™ 703 Palm Aneroid Sphyg</title>
+    <s:type>Blood Pressure</s:type>
+    <s:vendor>ADC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/703-11ABCA.jpg?v=1570584245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADC<br>
+        <strong>Type: </strong>Blood Pressure<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A versatile palm style aneroid sphygmomanometer boasting precision crafted performance and rugged durability.</strong></p>
+<p><strong>The 703 series features:</strong></p>
+<ul>
+<li>Revolutionary palm style manometer (#804) with integral bulb not made with natural rubber latex and trigger style air release valve for one-hand convenience</li>
+<li>Precision crafted 300mmHg Japanese engineered movement tested to 50,000 cycles</li>
+<li>Movement housed in a zinc cage that suspends within the polymer housing for enhanced shock resistance</li>
+<li>Ambidextrous infinite control trigger release air valve</li>
+<li>Adcuff<sup>™</sup><span> </span>nylon cuff with ADC’s proprietary Size Guide<sup>™</sup><span> </span>marking system, prevents mis-cuffing</li>
+<li>Now built with bayonet-style connector</li>
+<li>Complete with leatherette carrying case with self repairing nylon zipper</li>
+<li>Assembled, inspected, and packaged in the U.S.A. from foreign components</li>
+<li>Meets or exceeds ANSI/AAMI/ISO 81060-1</li>
+<li>Item Ships from Vendor: est. shipping time 1 week</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adult blood pressure cuff</s:tag>
+    <s:tag>blood pressure cuff</s:tag>
+    <s:tag>think pink</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4138240540706</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>658PBCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3862185312290</id>
+    <published>2019-08-08T11:45:00-05:00</published>
+    <updated>2019-08-08T11:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/omron-bp785-10-series-upper-arm-blood-pressure-monitor-black-white"/>
+    <title>Omron BP785 10 Series Upper Arm Blood Pressure Monitor, Black/white</title>
+    <s:type>Automatic Blood Pressure Cuff</s:type>
+    <s:vendor>Omron Healthcare, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/22881.jpg?v=1565356324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Omron Healthcare, Inc.<br>
+        <strong>Type: </strong>Automatic Blood Pressure Cuff<br>
+        <strong>Price: </strong>
+            86.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Omron 10 Series Upper Arm Blood Pressure Monitor with Bluetooth, Track 200 Reading On Smartphone, Advanced Accuracy. </span><br><br><span>The Omron 10 Series plus Bluetooth Smart home blood pressure monitor has all the features of our 10 Series monitor and more. Now you can access your readings anywhere, anytime with our new Omron Wellness mobile and Website apps (learn more at www.omronwellness.com). That way it's easier for you to track your progress and take the right steps to manage your heart. </span><br><br><span>Manage and track your last 200 readings on your smartphone, compatible with Apple iPhone 5, 5C, 5S; iOS 7+, Samsung Galaxy S III, Galaxy S 4; Android 4.3+.Comfortable and simple to adjust, the pre-formed ComFit Cuff inflates around the entire arm to avoid incorrect cuff positioning ensuring a precise reading and expandable cuff fits standard and large arms.</span>
+<ul>
+<li>Omron blood pressure monitors are the #1 recommended brand by doctors and pharmacists for clinically-accurate home blood pressure monitoring, and the #1 selling manufacturer of blood pressure monitors for over 40</li>
+<li>Two users can store and review last 100 readings each (total 200 readings) Receive unlimited readings by smartphone with Omron’s free app, available at App store or Google Play</li>
+<li>Comfortable and adjustable pre-formed ComFit Cuff inflates around the entire arm to ensure correct cuff positioning and precise reading (fits standard and large arms)</li>
+<li>Automatically displays the average of your last 3 readings taken within 10 minutes. Shows how readings compare to normal home blood pressure levels with easy-to-read, backlit screen with extra-large digits</li>
+<li>Package includes: one blood pressure monitor, one wide-range cuff (fits arms 9 to 17 inches in circumference), quick start guide, instruction manual, AC adapter, and 4 AA batteries.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>blood pressure devices</s:tag>
+    <s:tag>blood pressure kit</s:tag>
+    <s:tag>omron</s:tag>
+    <s:tag>series 10</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3862185312290</id>
+      <title>Default Title</title>
+      <s:price currency="USD">86.99</s:price>
+      <s:sku>BP785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413961027618</id>
+    <published>2017-12-12T19:16:24-06:00</published>
+    <updated>2017-12-12T19:16:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bulb-and-valve-assembly-standard-with-end-valve-873-and-874-aneroid-or-mercurial-blood-pressure-instruments"/>
+    <title>ADC Bulb and Valve Assembly Standard, With End Valve 873 and 874, Aneroid or Mercurial Blood Pressure Instruments</title>
+    <s:type>Bulb and Valve Assembly</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i21780_e15beae2-f65b-4605-bd5a-08422d81fdab.jpg?v=1554340864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Bulb and Valve Assembly<br>
+        <strong>Price: </strong>
+            4.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span face="Helvetica Neue" size="2" color="#000000">ADC INFLATION BULBS &amp; VALVES</span></h4>
+<ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">Standard Bulb &amp; Valve</span></li>
+<li>Dip molded latex or latex-free</li>
+<li>Individually boxed</li>
+<li>Two year warranty</li>
+<li>873 and 874, Aneroid or Mercurial Blood Pressure Instruments</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413961027618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>ADC 875N</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413959487522</id>
+    <published>2017-12-12T19:16:24-06:00</published>
+    <updated>2017-12-12T19:16:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aneroid-sphygmomanometer-adult-navy-latex-free-lf"/>
+    <title>ADC Generic Aneroid Sphygmomanometer, Adult, Navy, Latex Free (LF)</title>
+    <s:type>Aneroid Sphygmomanometer</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ADC776XZ.JPG?v=1554340865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Aneroid Sphygmomanometer<br>
+        <strong>Price: </strong>
+            15.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">ADC GENERIC ANEROID SPHYGMOMANOMETER</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Aneroid Sphygmomanometer, Adult, Navy, Latex Free (LF)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413959487522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.59</s:price>
+      <s:sku>ADC 776Z</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413103783970</id>
+    <published>2017-12-12T19:16:24-06:00</published>
+    <updated>2017-12-12T19:16:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aneroid-sphygmomanometer-mckesson-lumeon%E2%84%A2-wall-mount-2-tube-adult-arm"/>
+    <title>Aneroid Sphygmomanometer Diagnostix™ 750 Series Aneroid</title>
+    <s:type>Aneroid Sphygmomanometer</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/26910.jpg?v=1557372440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Aneroid Sphygmomanometer<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">ADC DIAGNOSTIX™ 750 SERIES ANEROID</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Adult Wall-Mounted Aneroid, Black, Latex Free (LF)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413103783970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ADC 750W-11ABK</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413090611234</id>
+    <published>2017-12-12T18:37:59-06:00</published>
+    <updated>2017-12-12T18:37:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/adc-advantage%E2%84%A2-bp-monitors"/>
+    <title>ADC Advantage™ 6021N Automatic Blood Pressure Monitor</title>
+    <s:type>Blood Pressure Monitor</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i87008.jpg?v=1554340863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Blood Pressure Monitor<br>
+        <strong>Price: </strong>
+            63.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>Best Selling fully automatic upper arm digital home blood pressure monitor.</strong></h4>
+<ul>
+<li>Measures systolic, diastolic pressure, and pulse</li>
+<li>Smart logic technology to determine inflation level</li>
+<li>Irregular heartbeat detector</li>
+<li>Recalls last 99 readings with date and time stamp for two users</li>
+<li>Automatic inflation and deflation control increases ease and efficiency</li>
+<li>Self-adjusting extended range D-bar cuff</li>
+<li>Auto-off</li>
+<li>Small Adult cuff size fits arms 6.7" - 8.6"</li>
+<li>Adult cuff size fits arms 8.7" - 16.5"</li>
+<li>Meets or exceeds EN 1060-1, and EN 1060-3</li>
+<li>Optional AC adapter - See accessories below</li>
+<li>Latex free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413090611234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">63.36</s:price>
+      <s:sku>ADC 6021N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396743606306</id>
+    <published>2017-11-27T06:27:23-06:00</published>
+    <updated>2017-11-27T06:27:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/family-practice-kit-case-classic-hand-aneroid-child-print-cuff-adult-large-adult-latex-free"/>
+    <title>Family Practice Kit &amp; Case - Classic Hand Aneroid (Child Print Cuff, Adult &amp; Large Adult, Latex Free)</title>
+    <s:type>Aneroid Kit</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i87835.jpg?v=1584954089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Aneroid Kit<br>
+        <strong>Price: </strong>
+            477.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Family Practice Kit &amp; Case, Includes Child Print Cuff, Adult &amp; Large Adult, Latex Free (LF) (US Only)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396743606306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">477.22</s:price>
+      <s:sku>5098-23</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/393938763810</id>
+    <published>2017-11-22T13:37:42-06:00</published>
+    <updated>2017-11-22T13:37:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sphygmomanometer-combo-kit-tech-med"/>
+    <title>Sphygmomanometer Blood Pressure Combo Kit Tech-Med 22 Sprague (Black, Navy Blue, or Teal) - 1 Each</title>
+    <s:type>Sphygmomanometer Combo Kit</s:type>
+    <s:vendor>Dukal Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_28.png?v=1585260087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal Corporation<br>
+        <strong>Type: </strong>Sphygmomanometer Combo Kit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Sphygmomanometer Combo Kit, 22 Sprague</span></p>
+<ol>
+<li>Black</li>
+<li>Navy Blue</li>
+<li>Teal</li>
+</ol>
+<ul>
+<li>
+<strong>Includes</strong> Stethoscope, Manometer, Inflation System &amp; Carry Case</li>
+<li>
+<strong>Provides</strong> Complete BP Measurement Solution </li>
+<li>
+<strong>Features</strong> 0 mm to 300 mm Hg Measurement Range </li>
+<li>
+<strong>Arm</strong> Cuff Features Index &amp; Range Markings</li>
+<li>
+<strong>Lifetime </strong>Calibration Warranty on Manometer</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>Stethoscopes</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393938763810</id>
+      <title>1. Black</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>2080 LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393938763810</id>
+      <title>2. Navy Blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>2080 N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393938763810</id>
+      <title>3. Teal</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>2080 TL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396658835490</id>
+    <published>2017-11-22T13:14:40-06:00</published>
+    <updated>2017-11-22T13:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/mobile-stand-mounting-kit-for-probp-3400-welch-allyn-connex%C2%AE"/>
+    <title>Welch Allyn 4600-61 Mobile Stand Mounting Kit For ProBP 3400, 1/EA</title>
+    <s:type>Mobile Stand</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/WEL4600-61-20140616-001500-481.jpg?v=1585260771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Mobile Stand<br>
+        <strong>Price: </strong>
+            388.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<span>The </span><strong>mobile stand</strong><span> features a compact footprint and accessory basket to enhance portability with an added measure of security and the ability to store extra cuff sizes on board. Its wheeled five-leg base provides easy room-to-room movement, making it a top choice for busy clinics and healthcare facilities.</span>
+</div>
+<ul>
+<li>Compact footprint for small spaces</li>
+<li>Accessory basket for extra cuff storage on board</li>
+<li>Wheeled five-leg base for room-to-room portability</li>
+<li>Compatible with Connex® ProBP™ 3400</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396658835490</id>
+      <title>1. Mobile Stand Mounting Kit</title>
+      <s:price currency="USD">388.17</s:price>
+      <s:sku>WEL 4600-61</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396647890978</id>
+    <published>2017-11-22T13:14:40-06:00</published>
+    <updated>2017-11-22T13:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/power-supply-mounting-kit-5w-welch-allyn-connex%C2%AE-probp-3400-series"/>
+    <title>Power Supply Mounting Kit for Mobile Stand, 5W Welch Allyn Connex® Probp 3400 Series</title>
+    <s:type>Mounting Kit</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/407679_DigtlBP.jpg?v=1585072867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Mounting Kit<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welch Allyn Connex ProBP 3400 Power Supply Mounting Kit for Mobile Stand</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396647890978</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.90</s:price>
+      <s:sku>407679</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396645138466</id>
+    <published>2017-11-22T13:14:40-06:00</published>
+    <updated>2017-11-22T13:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-blood-pressure-monitor-kit-suntech-tango-m2-for-q-stress-accessories"/>
+    <title>Mobile Stand Mounting Kit Welch Allyn Connex® Probp 3400 Series</title>
+    <s:type>Mobile Stand</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/welch-allyn-mobile-stand-mounting-kit-does-not-include-stand-wa-3400-200-11_gif.jpeg?v=1584956483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Mobile Stand<br>
+        <strong>Price: </strong>
+            124.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welch Allyn Mobile stand mounting kit (does not include stand),</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396645138466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.76</s:price>
+      <s:sku>3400-200</s:sku>
+      <s:grams>10365</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/393932472354</id>
+    <published>2017-11-22T13:14:40-06:00</published>
+    <updated>2017-11-22T13:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/mortara-suntech-tango-blood-pressure-monitors-and-accessories"/>
+    <title>Blood Pressure Monitor Kit SunTech Tango M2 for Q-Stress &amp; Accessories</title>
+    <s:type>Blood Pressure Monitor</s:type>
+    <s:vendor>Mortara Instrument, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/MOR9922-020-50-20150111-153641-185.jpg?v=1584953284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mortara Instrument, Inc.<br>
+        <strong>Type: </strong>Blood Pressure Monitor<br>
+        <strong>Price: </strong>
+            10523.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">SunTech Tango M2 BP Monitor Kit for Q-Stress version 6.x - additional mount kit may be required.</span></p>
+<p>The Tango M2 is a reliable, automated blood pressure monitor which provides dual blood pressure measurement modes for cardiac stress and exercise testing.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>
+<strong>Seamless Integration:</strong> The Tango offers automated communication with your stress system and reduces the risk of transcription errors.</li>
+<li>
+<strong>Non-Exercise BP Mode:</strong> This monitor allows blood pressure measurements during patient set-up and recovery without an ECG signal.</li>
+<li>
+<strong>Stat Mode:</strong> The rapidly repeated automatic BP measurements are ideal for time sensitive and emergent situations.</li>
+<li>
+<strong>Color LCD:</strong> The Tango M2 features an improved 7" color LCD display.</li>
+<li>
+<strong>Verify Measurements:</strong> You can see and hear the Korotkoff sounds using the onscreen display and included headphones.</li>
+<li>
+<strong>Data Retrieval:</strong> This model offers easy troubleshooting with the 300 BP reading history and USB capabilities for measurement retrieval.</li>
+<li>
+<strong>Field Upgrades:</strong> The USB port allows for field upgrades, ensuring end-users the most up-to-date software</li>
+<li>
+<strong>E-Library:</strong> The Tango M2 includes an onboard E-Library with step-by-step interface notes and tutorials.</li>
+<li>
+<strong>Interfaces</strong>: The Tango M2 model integrates with all popular stress ECG systems which use RS-232, BNC, ECG cable only for internal ECG &amp; USB connections.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393932472354</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10523.60</s:price>
+      <s:sku>MOR 9922-019-50</s:sku>
+      <s:grams>1690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/393927655458</id>
+    <published>2017-11-22T12:53:39-06:00</published>
+    <updated>2017-11-22T12:53:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/blood-pressure-monitor-schiller-bp-200-plus-blood-pressure-monitoring-device"/>
+    <title>Blood Pressure Monitor Schiller BP-200 Plus Blood Pressure Monitoring Device</title>
+    <s:type>Blood Pressure Monitor</s:type>
+    <s:vendor>Schiller Americas, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Schiller.JPG?v=1584953289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schiller Americas, Inc.<br>
+        <strong>Type: </strong>Blood Pressure Monitor<br>
+        <strong>Price: </strong>
+            6100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">BP-200 Plus Blood Pressure Monitor Kit</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Includes: </span></p>
+<ul>
+<li>QRS Trigger Cable for CS-200 (4.520562)</li>
+<li>Mounting Kit (2.000154) and Accessories</li>
+<li>(Not Available for Sale into Canada)  (DROP SHIP ONLY)</li>
+</ul>
+<p>BP-200 plus is a non-invasive exercise test blood pressure monitor, designed to automatically measure and display a patient‘s systolic and diastolic blood pressures at preset intervals, or on demand of the operator.</p>
+<div id="description">
+<div>
+<div>
+<p>BP-200 plus uses two measuring methods: the SCHILLER K-sound analysis with or without QRS trigger for measurements during exercise test, and oscillometric measurements for resting situations.</p>
+</div>
+</div>
+</div>
+<div>
+<div id="features">
+<h2>FEATURES</h2>
+<ul>
+<li>Real-time display with waveform and measurements</li>
+<li>Tabular and trend data</li>
+<li>RS-232 interface for communication with SCHILLER ECG systems (AT-10 plus , AT-104 PC , CS-200 , CS-200 Excellence)</li>
+<li>BP readings initiated automatically or manually</li>
+<li>Headphones</li>
+<li>Mini SD card for software update</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393927655458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6100.00</s:price>
+      <s:sku>9.310000AK</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/393923493922</id>
+    <published>2017-11-22T12:41:34-06:00</published>
+    <updated>2017-11-22T12:41:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/self-taking-blood-pressure-kit-omron-adult-adult-large-options-black"/>
+    <title>Self-Taking Blood Pressure Kit Omron (Adult &amp; Adult Large Options) Black - 1 Each</title>
+    <s:type>Blood Pressure Kit</s:type>
+    <s:vendor>Omron Healthcare, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i08954.jpg?v=1582573109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Omron Healthcare, Inc.<br>
+        <strong>Type: </strong>Blood Pressure Kit<br>
+        <strong>Price: </strong>
+            32.92 - 73.90
+            <a href="https://aossmedicalsupply.com/products/self-taking-blood-pressure-kit-omron-adult-adult-large-options-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Adult or Adult Large Blood Pressure (BP) Kit, Black</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393923493922</id>
+      <title>Adult</title>
+      <s:price currency="USD">32.92</s:price>
+      <s:sku>104</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393923493922</id>
+      <title>Adult Large</title>
+      <s:price currency="USD">73.90</s:price>
+      <s:sku>0104MAJ</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/393919201314</id>
+    <published>2017-11-22T12:32:09-06:00</published>
+    <updated>2017-11-22T12:32:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/home-blood-pressure-kit-graham-field-labtron%C2%AE"/>
+    <title>Home Blood Pressure Kit Graham Field Labtron® - Separate or Attached Stethoscope (Child/ Large Adult Options) - 1 Each</title>
+    <s:type>Blood Pressure Kit</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i24343.jpg?v=1584955453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>Blood Pressure Kit<br>
+        <strong>Price: </strong>
+            21.00 - 26.00
+            <a href="https://aossmedicalsupply.com/products/home-blood-pressure-kit-graham-field-labtron%C2%AE">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Blood Pressure (BP) Kit; 4 Options: </span></p>
+<ol>
+<li>Separate Stethoscope, <span>Child</span>
+</li>
+<li>
+<p>Separate Stethoscope, Adult</p>
+</li>
+<li>
+<p>Separate Stethoscope, Large Adult</p>
+</li>
+<li>
+<p>Attached Single-Head Stethoscope, Adult</p>
+</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:tag>Stethoscopes</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393919201314</id>
+      <title>1. Separate Steth/ Child</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>240C</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393919201314</id>
+      <title>2. Separate Steth/ Adult</title>
+      <s:price currency="USD">21.50</s:price>
+      <s:sku>240</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393919201314</id>
+      <title>3. Separate Steth/ Large Adult</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>240X</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/393919201314</id>
+      <title>4. Attached Single-Head Steth/ Adult</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>242</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396725583906</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/smiths-medical-logical%C2%AE-pressure-monitoring-kits"/>
+    <title>Self Taking Manual Blood Pressure Kit - Logical® Omron</title>
+    <s:type>Blood Pressure Kit</s:type>
+    <s:vendor>Omron Healthcare, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/9085149_ra.jpg_maxHeight_1000_maxWidth_1000.jpeg?v=1582573108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Omron Healthcare, Inc.<br>
+        <strong>Type: </strong>Blood Pressure Kit<br>
+        <strong>Price: </strong>
+            59.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The Self-Taking Home Blood Pressure Kit from Omron is designed for easy one-handed operation. The D-ring pressure cuff assists the user with correct placement. There is a professional-quality stethoscope attached directly to the pressure cuff and features a no-stop pin 300mmHg aneroid gauge with an easy-to-read scale. The latex inflation bulb with pressure release valve allows manual inflation and controlled deflation of the cuff. This model is designed for standard size adults.</strong></p>
+<li>Designed For 1-handed Operation</li>
+<li>Long-lasting D-ring Cuff</li>
+<li>Professional-quality Stethoscope Attached Directly To The Pressure Cuff</li>
+<li>No-stop Pin 300mmhg Aneroid Gauge With An Easy-to-read Scale</li>
+<li>Includes Vinyl Carrying Case</li>
+<li>Standard Adult Size</li>
+<br>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396725583906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.26</s:price>
+      <s:sku>HEM-18</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396720898082</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/upper-arm-blood-pressure-monitor-advanced-lumiscope%C2%AE"/>
+    <title>GRAHAM FIELD LUMISCOPE® ADVANCED UPPER ARM BLOOD PRESSURE MONITOR</title>
+    <s:type>Blood Pressure</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i24356.jpg?v=1584954496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>Blood Pressure<br>
+        <strong>Price: </strong>
+            66.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Upper Arm Blood Pressure (BP) Monitor</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396720898082</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.25</s:price>
+      <s:sku>1137</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396699861026</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-adult-cuff-kit-complete-blood-pressure-cuff-kit-adc%C2%AE-adview%C2%AE-2-diagnostic-station-cuffs-1"/>
+    <title>Cuff Kit - Welch Allyn (Small, Large, Adult, &amp; Thigh)</title>
+    <s:type>Blood Pressure Cuff Kit</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/8000-0895_full1.jpg?v=1584953774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Blood Pressure Cuff Kit<br>
+        <strong>Price: </strong>
+            255.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Cuff Kit, Small, Large, Adult, Thigh (US Only)</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396699861026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">255.38</s:price>
+      <s:sku>8032400</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396642943010</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/adc-manual-home-blood-pressure-kit-accessories"/>
+    <title>ADC Manual Home Blood Pressure Kit Accessories- for 6005 (Gauge/ Bulb &amp; Valve Assembly)</title>
+    <s:type>Blood Pressure Kit Accessories</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/21SF1u0TPbL._SL160.jpg?v=1554340867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Blood Pressure Kit Accessories<br>
+        <strong>Price: </strong>
+            5.40 - 12.48
+            <a href="https://aossmedicalsupply.com/products/adc-manual-home-blood-pressure-kit-accessories">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features of the ADC Gauge:</strong></p>
+<p>• 300mmHg, no-pin stop<br>• Individually tested to conform to ANSI SP9 standards<br>• All gauges individually boxed</p>
+<ol>
+<li>Gauge For 6005</li>
+<li>Bulb &amp; Valve Assembly For 6005</li>
+</ol>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396642943010</id>
+      <title>Gauge</title>
+      <s:price currency="USD">12.48</s:price>
+      <s:sku>808CN</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396642943010</id>
+      <title>Bulb &amp; Valve Assembly</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>878</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396642287650</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-adult-cuff-kit-complete-blood-pressure-cuff-kit-adc%C2%AE-adview%C2%AE-2-diagnostic-station-cuffs"/>
+    <title>ADC® ADView® Pediatric Cuff Kit - Complete Blood Pressure Cuff Kit-2 Diagnostic Station Cuffs</title>
+    <s:type>Blood Pressure Cuff Kit</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/41-YsMwdOmL_376c8097-1a52-4de0-8b9e-01e396ec032d.jpg?v=1554340871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Blood Pressure Cuff Kit<br>
+        <strong>Price: </strong>
+            52.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Pediatric Blood Pressure Cuff Kit</h4>
+<p>Includes: Child, Small Adult, and Adult Sizes</p>
+<ul>
+<li>Child - 12-19 cm</li>
+<li>Small Adult - 17-25 cm</li>
+<li>Adult - 23-33 cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396642287650</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.58</s:price>
+      <s:sku>9005CKP</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/396641959970</id>
+    <published>2017-11-22T12:05:36-06:00</published>
+    <updated>2017-11-22T12:05:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-5-cuff-kit-complete-blood-pressure-cuff-kit-adc%C2%AE-adview%C2%AE-2-diagnostic-station-cuffs"/>
+    <title>ADC® Adult Cuff Kit - Complete Blood Pressure Cuff Kit ADView® 2 Diagnostic Station Cuffs</title>
+    <s:type>Blood Pressure Cuff Kit</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/41-YsMwdOmL_9729d845-62c8-424e-8109-fc3c2d6e7209.jpg?v=1554340870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Blood Pressure Cuff Kit<br>
+        <strong>Price: </strong>
+            59.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span face="Helvetica Neue" size="2" color="#000000">Adult Blood Pressure Cuff Kit </span></h4>
+<p><span face="Helvetica Neue" size="2" color="#000000">Includes: Small Adult, Adult, and Large Adult Sizes:</span></p>
+<ul>
+<li>Small Adult - 17-25 cm</li>
+<li>Adult - 23-33 cm</li>
+<li>Large Adult - 31-40 cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Pressure</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/396641959970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.86</s:price>
+      <s:sku>9005CKA</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

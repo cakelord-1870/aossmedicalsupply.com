@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/medical-gloves.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-04T13:25:52-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383628247074</id>
+    <published>2021-02-04T13:25:52-06:00</published>
+    <updated>2021-02-04T13:25:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/eclipse-aoss-black-nitrile-exam-gloves-104"/>
+    <title>Eclipse® Black Powder-Free Nitrile Examination Gloves (Non Latex) All Sizes</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/new-glove_artwork-flyer-02.png?v=1588377613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            59.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #444444;">AOSS Brand Eclipse gloves are fully textured and powder-free. These gloves conform to ASTM D6319 standards. At 5.5 grams and boasting a high tensile strength even when aged, you know you’re covered when you are wearing Eclipse black nitrile gloves. Step it up to “The Next Level of Protection” with Eclipse Black Nitrile Gloves!</span>
+<ul>
+<li style="text-align: left;"><span style="color: #444444;">Powder-Free Nitrile Examination Gloves, Eclipse®</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Latex Fee / Powder-Free</span></li>
+<li style="text-align: left;">Fully Textured*</li>
+<li style="text-align: left;"><span style="color: #444444;">Ambidextrous</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Single-Use Only</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Non-Sterile</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Color: Black</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Bar-Coded for Inventory Control</span></li>
+<li style="text-align: left;"><span style="color: #444444;">100/BX</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Nitrile</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>X-Small, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-5-B</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Small, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-6-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Medium, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>X-Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>2X-Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-0-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397129220130</id>
+    <published>2021-02-04T12:58:26-06:00</published>
+    <updated>2021-02-04T12:58:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/exam-glove-pro-advantage-vinyl-pf"/>
+    <title>PRO ADVANTAGE P359403 VINYL POWDER-FREE EXAM GLOVES</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17423.jpg?v=1584954025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>These non-latex gloves provide a durable solution for professionals and their patients who risk sensitivity to natural rubber latex. </div>
+<ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">Exam Glove</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000"><span>Vinyl </span></span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Powder Free (PF)</span></li>
+</ul>
+<p><span face="Helvetica Neue" size="2" color="#000000">100/bx</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gloves</s:tag>
+    <s:tag>Vinyl</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397129220130</id>
+      <title>Medium</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>P359403</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383286050850</id>
+    <published>2021-02-04T12:38:29-06:00</published>
+    <updated>2021-02-04T12:38:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-latex-powder-free-exam-gloves"/>
+    <title>TrueDerma® Latex Glove, Powder-Free (Nitrile-Free)</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/True_Derma_PF.png?v=1555184178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            25.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>AOSS Brand TrueDerma Latex Gloves are chlorinated examination gloves. TrueDerma Gloves conform to ASTM D3578-05 and EN 455 Part 1, 2 &amp; 3 Standards. These gloves are made of natural rubber latex and are micro-textured for added grip. TrueDerma gloves are also ambidextrous with a beaded cuff and high tensile strength.</strong></h4>
+<p> </p>
+<ul>
+<li>Powder Free</li>
+<li>4.0 mil</li>
+<li>Medical Grade </li>
+<li>Surface Finish: Finger Textured / Full textured </li>
+<li>Bar-Coded for Inventory Control</li>
+<li>100/BX, 10BX/CS = 1000/CASE</li>
+<li>Part# 107</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Latex</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-5-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-6-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381825515554</id>
+    <published>2021-02-04T12:23:01-06:00</published>
+    <updated>2021-02-04T12:23:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-vinyl-gloves"/>
+    <title>AOSS Simply Gloves® Powder-Free Vinyl Exam Gloves</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/105-simplyGloves.jpg?v=1558445767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Simply Gloves are made of PVC material which does not cause a latex allergic reaction. Simply gloves are ambidextrous and powder free. Simply Gloves meet or exceed ISO 9001 requirements. When you are looking for a glove to give you that “bare hand” feeling without all the added costs, the choice is simple. Simply Gloves!</h4>
+<ul>
+<ul>
+<li>4 mil</li>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>Clear</li>
+<li>Cuff Finishing:Beaded</li>
+<li>Ambidextrous</li>
+<li>Surface: Smooth</li>
+<li>100/BX</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Vinyl</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4486983385148</id>
+    <published>2020-04-02T14:35:14-05:00</published>
+    <updated>2020-04-02T14:35:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/gloves-surgical-powder-free-latex-sterile-dynarex-50-bx"/>
+    <title>Gloves, Surgical, Powder Free, Latex, Sterile, Dynarex, 50/bx</title>
+    <s:type>Surgical Glove</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2375.jpg?v=1586890929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Surgical Glove<br>
+        <strong>Price: </strong>
+            59.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Dynarex 2375 powder-free Sterile Surgical Gloves feature a textured surface on the palm and fingers tips for better grip and provide maximum strength with no loss of tactile sensitivity. The Sterile Surgical Gloves by Dynarex are ideal for all medical procedures where sterility is required. Available sizing from 6 to 9 makes it easy to get the perfect fit glove. Dynarex Sterile Surgical Gloves are pre-cuffed for convenience. Dynarex Surgical Gloves are packaged in individual sterile packages by the pair. Packaged 50 pair/box, 4 boxes/case. Classified by UL; meets NFPA standards; meets or exceeds ASTM D3578.</span>
+<ul>
+<li>One pair (one right, one left) per paper wallet, each wallet packed in a peel-open pouch</li>
+<li>Maximum strength with no loss of tactile sensitivity</li>
+<li>Textured surface in palm and finger tips</li>
+<li>Powder Free</li>
+<li>50 Pair/Box</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sterile gloves</s:tag>
+    <s:tag>surgical gloves</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4486983385148</id>
+      <title>7.5</title>
+      <s:price currency="USD">59.50</s:price>
+      <s:sku>2375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4486983385148</id>
+      <title>8</title>
+      <s:price currency="USD">59.50</s:price>
+      <s:sku>2375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4486983385148</id>
+      <title>8.5</title>
+      <s:price currency="USD">59.50</s:price>
+      <s:sku>2375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

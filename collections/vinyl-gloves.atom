@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/vinyl-gloves.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-04T12:58:26-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397129220130</id>
+    <published>2021-02-04T12:58:26-06:00</published>
+    <updated>2021-02-04T12:58:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/exam-glove-pro-advantage-vinyl-pf"/>
+    <title>PRO ADVANTAGE P359403 VINYL POWDER-FREE EXAM GLOVES</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>Pro Advantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i17423.jpg?v=1584954025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Advantage<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>These non-latex gloves provide a durable solution for professionals and their patients who risk sensitivity to natural rubber latex. </div>
+<ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">Exam Glove</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000"><span>Vinyl </span></span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Powder Free (PF)</span></li>
+</ul>
+<p><span face="Helvetica Neue" size="2" color="#000000">100/bx</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gloves</s:tag>
+    <s:tag>Vinyl</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397129220130</id>
+      <title>Medium</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>P359403</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381825515554</id>
+    <published>2021-02-04T12:23:01-06:00</published>
+    <updated>2021-02-04T12:23:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-vinyl-gloves"/>
+    <title>AOSS Simply Gloves® Powder-Free Vinyl Exam Gloves</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/105-simplyGloves.jpg?v=1558445767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Simply Gloves are made of PVC material which does not cause a latex allergic reaction. Simply gloves are ambidextrous and powder free. Simply Gloves meet or exceed ISO 9001 requirements. When you are looking for a glove to give you that “bare hand” feeling without all the added costs, the choice is simple. Simply Gloves!</h4>
+<ul>
+<ul>
+<li>4 mil</li>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>Clear</li>
+<li>Cuff Finishing:Beaded</li>
+<li>Ambidextrous</li>
+<li>Surface: Smooth</li>
+<li>100/BX</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Vinyl</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4512682999868</id>
+    <published>2021-01-20T09:15:18-06:00</published>
+    <updated>2021-01-20T09:15:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sensicare-vinyl-exam-gloves-medium-sterile-medline-484406-bx-50-pairs"/>
+    <title>SensiCare Vinyl Exam Gloves Medium Sterile Medline 484406- Box 50 Pairs</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>medline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l1600_86a1f035-2c99-4840-8268-6d1474000331.jpg?v=1611155744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>medline<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            39.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="feat-name">Sensicare Vinyl Exam Gloves Medium Sterile Medline 484406- Bx/50 Pairs</span></p>
+<p><span class="feat-name"><b>Medium Size</b><span> </span>Vinyl Gloves in<span> </span><b>Sterile Pairs</b></span><span class="feat-name"><b>100% Latex-free</b><span> </span>gloves with Tactile Sensitivity and Fit</span><span class="feat-name">No powder or chemical accelerators</span><span class="feat-name">Plastic packaging resists moisture and minimizes fiber tears</span></p>
+<p><span class="feat-name"><b>Stretch Vinyl</b><span> </span>Gloves with<span> </span><b>Smooth Finish</b></span></p>
+<p><span class="feat-name">Meets ASTM requirements for barrier protection and quality</span><span class="feat-name">5.9 mil finger thickness</span><span class="feat-name">5.5 mil palm thickness.</span></p>
+<p><span class="feat-name"><b>Box of 50 Pairs</b></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4512682999868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku>484406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

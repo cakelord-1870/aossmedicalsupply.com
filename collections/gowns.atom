@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/gowns.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-11-14T20:52:29-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/382625579042</id>
+    <published>2017-11-14T20:52:29-06:00</published>
+    <updated>2017-11-14T20:52:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-procedure-gown-chemotherapy-drug-tested"/>
+    <title>Halyard Procedure Gown Chemotherapy Drug Tested</title>
+    <s:type>Procedure Gown</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ChemoGownGlove_Body_Image-HYH_178x336_4701aaf9-a067-45c5-8bad-384c319751d9.jpg?v=1584954501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Procedure Gown<br>
+        <strong>Price: </strong>
+            235.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Halyard Health, LLC; Procedure Gown, Tested For Use with Chemotherapy Compounding &amp; Drug Administration, 22¾ x 12¾" x 15¾” (100/cs”)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382625579042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">235.78</s:price>
+      <s:sku>69606</s:sku>
+      <s:grams>8391</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/382546378786</id>
+    <published>2017-11-14T20:33:28-06:00</published>
+    <updated>2017-11-14T20:33:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-protective-coverall"/>
+    <title>Halyard Protective Coverall</title>
+    <s:type>Cover Gown</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/10075_model.jpg?v=1584954504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Cover Gown<br>
+        <strong>Price: </strong>
+            86.59 - 138.52
+            <a href="https://aossmedicalsupply.com/products/halyard-protective-coverall">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra Protective Coverall Option, Elastic Wrist &amp; Cuff Option, White or Blue, Size Options: </p>
+<ol>
+<li>Extra Protective Coverall, Elastic Wrist &amp; Cuff, White, X-Large, 24/cs</li>
+<li>Same as 1; White; XX-Large</li>
+<li>Same as 1; White; XXX-Large</li>
+<li>Protective Coverall, Blue, Large, 24/cs</li>
+<li>Same as 4; Blue, X-Large</li>
+<li>Same as 4; Blue, XX-Large</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>1. Extra Prot. Coverall/ Elastic/ White/ X-Large</title>
+      <s:price currency="USD">113.11</s:price>
+      <s:sku>10085</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>2. Extra Prot. Coverall/ Elastic/ White/ XX-Large</title>
+      <s:price currency="USD">113.11</s:price>
+      <s:sku>10095</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>3. Extra Prot. Coverall/ Elastic/ White/ XXX-Large</title>
+      <s:price currency="USD">138.52</s:price>
+      <s:sku>10096</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>4. Prot. Coverall/ Blue/ Large</title>
+      <s:price currency="USD">86.59</s:price>
+      <s:sku>75631</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>5. Prot. Coverall/ Blue/ X-Large</title>
+      <s:price currency="USD">96.91</s:price>
+      <s:sku>75641</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>6. Prot. Coverall/ Blue/ XX-Large</title>
+      <s:price currency="USD">101.73</s:price>
+      <s:sku>75651</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381943119906</id>
+    <published>2017-11-14T17:20:16-06:00</published>
+    <updated>2017-11-14T17:20:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-standard-surgical-gowns"/>
+    <title>Halyard Standard Surgical Gowns</title>
+    <s:type>Surgical Gowns</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i61685.jpg?v=1584954521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Surgical Gowns<br>
+        <strong>Price: </strong>
+            164.19 - 164.81
+            <a href="https://aossmedicalsupply.com/products/halyard-standard-surgical-gowns">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halyard Health, LLC; Surgical Gown; <span> Towel; Sterile; </span>(2) Size/ Packaging Options: </p>
+<p>1.) Large, 36/cs</p>
+<p>2.) X-Large, 34/cs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381943119906</id>
+      <title>1. Large - 36/cs</title>
+      <s:price currency="USD">164.19</s:price>
+      <s:sku>90012</s:sku>
+      <s:grams>7076</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381943119906</id>
+      <title>2. X-Large - 34/cs</title>
+      <s:price currency="USD">164.81</s:price>
+      <s:sku>90042</s:sku>
+      <s:grams>7076</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/380992684066</id>
+    <published>2017-11-14T09:50:56-06:00</published>
+    <updated>2017-11-14T09:50:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-valueselect%E2%84%A2-cover-gowns-1"/>
+    <title>Halyard X-TRA Traction™ Shoe Cover</title>
+    <s:type>Shoe Cover</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i67479.jpg?v=1559890831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Shoe Cover<br>
+        <strong>Price: </strong>
+            56.64 - 62.39
+            <a href="https://aossmedicalsupply.com/products/halyard-valueselect%E2%84%A2-cover-gowns-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">X-TRA TRACTION™ Shoe Cover; Size/ Packaging Options Below: </span></p>
+<ol>
+<li>Universal, 100/bx, 3 bx/cs</li>
+<li>X-Large, 80/bx, 3 bx/cs</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:tag>Shoe Cover</s:tag>
+    <s:tag>Shoe Covers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/380992684066</id>
+      <title>1. Universal/ 100/bx 3bx/cs</title>
+      <s:price currency="USD">56.64</s:price>
+      <s:sku>69252</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/380992684066</id>
+      <title>2. X-Large/ 80/bx  3bx/cs</title>
+      <s:price currency="USD">62.39</s:price>
+      <s:sku>69254</s:sku>
+      <s:grams>1851</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/377074679842</id>
+    <published>2017-11-13T10:08:48-06:00</published>
+    <updated>2017-11-13T10:08:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-surgical-gowns"/>
+    <title>Halyard Surgical Gowns</title>
+    <s:type>Surgical Gowns</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i61693.jpg?v=1584954551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Surgical Gowns<br>
+        <strong>Price: </strong>
+            150.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Surgical Gown, Non Reinforced, Set-in Sleeves, Sterile, X-Large, Packaged Individually, 32/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/377074679842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.07</s:price>
+      <s:sku>90048</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

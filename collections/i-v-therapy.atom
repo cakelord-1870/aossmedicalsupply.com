@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/i-v-therapy.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-06-25T09:02:46-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3781616238626</id>
+    <published>2019-06-25T09:02:46-05:00</published>
+    <updated>2019-06-25T09:02:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hospira-plum-a-plus-infusion-pump"/>
+    <title>Hospira Plum A Plus Infusion Pump</title>
+    <s:type>IV Pump</s:type>
+    <s:vendor>hospira</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Hospira_Abbott_A_Infusion_Pump__Refurb-600x429.jpg?v=1561644008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hospira<br>
+        <strong>Type: </strong>IV Pump<br>
+        <strong>Price: </strong>
+            725.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Completely Reconditioned with One Year Parts &amp; Labor Warranty</li>
+<li>Integral set-based, free-flow protection cassette technology reduces risk of inadvertent drug delivery</li>
+<li>Dimensions: Approx. 8″ H x 8″ W x 6″ D (excluding pole clamp)</li>
+<li>Weight: Approx. 9.5 Ibs. (with battery)</li>
+<li>Battery Life:  Approx. 6 hours</li>
+<li>Available in Single Channel or Triple Channel Configurations</li>
+<li>Dose Calc feature provides convenient programming for oncology weight-based drug deliveries</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>education</s:tag>
+    <s:tag>hospira plum</s:tag>
+    <s:tag>iv</s:tag>
+    <s:tag>iv pump</s:tag>
+    <s:tag>iv pump single channel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3781616238626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">725.00</s:price>
+      <s:sku>HOSPIRA PLUM A-SW</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3768295489570</id>
+    <published>2019-06-14T15:21:54-05:00</published>
+    <updated>2019-06-14T15:21:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/smartsite-infusion-burette-set-60ml"/>
+    <title>SmartSite Infusion Burette Set, 60mL</title>
+    <s:type>Infusion Set</s:type>
+    <s:vendor>CareFusion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2441-0006_m.jpg?v=1560605110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CareFusion<br>
+        <strong>Type: </strong>Infusion Set<br>
+        <strong>Price: </strong>
+            155.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Smallbore Tubing Segments</li>
+<li>2 Check Valves</li>
+<li>Needle-Free Valve (Burette)</li>
+<li>2 Needle-Free Valves</li>
+<li>Ball Valve Drip Chamber</li>
+<li>Vented/Nonvented</li>
+<li>Non-latex</li>
+<li>10/CS</li>
+<li>*This order requires a Physician's License. Click <strong>Here</strong> to submit. Order will be held until it is received."</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burette</s:tag>
+    <s:tag>burette set</s:tag>
+    <s:tag>carefusion</s:tag>
+    <s:tag>smartsite</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3768295489570</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.95</s:price>
+      <s:sku>10012293</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3768124211234</id>
+    <published>2019-06-14T14:17:46-05:00</published>
+    <updated>2019-06-14T14:17:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/curos-strips-for-needleless-valves-by-3m-healthcare"/>
+    <title>Curos Strips (For needleless valves) by 3M Healthcare</title>
+    <s:type>Disinfecting Caps</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/14324_pd3433094_1.jpg?v=1560605100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Disinfecting Caps<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Curos Disinfecting Port Protectors are available on convenient multi-cap, foil-backed dispensers at the point of care. Strips can be hung bedside on an IV pole, reducing run-around for busy caregivers. The Strip provides a bright green visual reminder and easy access to caps to facilitate nurse compliance with consistent and reliable passive disinfection during every IV access. Furthermore, the innovative Strip design minimizes packaging waste.</span></p>
+<p><span>Disinfects in 1 minute. Protects ports for up to 7 days if not removed.<br>Twists on easily and stays securely in place on commonly used needleless connectors.<br>Brightly colored to help clinicians verify and measure compliance.<br>In vitro testing shows effectiveness against the six microorganisms commonly associated with CLABSI: Staphylococcus aureus, Staphylococcus epidermidis, Escherichia coli, Pseudomonas aeruginosa, Candida glabrata, and Candida albicans.<br>Meets 2016 Infusion Therapy Standards of Practice for add-on devices published by INS.<br>For single-use only.<br></span></p>
+<p> </p>
+<p><span>FREE SHIPPING!</span></p>
+<p> </p>
+<p><span>250/BX</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning caps for iv</s:tag>
+    <s:tag>disinfecting cap</s:tag>
+    <s:tag>iv cleaner</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3768124211234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>CFJ5-250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3739604942882</id>
+    <published>2019-05-28T09:32:55-05:00</published>
+    <updated>2019-05-28T09:32:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bd-posiflush-normal-saline-filled-syringe-5ml"/>
+    <title>BD PosiFlush Normal Saline Filled Syringe, 5mL</title>
+    <s:type>Saline Flush</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/DYEMZE010001.jpg?v=1559106071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Saline Flush<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>BD PosiFlush™ Normal Saline Pre-Filled Syringe, 5mL With Standard Plunger Rod, White. BD PosiFlush™ Pre-filled Syringes provided convenient, reliable, cost-effective alternatives to vial-based systems. Use BD PosiFlush™ and strengthen your IV catheter maintenance practices.</span></p>
+<p class="desc-type"><strong>Features:</strong></p>
+<div class="otherDescription">
+<ul>
+<li>Enhance healthcare worker safety.</li>
+<li>Improve clinician work flow and productivity.</li>
+<li>Reduce medical errors and complications.</li>
+<li>provide a fully integrated system designed to satisfy all your flushing needs.</li>
+<li>Improve clinical and technical proficiency.</li>
+<li><strong>30/BX</strong></li>
+</ul>
+</div>
+<p><strong>*This Product Requires a Physician's License*</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>intavenous therapy</s:tag>
+    <s:tag>normal saline</s:tag>
+    <s:tag>posiflush</s:tag>
+    <s:tag>saline flush</s:tag>
+    <s:tag>sterile saline</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3739604942882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>BD306545</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1757808721954</id>
+    <published>2019-03-11T10:14:14-05:00</published>
+    <updated>2019-03-11T10:14:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/ipa-device-site-scrub%C2%AE-isopropyl-alcohol-70-sterile"/>
+    <title>IPA Device Site-Scrub® Isopropyl Alcohol, 70% Sterile</title>
+    <s:type>IPA Device</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/727060.jpg?v=1584955480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>IPA Device<br>
+        <strong>Price: </strong>
+            76.00 - 340.00
+            <a href="https://aossmedicalsupply.com/products/ipa-device-site-scrub%C2%AE-isopropyl-alcohol-70-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IPA device is designed to clean the intraluminal (female luers) and extraluminal surfaces of catheter hubs, injection ports, caps and stopcocks through a patent-pending friction scrub design.</p>
+<ul>
+<li>Isopropyl Alcohol, 70%</li>
+<li>IPA Device</li>
+<li>Sterile</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catheter</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>intavenous therapy</s:tag>
+    <s:tag>IV therapy</s:tag>
+    <s:tag>leurs</s:tag>
+    <s:tag>prep pads</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1757808721954</id>
+      <title>100/BX</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>3882100-B</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1757808721954</id>
+      <title>500/CS</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>9882100-CS</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383302402082</id>
+    <published>2017-12-26T16:20:25-06:00</published>
+    <updated>2017-12-26T16:20:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-iv-sponge-2x-2"/>
+    <title>AOSS IV Gauze Drain Dressing 2&quot;x 2&quot; 6-Ply - STERILE</title>
+    <s:type>IV Gauze</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2x2-ivGauze-1200.jpg?v=1559106065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>IV Gauze<br>
+        <strong>Price: </strong>
+            10.90 - 28.00
+            <a href="https://aossmedicalsupply.com/products/aoss-iv-sponge-2x-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">AOSS DRAIN GAUZE. <span>For wound dressing, prepping and scrubbing</span><br><span>Highly absorbent with less linting.</span></span> </h4>
+<ul>
+<li>IV Sponge</li>
+<li>2" x 2"</li>
+<li>6-Ply</li>
+<li>AOSS Brand</li>
+<li>Sterile</li>
+<li>For wound dressing, prepping and scrubbing</li>
+<li>Highly absorbent with less linting</li>
+<li>35/box, 20 boxes/case</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:tag>intavenous therapy</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383302402082</id>
+      <title>BX/35</title>
+      <s:price currency="USD">10.90</s:price>
+      <s:sku>1200/4610-B</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383302402082</id>
+      <title>CS/700</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>1200/4610-C</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412543287330</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-7210188-b-braun-a-v-set-low-volume-bloodline-set-40-cs"/>
+    <title>7210645 B Braun Dialog+® Hemodialysis System Single Needle A/V Bloodline Set, 25/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7210645.jpg?v=1554340857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            316.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h3>
+<div><strong>With post-pump arterial drip chamber.</strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><span>Dialog+® Hemodialysis System Single Needle A/V Bloodline Set, 25/cs</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412543287330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">316.94</s:price>
+      <s:sku>7210645</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412534210594</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-100383-b-braun-dialog-%C2%AE-hemodialysis-system-bloodline-set-24-cs"/>
+    <title>B-BRAUN-7210188 - A/V Set Low Volume Bloodline Set, 40/cs (For Healthcare Professionals Only).</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7210188.jpg?v=1584950248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            422.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h4>
+<div><strong>With post-pump arterial drip chamber.</strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><strong>A/V Set Low Volume Bloodline Set, 40/cs</strong></div>
+<div></div>
+<div>He Dialog+ sets standards with its three basic device configurations for extracorporeal blood treatment; single pump, double pump and HDF On-Line. The integrated and efficient treatment system permits users to have the greatest number of possible configurations in setting up the individual dialysis device. The new generation of the Dialog+, the Evolution II, demonstrates numerous comfort improvements for providers and patients. It also rigorously meets today's economic and medical needs. Options, accessories and consumables offer customers a single treatment system that fits together perfectly.<br><br>Adimea - Precise real-time measurement of dialysis dose One of B|Braun's aims is to provide doctors and nursing staff with the best-possible support for giving patients the optimum dialysis dose. The basis for this is continual precise measurement and display of the dialysis effectiveness during treatment. B|Braun has developed the Adimea real-time monitoring process.<br><br>Adimea measures dialysis efficiency by determining the reduction in molar concentration of urinary excreted substances in the spent dialysate. Hence, Adimea provides an accurate measurement process for reliable and continuous control of the dialysis dose (Kt/V) throughout the entire treatment. Treatment parameters can be adjusted by doctors and nursing staff for the benefit of patients even during treatment. This allows the equipment to optimally support the execution of the treatment objectives.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412534210594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">422.62</s:price>
+      <s:sku>7210188</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412517564450</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-streamline%C2%AE-bloodline-set-for-the-dialog-hemodialysis-system-32-cs"/>
+    <title>B Braun Dialog+® Hemodialysis System Bloodline Set, 24/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/100383.jpg?v=1584950246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            177.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN DIALINES® BLOODLINES</span> </h3>
+<div><strong><span>With post-pump arterial drip chamber.</span></strong></div>
+<div id="dnn_ctr533_ViewItemDetail_divContent"><strong>Dialog+® Hemodialysis System Bloodline Set, 24/cs</strong></div>
+<div></div>
+<div>He Dialog+ sets standards with its three basic device configurations for extracorporeal blood treatment; single pump, double pump and HDF On-Line. The integrated and efficient treatment system permits users to have the greatest number of possible configurations in setting up the individual dialysis device. The new generation of the Dialog+, the Evolution II, demonstrates numerous comfort improvements for providers and patients. It also rigorously meets today's economic and medical needs. Options, accessories and consumables offer customers a single treatment system that fits together perfectly.<br><br>Adimea - Precise real-time measurement of dialysis dose One of B|Braun's aims is to provide doctors and nursing staff with the best-possible support for giving patients the optimum dialysis dose. The basis for this is continual precise measurement and display of the dialysis effectiveness during treatment. B|Braun has developed the Adimea real-time monitoring process.<br><br>Adimea measures dialysis efficiency by determining the reduction in molar concentration of urinary excreted substances in the spent dialysate. Hence, Adimea provides an accurate measurement process for reliable and continuous control of the dialysis dose (Kt/V) throughout the entire treatment. Treatment parameters can be adjusted by doctors and nursing staff for the benefit of patients even during treatment. This allows the equipment to optimally support the execution of the treatment objectives.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412517564450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">177.56</s:price>
+      <s:sku>100383</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412512124962</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-streamline%C2%AE-bloodline-set-for-the-fmc-2008-series-36-cs"/>
+    <title>B Braun - Bloodline Set For The Dialog+ Hemodialysis System, 32/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i41571__77652.1394520716.1280.1280.jpg?v=1580940063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            257.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN STREAMLINE® BLOODLINES</span></h3>
+<p>Streamline bloodlines feature an efficient and airless design intended to improve clinical and economic performance. They use less tubing and fewer connections to simplify set up and use. The Streamline bloodlines are designed to reduce dialyse flow dialyse size, treatment time and optimize dose delivery, as measured in Kt/V.</p>
+<ul>
+<li><span>Bloodline Set For The Dialog+ Hemodialysis System</span></li>
+<li>Pressure pods replaced transducer protectors</li>
+<li>Less tubing and fewer connections to simplfy use</li>
+<li>Easy setup on Dialog+ hemodialysis system</li>
+<li><span>32/cs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412512124962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">257.25</s:price>
+      <s:sku>SL-2000M2095</s:sku>
+      <s:grams>7348</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412511436834</id>
+    <published>2017-12-12T10:00:55-06:00</published>
+    <updated>2017-12-12T10:00:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/streamline%C2%AE-bloodline-set-for-the-fmc-2008-series-36-cs"/>
+    <title>B Braun - Bloodline Set For The FMC 2008 Series, 36/cs</title>
+    <s:type>Specialty Set</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i41571.jpg?v=1584950244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Specialty Set<br>
+        <strong>Price: </strong>
+            380.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN STREAMLINE® BLOODLINES</span></h3>
+<p>Bloodline Set For The FMC 2008 Series, 36/cs</p>
+<p>Streamline bloodlines feature an efficient and airless design intended to improve clinical and economic performance. They use less tubing and fewer connections to simplify set up and use. The Streamline bloodlines are designed to reduce dialyse flow dialyse size, treatment time and optimize dose delivery, as measured in Kt/V.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bloodlines</s:tag>
+    <s:tag>Dialysis</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412511436834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">380.34</s:price>
+      <s:sku>SL-2000M2095</s:sku>
+      <s:grams>7598</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/400625074210</id>
+    <published>2017-12-01T04:45:42-06:00</published>
+    <updated>2017-12-01T04:45:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/disinfecting-caps-curos%E2%84%A2"/>
+    <title>Disinfecting Caps Curos™</title>
+    <s:type>Disinfecting Caps</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/987068.jpg?v=1559106107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Disinfecting Caps<br>
+        <strong>Price: </strong>
+            1192.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Stopper Disinfecting Cap for Open Female Luer, Individual,</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">270/bx, 8 bx/cs (US Only) = 2,160 Caps/ Case</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Disinfects and protects needleless connectors</li>
+<li>Helps reduce the risk of contaminants from entering the I.V. port through the catheter, post-insertion</li>
+<li>Protects for up to 7 days if not removed</li>
+<li>Curos products have a distinctive green color that allows clinicians to verify and measure compliance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>intavenous therapy</s:tag>
+    <s:tag>IV Accessories</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/400625074210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1192.18</s:price>
+      <s:sku>MMM CSA1-270</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412986048546</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-arteriovenous-fistula-needle-buttonhole%C2%AE-steripick%E2%84%A2-14-15-16-or-17-gauge-1-inch-twin-packs-250-cs"/>
+    <title>Arteriovenous Fistula Needle ButtonHole® SteriPick™ 14 or 15 Gauge 1 Inch, Single Packs, 250/cs</title>
+    <s:type>Fistula Needle</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/shopping-4.jpeg?v=1564463283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Fistula Needle<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN BUTTONHOLE AVF NEEDLE SETS</span> </h3>
+<h4>The SteriPick provides a highly effective solution designed for the safe and simple removal of the ButtonHole scab</h4>
+<ul>
+<li>Needle Set,</li>
+<li>SteriPick™,</li>
+<li>Single Packs,</li>
+<li>250/cs</li>
+</ul>
+<ol>
+<li>14G x 1"</li>
+<li>15G x 1"</li>
+</ol>
+<p>**You must have a Physician's License to Order this Product**</p>
+<p><a href="https://aossmedicalsupply.com/pages/physicians-license" title="Click Here to Order"><strong>Click Here to Order</strong></a></p>
+<p>Please call 1(800) 462-8310 or email <a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a> for more details on ordering this item. Thank you!</p>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>butterfly needle</s:tag>
+    <s:tag>Fistula Needles</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412986048546</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>BH-7005PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412968419362</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-medical-needle-set-steripick%E2%84%A2-buttonhole-sets-fistula-needles-twin-packs-250-cs-14g-15g-16g-or-17g-x-1"/>
+    <title>B Braun Arteriovenous Fistula Needle ButtonHole® SteriPick™ 15, 16, or 17 Gauge 3/5 Inch, Twin Packs, 250/cs</title>
+    <s:type>Fistula Needle</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/shopping-2.jpeg?v=1564463284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Fistula Needle<br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN BUTTONHOLE AVF NEEDLE SETS</span> </h3>
+<ul>
+<li>Needle Set</li>
+<li>SteriPick™</li>
+<li>Twin Packs (115 pr of 2 needles each + 20 single needles)</li>
+<li>250/cs</li>
+</ul>
+<ol>
+<li>15G x 3/5"</li>
+<li>16G x 3/5"</li>
+<li>17G x 3/5"</li>
+</ol>
+<p>**Must have a Physician's License to Order this Product**</p>
+<p><a href="https://aossmedicalsupply.com/pages/physicians-license" target="_blank" title="Click Here to Order" rel="noopener noreferrer"><strong>Click Here to Order</strong></a></p>
+<p>Please call 1(800) 462-8310 or email <a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a> for more details on ordering this item. Thank you!</p>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>butterfly needle</s:tag>
+    <s:tag>Fistula Needles</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412968419362</id>
+      <title>15G x 3/5&quot; Twin</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku>BH-2035PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/412629041186</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/b-braun-medical-needle-set-steripick%E2%84%A2-14g-x-1-twin-packs-115-pairs-of-2-needles-each-20-single-needles-250-cs"/>
+    <title>Arteriovenous Fistula Needle ButtonHole® SteriPick™ 14, 15, 16, or 17 Gauge 1 Inch, Twin Packs, 250/cs</title>
+    <s:type>Fistula Needle</s:type>
+    <s:vendor>B. Braun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/51FA08A5B8E30C80E1008000D400106F51FA08A7B8E30C80E1008000D400106F.jpeg?v=1561050004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>B. Braun<br>
+        <strong>Type: </strong>Fistula Needle<br>
+        <strong>Price: </strong>
+            245.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h3>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName">B BRAUN BUTTONHOLE AVF NEEDLE SETS</span> </h3>
+<p>Needle Set, SteriPick™, Twin Packs (115 pr of 2 needles each + 20 single needles), 250/cs</p>
+<ol>
+<li>14G x 1"</li>
+<li>15G x 1"</li>
+<li>16G x 1"</li>
+<li>17G x 1"</li>
+</ol>
+<p>**Must have a Physician's License to Order this Product**</p>
+<p> </p>
+<p><strong><a href="https://aossmedicalsupply.com/pages/physicians-license">Submit Physician's License Here</a></strong></p>
+<strong> </strong>*Once item is purchased you will be contacted by an AOSS Representative to obtain Physician's License. Order will be held until License is received."
+<p> </p>
+<p>Please call 1(800) 462-8310 or email <a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a> for more details on ordering this item. Thank you!</p>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterfly</s:tag>
+    <s:tag>butterfly needle</s:tag>
+    <s:tag>buttonhole</s:tag>
+    <s:tag>buttonhole needle</s:tag>
+    <s:tag>Fistula Needles</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412629041186</id>
+      <title>14g x 1” Twin</title>
+      <s:price currency="USD">245.95</s:price>
+      <s:sku>BH-2004PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412629041186</id>
+      <title>15g x 1” Twin</title>
+      <s:price currency="USD">245.95</s:price>
+      <s:sku>BH-2005PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412629041186</id>
+      <title>16g x 1” Twin</title>
+      <s:price currency="USD">245.95</s:price>
+      <s:sku>BH-2006PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/412629041186</id>
+      <title>17g x 1” Twin</title>
+      <s:price currency="USD">245.95</s:price>
+      <s:sku>BH-2007PE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398486405154</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-exel-multi-draw-needle-22g-x-1-1-2"/>
+    <title>Exel Multi-Draw Needle 22G x 1 1/2&quot;</title>
+    <s:type>Blood Collection Needle</s:type>
+    <s:vendor>Exel Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/EXE26501-1-_1.jpg?v=1564463286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exel Corporation<br>
+        <strong>Type: </strong>Blood Collection Needle<br>
+        <strong>Price: </strong>
+            11.28 - 72.60
+            <a href="https://aossmedicalsupply.com/products/copy-of-exel-multi-draw-needle-22g-x-1-1-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">EXEL MULTI-DRAW NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Multi-Draw Needle, 22G x 1½", </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 10 bx/cs = 1000/ Case</span></p>
+<p>Product Description:</p>
+<div>Latex free. Sterile. Allows several samples to be taken from a single needle puncture</div>
+<div></div>
+<div>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul id="itemFeatures"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Collection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398486405154</id>
+      <title>BX</title>
+      <s:price currency="USD">11.28</s:price>
+      <s:sku>EXE 26506-B</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398486405154</id>
+      <title>CS</title>
+      <s:price currency="USD">72.60</s:price>
+      <s:sku>EXE 26506-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398484013090</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-bd-vacutainer%C2%AE-eclipse%E2%84%A2-blood-collection-needle-21-gauge-1-1-4-inch-needle-length-safety-needle-without-tubing-sterile"/>
+    <title>Exel Multi-Draw Needle 22G x 1&quot;</title>
+    <s:type>Blood Collection Needle</s:type>
+    <s:vendor>Exel Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/EXE26501-1.jpg?v=1559106116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exel Corporation<br>
+        <strong>Type: </strong>Blood Collection Needle<br>
+        <strong>Price: </strong>
+            9.50 - 95.58
+            <a href="https://aossmedicalsupply.com/products/copy-of-bd-vacutainer%C2%AE-eclipse%E2%84%A2-blood-collection-needle-21-gauge-1-1-4-inch-needle-length-safety-needle-without-tubing-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">EXEL MULTI-DRAW NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Multi-Draw Needle, 22G x 1", </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 10 bx/cs = 1000/ Case</span></p>
+<p><strong>Product Description:</strong></p>
+<div>Latex free. Sterile. Allows several samples to be taken from a single needle puncture</div>
+<div></div>
+<div>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul id="itemFeatures"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blood Collection</s:tag>
+    <s:tag>blood collection supplies</s:tag>
+    <s:tag>dialysis</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>plasma</s:tag>
+    <s:tag>safety needle</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398484013090</id>
+      <title>BX</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>EXE 26505-B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398484013090</id>
+      <title>CS</title>
+      <s:price currency="USD">95.58</s:price>
+      <s:sku>EXE 26505-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398477787170</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hypodermic-needle-safetyglide%E2%84%A2-sliding-safety-needle-21-gauge-1-1-2-inch"/>
+    <title>Hypodermic Needle SafetyGlide™ Sliding Safety Needle 21 Gauge 1-1/2 Inch</title>
+    <s:type>Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/403188.jpg?v=1564690104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Hypodermic Needle<br>
+        <strong>Price: </strong>
+            252.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span face="Trebuchet MS" size="3" color="#000000">BD SAFETYGLIDE™ NEEDLES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 21 G x 1½" BD SafetyGlide™, </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">50/bx, 10 bx/cs = 500/ Case (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Activation-Assist™ Needle Shield</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+<ul id="itemFeatures"></ul>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hypodermic Needle</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398477787170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">252.20</s:price>
+      <s:sku>BEC 305917</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398476673058</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hypodermic-needle-eclipse%E2%84%A2-hinged-safety-needle-22-gauge-1-inch"/>
+    <title>Hypodermic Needle Eclipse™ Hinged Safety Needle 22 Gauge 1 Inch</title>
+    <s:type>Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10018_8ede5808-1fbc-4a89-9ee3-66f3b6477016.jpg?v=1564463288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Hypodermic Needle<br>
+        <strong>Price: </strong>
+            391.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>BD ECLIPSE™ NEEDLES</p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 22G x 1", For Luer Lok Syringes Only, </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 12 bx/cs = 1200/ Case (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures" class="unordered-list">
+<li>Single-handed activation</li>
+<li>No hard surface required for activation</li>
+<li>Bevel--oriented needle allows for low-angle injections</li>
+<li>BD PrecisionGlide™ needles minimize injection pain and patient discomfort</li>
+<li>Needle-based design facilitates standardization and SKU reduction</li>
+<li>For use with BD Luer-Lok™ syringes only</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hypodermic Needle</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398476673058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">391.36</s:price>
+      <s:sku>BEC 305768</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398474117154</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hypodermic-needle-eclipse%E2%84%A2-hinged-safety-needle-25-gauge-1-1-2-inch"/>
+    <title>Hypodermic Needle Eclipse™ Hinged Safety Needle 25 gauge 1-1/2 Inch</title>
+    <s:type>Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10018_9e50af34-90f0-4cd4-b0b0-c9c69b9cb4b9.jpg?v=1564690102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Hypodermic Needle<br>
+        <strong>Price: </strong>
+            423.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>BD ECLIPSE™ NEEDLES</p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 25G x 1½", For Luer Lok Syringes Only, </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 12 bx/cs = 1200/ Box (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Single-handed activation</li>
+<li>No hard surface required for activation</li>
+<li>Bevel--oriented needle allows for low-angle injections</li>
+<li>Needle-based design facilitates standardization and SKU reduction</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hypodermic Needle</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398474117154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">423.88</s:price>
+      <s:sku>BEC 305767</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398471790626</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-hypodermic-needle-eclipse%E2%84%A2-hinged-safety-needle-22-gauge-1-1-2-inch"/>
+    <title>Hypodermic Needle Eclipse™ Hinged Safety Needle 21 Gauge 1 Inch</title>
+    <s:type>Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10018_77414b74-315d-46e4-b8a7-4a5806128166.jpg?v=1559106119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Hypodermic Needle<br>
+        <strong>Price: </strong>
+            423.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>BD ECLIPSE™ NEEDLES</p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 21G x 1", For Luer Lok Syringes Only,</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 12 bx/cs = 1200/ Case (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Pivoting Shielding Mechanism</li>
+<li>No hard surface required for activation</li>
+<li>Bevel--oriented needle allows for low-angle injections</li>
+<li>BD PrecisionGlide™ needles minimize injection pain and patient discomfort</li>
+<li>Needle-based design facilitates standardization and SKU reduction</li>
+<li>For use with BD Luer-Lok™ syringes only</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+<ul id="itemFeatures" class="unordered-list"></ul>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hypodermic Needle</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398471790626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">423.88</s:price>
+      <s:sku>BEC 305764</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398469595170</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-terumo-surguard3-safety-needle-with-3cc-syringe-21g-x-1"/>
+    <title>Hypodermic Needle Eclipse™ Hinged Safety Needle 22 Gauge 1-1/2 Inch</title>
+    <s:type>Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv10018_de5966f8-2c6d-48b5-951d-75aa2f64e84c.jpg?v=1564463289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Hypodermic Needle<br>
+        <strong>Price: </strong>
+            391.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p> BD ECLIPSE™ NEEDLES</p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Needle, 22G x 1½", For Luer Lok Syringes Only, </span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">100/bx, 12 bx/cs = 1200 (Continental US Only)</span></p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures" class="unordered-list">
+<li>Pivoting Shielding Mechanism</li>
+<li>No hard surface required for activation</li>
+<li>Bevel--oriented needle allows for low-angle injections</li>
+<li>BD PrecisionGlide™ needles minimize injection pain and patient discomfort</li>
+<li>Needle-based design facilitates standardization and SKU reduction</li>
+<li>For use with BD Luer-Lok™ syringes only</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hypodermic Needle</s:tag>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398469595170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">391.36</s:price>
+      <s:sku>BEC 305763</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398455210018</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-syringe-with-hypodermic-needle-eclipse%E2%84%A2-10-ml-22-gauge-1-1-2-inch-detachable-needle-hinged-safety-needle-2"/>
+    <title>TERUMO Syringe with Hypodermic Needle SurGuard® 3 3 mL 21 Gauge 1 Inch Detachable Needle Hinged Safety Needle</title>
+    <s:type>Syringe with Hypodermic Needle</s:type>
+    <s:vendor>Terumo Medical Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/shopping.jpeg?v=1564690144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Terumo Medical Corp.<br>
+        <strong>Type: </strong>Syringe with Hypodermic Needle<br>
+        <strong>Price: </strong>
+            181.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><strong><span face="Trebuchet MS" size="3" color="#000000">TERUMO SURGUARD3® SYRINGE WITH SAFETY NEEDLES</span></strong></p>
+<ul>
+<li>SurGuard® 3</li>
+<li>Terumo Medical</li>
+<li>Syringe with Hypodermic Needle</li>
+<li>21 Gauge</li>
+<li>1 Inch</li>
+<li>Stainless Steel</li>
+<li>Detachable Needle</li>
+<li>Hinged Safety Needle</li>
+<li>Sterile</li>
+<li>Polypropylene</li>
+<li>Luer Lock Tip</li>
+</ul>
+<p><span>100/bx, 4 bx/cs = 400/ Box</span></p>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p>
+</div>
+<ul class="unordered-list dontprint"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>Syringes and Hypodermic Needles</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398455210018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">181.42</s:price>
+      <s:sku>SG3-03L2125</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398449999906</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-syringe-with-hypodermic-needle-safetyglide%E2%84%A2-3-ml-22-gauge-1-1-2-inch-detachable-needle-sliding-safety-needle"/>
+    <title>Syringe with Hypodermic Needle SafetyGlide™ 1 mL 25 Gauge 5/8 Inch Detachable Needle Sliding Safety Needle</title>
+    <s:type>Syringe with Hypodermic Needle</s:type>
+    <s:vendor>Becton Dickinson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/999102916.jpg?v=1564690136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Becton Dickinson<br>
+        <strong>Type: </strong>Syringe with Hypodermic Needle<br>
+        <strong>Price: </strong>
+            171.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Trebuchet MS" size="3" color="#000000">BD SAFETYGLIDE™ NEEDLES &amp; SYRINGES</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">Syringe, 1mL, 25G x 5/8" Shielding Subcutaneous Injection Needle, Regular Bevel, Regular Wall, Detachable Needle</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">50/bx, 8 bx/cs = 400/ Box (Continental US Only)</span></p>
+<ul>
+<li>Shielding Mechanism</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>Syringes and Hypodermic Needles</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398449999906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">171.11</s:price>
+      <s:sku>BEC 305903</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/398434566178</id>
+    <published>2017-11-29T03:15:59-06:00</published>
+    <updated>2017-11-29T03:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/syringe-with-hypodermic-needle-needle-pro%C2%AE-edge%E2%84%A2-3-ml-23-gauge-1-inch-detachable-needle-hinged-safety-needle"/>
+    <title>Syringe with Hypodermic Needle Needle-Pro® EDGE™ 3 mL 23 Gauge 1 Inch Detachable Needle Hinged Safety Needle</title>
+    <s:type>Syringe with Hypodermic Needle</s:type>
+    <s:vendor>Smiths Medical ASD, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SMITHS_562635.jpg?v=1564690136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smiths Medical ASD, Inc.<br>
+        <strong>Type: </strong>Syringe with Hypodermic Needle<br>
+        <strong>Price: </strong>
+            281.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Trebuchet MS" size="3" color="#000000">Needle, Safety, Edge® Hypodermic, 23G x 1", 3cc Luer Lock Syringe</span></p>
+<p><span face="Trebuchet MS" size="3" color="#000000">50/bx, 8 bx/cs = 400/ Box (US Only)</span></p>
+<ul>
+<li>This product is required to be reported under California Proposition 65</li>
+</ul>
+<p><strong>**Must have a Physician's License to Order this Product**</strong></p>
+<p><strong>Please call 1(800) 462-8310 or email<span> </span><a href="mailto:customerservice@aossmedical.com">customerservice@aossmedical.com</a><span> </span>for more details on ordering this item. Thank you!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hypodermic needles</s:tag>
+    <s:tag>needle protection</s:tag>
+    <s:tag>needles &amp; syringes</s:tag>
+    <s:tag>phlebotomy</s:tag>
+    <s:tag>Syringes and Hypodermic Needles</s:tag>
+    <s:tag>venipuncture</s:tag>
+    <s:tag>venipuncture needle protection</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/398434566178</id>
+      <title>Default Title</title>
+      <s:price currency="USD">281.94</s:price>
+      <s:sku>MDX 432310</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>

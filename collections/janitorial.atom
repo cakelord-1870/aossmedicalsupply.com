@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/janitorial.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-07-22T10:38:46-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3830008905762</id>
+    <published>2019-07-22T10:38:46-05:00</published>
+    <updated>2019-07-22T10:38:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-facial-tissues-8-x-7"/>
+    <title>Dynarex Facial Tissues 8&quot; x 7&quot;</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>Dynarex Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/1308.jpg?v=1563819852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex Corporation<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            23.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tab-switcher product-description">
+<div class="attr-content">Dynarex High Quality Facial Tissues &amp; Towels Designed to be Strong and Absorbent.</div>
+</div>
+<div class="tab-switcher">
+<h3>Features</h3>
+<div class="attr-content">
+<ul>
+<li>Soft and delicate for sensitive skin</li>
+<li>Standard 2-ply facial tissues</li>
+<li>An economical choice for your facilities</li>
+<li>100/BX </li>
+<li>30BX/CS</li>
+<li>Sold by the Case</li>
+</ul>
+</div>
+</div>
+<div class="tab-switcher">
+<h3 class="specification-tab">Specification</h3>
+<div class="attr-content">
+<ul>
+<li>Size: 8" x 7"</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>facial tissue</s:tag>
+    <s:tag>janitorial supplies</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3830008905762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.87</s:price>
+      <s:sku>1308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3824925573154</id>
+    <published>2019-07-18T15:56:26-05:00</published>
+    <updated>2019-07-18T15:56:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/bounty-essentials-paper-towels-40-sheets-roll-30-rolls-carton"/>
+    <title>Bounty Essentials Paper Towels, 40 Sheets/Roll, 30rl/CS</title>
+    <s:type>Paper towel</s:type>
+    <s:vendor>Proctor &amp; Gamble</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/605705-500x500-0.jpg?v=1563624764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Proctor &amp; Gamble<br>
+        <strong>Type: </strong>Paper towel<br>
+        <strong>Price: </strong>
+            46.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="small">These affordably priced paper towels are strong enough to handle lifes everyday spills and messes. Towel/Wipe Type: Perforated Household Roll; Application: General Purpose; Material(s): Paper; Number of Plies: 2.</p>
+<h3 class="section-title-small topmargin-3">Features</h3>
+<ul class="dots topmargin-3">
+<li>
+<p>Affordably priced.</p>
+</li>
+<li>
+<p>Two-ply paper towels.</p>
+</li>
+<li>
+<p>Ideal to use for everyday spills and messes.</p>
+</li>
+</ul>
+<p>Sold by the CS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>bounty</s:tag>
+    <s:tag>bounty paper towels</s:tag>
+    <s:tag>paper products</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3824925573154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.25</s:price>
+      <s:sku>PGC74657</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3824865607714</id>
+    <published>2019-07-18T14:23:05-05:00</published>
+    <updated>2019-07-18T14:23:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kleenex-jr-facial-tissue-8-4-x-5-8-2-ply-white"/>
+    <title>Kleenex Jr. Facial Tissue 8.4&quot; x 5.8&quot; 2 Ply White</title>
+    <s:type>Kleenex</s:type>
+    <s:vendor>Kimberly-Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/kleenex-facial-tissues.jpg?v=1563624804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark<br>
+        <strong>Type: </strong>Kleenex<br>
+        <strong>Price: </strong>
+            49.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Delivers premium quality and preferred for superior softness, strength and absorbency, our </span><strong>Kleenex Facial Tissues</strong><span> are a great addition to any room for when you need to wipe, noses, hands, face, and more.</span></p>
+<div class="tab-switcher product-description">
+<div class="attr-content">Kleenex® Jr. Facial Tissue, 8.4" x 5.8", 2-Ply, White.</div>
+</div>
+<div class="tab-switcher">
+<h3 class="specification-tab">Specification</h3>
+<div class="attr-content">
+<ul>
+<li>Dimensions: 8.4" x 5.8"</li>
+<li>2-Ply</li>
+<li>Color: White</li>
+<li>40 Tissue/Box</li>
+<li>80 Box/ Case</li>
+<li>Sold by the case</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>facial tissue</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>paper products</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3824865607714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.65</s:price>
+      <s:sku>21195-04</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760254550050</id>
+    <published>2019-06-10T16:34:28-05:00</published>
+    <updated>2019-06-10T16:34:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/touchless-foaming-hand-soap-dispenser-black-kcc-92148"/>
+    <title>Touchless Foaming Hand Soap Dispenser, Black (KCC 92148)</title>
+    <s:type>Soap Dispenser</s:type>
+    <s:vendor>Kimberly Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/187729.jpg?v=1560363861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Clark<br>
+        <strong>Type: </strong>Soap Dispenser<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row" style="display: inline !important;">
+<div class="small-12 columns" style="display: inline !important;">
+<h2 style="display: inline !important;">Electronic Cassette Skin Care Dispenser</h2>
+<p>Reduce cross-contamination and the spread of germs. This new electronic system represents the height of hygienic operation with reliable, controlled dispensing. Long battery life; dispenses 60,000 single uses. Easy to load. Low-battery and low product indicator lights. 1200-ml cassette refills. Perfect for the home, office or other industrial situation, this dispenser is specifically designed to helps eliminate messy drips. The touch-free dispensing system ensures no need to touch the dispenser—ideal for hand hygiene. Automatically dispenses the perfect amount of soap needed in a single shot. Black. Each.</p>
+<p><strong>Product Specifications</strong></p>
+<ul>
+<li>Global Product Type: Soap Dispensers-Liquid, Automatic</li>
+<li>Dispenser Type: For Foam</li>
+<li>Capacity (Volume): 1200 mL</li>
+<li>Color(s): Black</li>
+<li>Height: 11 12/25"</li>
+<li>Width: 7 1/4"</li>
+<li>Depth: 4"</li>
+<li>For Use With: KIM-91594;KIM-91590;KIM-91591;KIM-91592</li>
+<li>Small enough to be mounted anywhere for quick sanitizing -- hallways, common areas, entryways and break rooms</li>
+<li>Long battery life -- 60,000 single uses before battery needs changing (battery included)</li>
+<li>Quiet and reliable</li>
+<li>Electronic, controlled dispensing reduces waste</li>
+<li>Low battery and low product indicator lights</li>
+<li>FREE SHIPPING!</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric soap dispenser</s:tag>
+    <s:tag>kimberly clark soap dispenser</s:tag>
+    <s:tag>soap dispenser</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760254550050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>92148</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760173383714</id>
+    <published>2019-06-10T14:13:17-05:00</published>
+    <updated>2019-06-10T14:13:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/windex-multi-surface-disinfectant-lemon-23-oz-8-spray-bottles"/>
+    <title>Windex Multi-Surface Disinfectant, Lemon, 23 oz, 8 Spray Bottles</title>
+    <s:type>Multi-surface Disinfectanct</s:type>
+    <s:vendor>SC Johnson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/580539.jpg?v=1560363865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SC Johnson<br>
+        <strong>Type: </strong>Multi-surface Disinfectanct<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Streak-free shine. Cleans, shines and kills 99.9% of germs, viruses, and bacteria on hard, non-porous surfaces. Works on countertops like Corian, sealed granite, sealed marble (real or synthetic), formica and exterior surfaces of appliances like microwaves, stovetops, kitchen sinks, stainless steel, glazed ceramic tile, windows, plastic, vinyl, glass, and more.</span></div>
+<ul>
+<li>Leaves no dull residue behind</li>
+<li>Kills 99.9% of germs</li>
+<li>Clean windows, glass and much more</li>
+<li>Works on multiple surfaces</li>
+<li>10-second sanitization</li>
+<li>Lemon scent</li>
+<li>23-oz. Trigger spray bottles</li>
+<li>8 Bottle per carton</li>
+<li>Windex 305498 Multi-Surface Disinfectant Cleaner</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaners</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>Disinfectants</s:tag>
+    <s:tag>janitorial supplies</s:tag>
+    <s:tag>windex cleaners</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760173383714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>703469</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760151560226</id>
+    <published>2019-06-10T13:39:11-05:00</published>
+    <updated>2019-06-10T13:39:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/angle-broom-plastic-bristles-53-wood-handle-yellow-ea"/>
+    <title>Angle Broom, Plastic Bristles, 53&quot; Wood Handle, Yellow-EA</title>
+    <s:type>Broom</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/617ThZyFiQL._SL1300.jpg?v=1560363844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Broom<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td class="bucket normal">
+<h2>Product features</h2>
+<div class="content">
+<ul>
+<li>Big 13" sweeping surface with sturdy flagged-tip plastic bristles.</li>
+<li>Angled cut for sweeping corners, edges and under counters.</li>
+<li>Lacquered wood handle with plastic angled shroud.</li>
+<li class="listing">Brush Length : 13 in, 42" Wood Handle</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>broom</s:tag>
+    <s:tag>cleaning supplies</s:tag>
+    <s:tag>janitorial supplies</s:tag>
+    <s:tag>plastic broom</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760151560226</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CFP41362</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760101163042</id>
+    <published>2019-06-10T13:20:29-05:00</published>
+    <updated>2019-06-10T13:20:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/zephyr%C2%AE-23536-disposable-dust-mop-head-36-in-l-x-5-in-w-cotton-natural"/>
+    <title>Zephyr® 23536 Disposable Dust Mop Head, 36 in L x 5 in W, Cotton, Natural</title>
+    <s:type>Dust Mop Head</s:type>
+    <s:vendor>Zephyr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/zephyr_23536.jpg?v=1560363867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zephyr<br>
+        <strong>Type: </strong>Dust Mop Head<br>
+        <strong>Price: </strong>
+            12.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Zephyr® disposable dust mop offers you a durable and cost effective dusting tool. Built on a tough typar mitt with a durable quality yarn, these disposables have an extra end-cuff which extends the life of the mitt to give you maximum usage. Every disposable is individually bagged and treated to insure maximum dust retention.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dusting</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>mop</s:tag>
+    <s:tag>mop head</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760101163042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.85</s:price>
+      <s:sku>DM23536W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760089694242</id>
+    <published>2019-06-10T13:11:50-05:00</published>
+    <updated>2019-06-10T13:11:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/long-lasting-urinal-screen-and-deodorizer-with-non-para-block-12-pack-universal-fit-citrus-scent-cake-releases-cleaning-agents-to-remove-odor"/>
+    <title>Urinal Screen and Deodorizer with Non-Para Block 12 Pack. Universal-Fit, Citrus-Scent Cake Releases Cleaning Agents To Remove Odor</title>
+    <s:type>Urinal Screen</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/14b93744-b7c6-497e-8248-f28ad2b41d05_1.8fe8f340f883dce8c16a1b8e9d9e57c3.jpeg?v=1560363862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Urinal Screen<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Not only do they smell great, but Mop Mob’s urinal screens are made with a 3 oz block that releases cleaning agents with each flush. Simply place the easy to install, long lasting screen in your school, business, restaurant, or office’s urinal and let our product do the cleaning for you. Replace the screen whenever the cake stops releasing a colored liquid when you flush the urinal.<br><br>Buying our 12 pack of long lasting, great smelling screens lets you worry about the important things like building your business, instead of the minor things like is my urinal clean or am I going to run out of blocks. Stock up with our bulk deal so that you can save money, have more time to do what you want, and have your urinals require less work.<br><br>Due to the anti-bacterial design and the urine splash-back prevention keeping employees from tracking urine throughout the building our customers have reported an increase in employee health since they began using our product. Helping to keep employees healthy ensures that you get their best work and that workers take fewer sick days.<br><br>Our screens are designed to be usable in any common urinals. Buy with confidence knowing that changing out our urinal screens will be a piece of cake.<br><br>If you aren’t completely satisfied with your order, simply reach out to us through the Amazon messaging service and we will respond within 24 hours to make it right even on the weekends. We absolutely guarantee your satisfaction or your money back!</p>
+<ul>
+<li>CLEANS WITH EACH FLUSH! Our heavy-duty citrus scented block releases surfactants and chelates with each flush to clean and deodorize urinals so you don’t have to worry on busy nights.</li>
+<li>PREMIUM DESIGN PREVENTS DEBRIS FROM CAUSING COSTLY CLOGS. The flexible screen keeps gum, trash, and other debris often dropped into urinals from entering the drain and causing damaging clogs.</li>
+<li>EVEN THE HIGHEST VOLUME URINAL WILL BE ODOR-FREE. The powerful, citrus scented block reliably neutralizes odors that build up in busy restrooms.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>urinal</s:tag>
+    <s:tag>urinal cake</s:tag>
+    <s:tag>urinal cleaning</s:tag>
+    <s:tag>urinal odor</s:tag>
+    <s:tag>urinal screen</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760089694242</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>800006</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760079503394</id>
+    <published>2019-06-10T13:00:13-05:00</published>
+    <updated>2019-06-10T13:00:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/diversey-crew-neutral-non-acid-bowl-bathroom-disinfectant"/>
+    <title>Diversey Crew Neutral Non-Acid Bowl &amp; Bathroom Disinfectant</title>
+    <s:type>Bathroom Cleaner</s:type>
+    <s:vendor>Diversey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/e892695d-87ab-4571-9707-4b178762f285_1.a61162d70ffb20bb5c916d1013de0289.jpeg?v=1560363852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diversey<br>
+        <strong>Type: </strong>Bathroom Cleaner<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Multi-surface restroom disinfectant cleans and deodorizes multiple bathroom fixtures in one easy step. Non-acid formula is safe to use on hard, non-porous surfaces on a daily basis. Easily eliminate odors at the source using spray and wipe application. No rinsing is required.</span>
+<ul>
+<li>Restroom disinfectant cleans and deodorizes multiple bathroom fixtures.</li>
+<li>Safe to use on hard, non-porous surfaces on a daily basis.</li>
+<li>Eliminate odors at the source.</li>
+<li>No rinsing is required.</li>
+<li>Model Number: 100925283</li>
+</ul>
+<div id="specifications" title="Specifications" class="Specifications">
+<h3 class="moduleHeading">Specifications</h3>
+<div id="specifications" title="Specifications" class="Specifications">
+<table class="table table-striped-odd specification">
+<tbody>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Volume Capacity</td>
+<td colspan="1" rowspan="1">
+<div>32 fl.oz</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Count</td>
+<td colspan="1" rowspan="1">
+<div>12</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Multipack Quantity</td>
+<td colspan="1" rowspan="1">
+<div>12</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Scent</td>
+<td colspan="1" rowspan="1">
+<div>Fresh</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Model</td>
+<td colspan="1" rowspan="1">
+<div itemprop="Model">100925283</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Brand</td>
+<td colspan="1" rowspan="1">
+<div>Diversey</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Recommended Room</td>
+<td colspan="1" rowspan="1">
+<div>Bathroom</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Piece Count</td>
+<td colspan="1" rowspan="1">
+<div>1</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Recommended Use</td>
+<td colspan="1" rowspan="1">
+<div>Sink, Bathroom, Toilet bowl, Countertops, Urinal</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Recommended Surface</td>
+<td colspan="1" rowspan="1">
+<div>Ceramic; Fiberglass; Grout; Metal; Plastic</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Recommended Location</td>
+<td colspan="1" rowspan="1">
+<div>Indoor</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Form</td>
+<td colspan="1" rowspan="1">
+<div>Liquids</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Material</td>
+<td colspan="1" rowspan="1">
+<div>Plastic</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Manufacturer Part Number</td>
+<td colspan="1" rowspan="1">
+<div>100925283</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Color</td>
+<td colspan="1" rowspan="1">
+<div itemprop="Color">White</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Container Type</td>
+<td colspan="1" rowspan="1">
+<div>Squeeze bottle</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Features</td>
+<td colspan="1" rowspan="1">
+<div>Disinfectant, Non-abrasive, Deodorize,<span> </span><a href="http://walmart-collection.content.etilize.com/Detailed-Specs/EN/1038548185.html" target="_blank" rel="nofollow noopener noreferrer">Click to view</a>, Non-porous</div>
+</td>
+</tr>
+<tr>
+<td class="display-name" colspan="1" rowspan="1">Assembled Product Weight</td>
+<td colspan="1" rowspan="1">
+<div>27.84 lbs</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bathroom cleaner</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>diversey</s:tag>
+    <s:tag>non-aci</s:tag>
+    <s:tag>non-acid</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760079503394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>MDI2238Q</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760061513762</id>
+    <published>2019-06-10T12:48:53-05:00</published>
+    <updated>2019-06-10T12:48:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/clorox-disinfecting-toiletwand-refill-heads"/>
+    <title>Clorox Disinfecting ToiletWand Refill Heads</title>
+    <s:type>Toilet Cleaner</s:type>
+    <s:vendor>Clorox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ff562c90b85415e47648a33e36fb8fe650.jpg?v=1560363849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clorox<br>
+        <strong>Type: </strong>Toilet Cleaner<br>
+        <strong>Price: </strong>
+            37.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>Clorox Disinfecting ToiletWand Refill Heads, 6/Pack - Refill includes six disposable heads for the Clorox Toilet Wand Cleaning Kit. These disposable heads kill germs and clean your toilet bowl quickly, easily and with zero mess. Preloaded with Clorox toilet bowl cleaner, these disinfecting cleaning heads power through stains while they kill 99.9 percent of germs like staphylococcus aureus, salmonella enterica, rhinovirus type 37 and Influenza A. The spongy cleaning refills conform to surfaces and scrub hard-to-reach places, even under the rim. Simply click a toilet-cleaning head in place, swish the toilet bowl and toss the disposable head into the trash bin when you're done. Refill head measures 2-1/2 x 2-1/2" x 1-1/4"."</p>
+</div>
+<ul class="styled-list">
+<li>Unique design for hygienic use and disposal—eliminates the need to store a dirty, germ-ridden toilet brush.</li>
+<li>Sponge-like head conforms to the toilet bowl to clean hard-to-reach places.</li>
+<li>Disposable cleaning head comes preloaded with concentrated Clorox® foaming cleaner for fresh refill each time.</li>
+<li>48/CS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clorox</s:tag>
+    <s:tag>toilet bowl</s:tag>
+    <s:tag>toilet bowl cleaner</s:tag>
+    <s:tag>toilet wand</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760061513762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.54</s:price>
+      <s:sku>CLO14882CT</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760051355682</id>
+    <published>2019-06-10T12:43:36-05:00</published>
+    <updated>2019-06-10T12:43:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/charmin-2-ply-bathroom-tissue-ultra-strong-white-71-sheets-per-roll-pack-of-24-rolls"/>
+    <title>Charmin 2-Ply Bathroom Tissue, Ultra Strong, White, 71 Sheets Per Roll, Pack Of 24 Rolls</title>
+    <s:type>Toilet Paper</s:type>
+    <s:vendor>Charmin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/306555.jpg?v=1560363844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charmin<br>
+        <strong>Type: </strong>Toilet Paper<br>
+        <strong>Price: </strong>
+            15.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keeping your restrooms fully stocked with everyday essentials helps ensure that your facility runs smoothly and efficiently. This Charmin bathroom tissue is highly absorbent and helps minimize the amount used and maintenance time.</p>
+<p> </p>
+<ul class="description">
+<li>Super-absorbent toilet paper helps reduce the amount used for fewer refills and increased efficiency.</li>
+<li>2-ply paper provides soft, comfortable use.</li>
+<li>2-ply, Ultra Strong bathroom tissue is extra durable.</li>
+<li>White bathroom tissue comes with 71 sheets per roll in a pack of 24 rolls to help ensure you have enough on hand.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>bathroom tissue</s:tag>
+    <s:tag>charmin</s:tag>
+    <s:tag>toilet paper</s:tag>
+    <s:tag>toilet tissue</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760051355682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.66</s:price>
+      <s:sku>PGC99016</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3760030646306</id>
+    <published>2019-06-10T12:25:12-05:00</published>
+    <updated>2019-06-10T12:25:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/system-clean-glass-window-cleaner-18-5-oz-aerosol-can"/>
+    <title>SYSTEM CLEAN Glass &amp; Window Cleaner - 18.5-OZ. Aerosol Can</title>
+    <s:type>Glass &amp; Window Cleaner</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/window_clenaer.png?v=1560363860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Glass &amp; Window Cleaner<br>
+        <strong>Price: </strong>
+            5.25 - 33.99
+            <a href="https://aossmedicalsupply.com/products/system-clean-glass-window-cleaner-18-5-oz-aerosol-can">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Industrial strength, high foaming and nonammoniated. Heavy-bodied clinging foam contains oil-cutting detergents and degreasers. Easily rids glass of dirt, film, grime, grease, bugs and smears. Contains no oils, waxes or silicones and leaves no streaky residue to attract new dirt.</span></p>
+<p><span><b>Product Details:</b><br>• 12 Cans per Case <br>• 18.5-oz. Aerosol Can </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning supplies</s:tag>
+    <s:tag>glass cleaner</s:tag>
+    <s:tag>janitorial supplies</s:tag>
+    <s:tag>window cleaner</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760030646306</id>
+      <title>EA</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>SYS2020-EA</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3760030646306</id>
+      <title>12/CS</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>SYS2020-CS</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3759912484898</id>
+    <published>2019-06-10T11:01:26-05:00</published>
+    <updated>2019-06-10T11:01:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/fabuloso%C2%AE-all-purpose-cleaner-lavender-1-gallon-concentrate"/>
+    <title>Fabuloso® All-Purpose Cleaner, Lavender, 1 Gallon Concentrate</title>
+    <s:type>All-purpose Cleaner</s:type>
+    <s:vendor>Fabuloso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/41UQVppO1xL.jpg?v=1560363855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fabuloso<br>
+        <strong>Type: </strong>All-purpose Cleaner<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="skuBreadcrumbs">
+<div id="siteBreadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<div>Ready-to-use, Fabuloso all-purpose cleaner is effective for a wide variety of cleaning applications. From the bathroom to the kitchen and more, pick up Fabuloso cleaner to make those messes disappear.</div>
+</div>
+</div>
+<div itemscope="" itemtype="http://schema.org/Product">
+<div class="skuDetails">
+<div id="productTabs">
+<div id="skuDetails">
+<section id="descriptionContent">
+<div class="sku_desc show">
+<p> </p>
+<ul class="description">
+<li>Leaves a long-lasting fresh scent behind, but won't leave a residue. Use it for cleaning walls, floors, kitchens, food service areas, restrooms and almost anywhere else you need to clean.</li>
+<li>Neutral pH makes it safe for people.</li>
+<li>1 gallon concentrate makes 64 gallons ready-to-use. The Fabuloso lavender scent is a pleasant finish to any cleaning task.</li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all purpose cleaner</s:tag>
+    <s:tag>cleaning supplies</s:tag>
+    <s:tag>fabuloso</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>lavender cleaner</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3759912484898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>CPC05253</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3759714304034</id>
+    <published>2019-06-10T09:29:32-05:00</published>
+    <updated>2019-06-10T09:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/gojo%C2%AE-purell%C2%AE-advanced-instant-hand-sanitizer-gel"/>
+    <title>GOJO® Purell® Advanced Instant Hand Sanitizer Gel</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Gojo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i10583.jpg?v=1560182174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gojo<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            155.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Refreshing gel. Kills more than 99.99% of most common germs that may cause illness. Outperforms other hand sanitizers ounce-for-ounce. Clinically-proven to maintain skin health.</span></p>
+<ul>
+<li>Enhanced with four skin conditioners that are clinically proven to help maintain skin health</li>
+<li>Compatible with GOJO Purell Dispenser 9621-12 (Hantover item 33056)</li>
+<li>Sanitary-sealed bag</li>
+<li>Complies with FDA regulations for cosmetic and over-the-counter drug products</li>
+</ul>
+<p>Usually ships between 7-14 business day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gojo hand sanitizer</s:tag>
+    <s:tag>hand sanitizer</s:tag>
+    <s:tag>purell</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3759714304034</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.99</s:price>
+      <s:sku>9656-12</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3759597682722</id>
+    <published>2019-06-10T08:57:23-05:00</published>
+    <updated>2019-06-10T08:57:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kimberly-clark-electronic-cassette-skin-care-dispenser-1200-ml-7-25-x-11-48-x-4-black"/>
+    <title>Kimberly Clark Electronic Cassette Skin Care Dispenser, 1200 mL, 7.25 x 11.48 x 4, Black</title>
+    <s:type>Soap Dispenser</s:type>
+    <s:vendor>Kimberly-Clark Professional</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/C1954817_main-1.jpg?v=1560182187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark Professional<br>
+        <strong>Type: </strong>Soap Dispenser<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute description">
+<div class="value">You can count on this soap system’s reliable, touch-free operation to reduce cross contamination and the spread of germs. Dispenser Type: For Foam; Capacity (Volume): 1200 mL; Color(s): Black; Height: 11 12/25".</div>
+</div>
+<div class="product attribute shortdescription">
+<div class="value">
+<ul>
+<li>Kimberly-Clark Professional* Electronic Cassette Skin Care Dispenser</li>
+<li>Electronic touchless skin soap dispenser.</li>
+<li>Small enough to be mounted anywhere for quick sanitizing -- hallways, common areas, entryways and break rooms.</li>
+<li>Long battery life -- 60,000 single uses before battery needs changing (battery included).</li>
+<li>Quiet and reliable.</li>
+<li>Electronic, controlled dispensing reduces waste.</li>
+<li>Low battery and low product indicator lights.</li>
+<li>Works only with Kleenex Cassette Skin care Foam Soap or Sanitizer.</li>
+<li>For Use With: KIM-91591; KIM-91594</li>
+</ul>
+<p>*FREE SHIPPING!</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dispenser</s:tag>
+    <s:tag>electric soap dispenser</s:tag>
+    <s:tag>hand hygiene</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>kimberly clark</s:tag>
+    <s:tag>personal hygiene</s:tag>
+    <s:tag>soap</s:tag>
+    <s:tag>soap dispenser</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3759597682722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>92148</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1749106425890</id>
+    <published>2019-03-06T15:59:20-06:00</published>
+    <updated>2019-03-06T15:59:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/metrex-cavicide-24-oz-spray-met-13-1024"/>
+    <title>Metrex CaviCide 24 oz Spray, MET-13-1024</title>
+    <s:type>High Level Disinfectant</s:type>
+    <s:vendor>Metrex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/CaviCide_spray.jpg?v=1559890851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metrex<br>
+        <strong>Type: </strong>High Level Disinfectant<br>
+        <strong>Price: </strong>
+            20.26 - 133.25
+            <a href="https://aossmedicalsupply.com/products/metrex-cavicide-24-oz-spray-met-13-1024">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>A convenient, ready-to-use, intermediate-level disinfectant.</span></div>
+<ul>
+<li>Effective against TB in 3 minutes, and HIV-1, HCV, HBV and MRSA in 2 minutes</li>
+<li>Disinfectant, cleaner and decontaminant all in one</li>
+<li>Compatible with most medical device materials</li>
+<li>For use on hard, nonporous surfaces, even in neonatal and infant care areas</li>
+</ul>
+<p>12 bottles/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cavicide</s:tag>
+    <s:tag>cleaners</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>disinfecting</s:tag>
+    <s:tag>disinfecting spray</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1749106425890</id>
+      <title>EA</title>
+      <s:price currency="USD">20.26</s:price>
+      <s:sku>13-1024</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1749106425890</id>
+      <title>12/CS</title>
+      <s:price currency="USD">133.25</s:price>
+      <s:sku>13-1024-CASE</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1706181394466</id>
+    <published>2019-02-11T09:29:25-06:00</published>
+    <updated>2019-02-11T09:29:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-disposable-towel"/>
+    <title>AOSS Disposable Towel</title>
+    <s:type>Disposable Towel</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSS_Disposable_Towel.png?v=1584708563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Disposable Towel<br>
+        <strong>Price: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span>Disposable cloth-like washcloths. The scrim washcloth contains strong webbing. Absorbs and holds heat; will not shred or deteriorate while wet or under abrasive pressure. </span></h4>
+<ul>
+<li><span>Non-Woven </span></li>
+<li><span>10" by 13"</span></li>
+</ul>
+<p><span>50/bg, 20bg/cs (1,000/case)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>housekeeping</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1706181394466</id>
+      <title>CS/1000</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>700028-C</s:sku>
+      <s:grams>3742</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383674089506</id>
+    <published>2017-11-15T13:49:07-06:00</published>
+    <updated>2017-11-15T13:49:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-disposable-pillowcase"/>
+    <title>AOSS Pillowcase - Standard White Disposable</title>
+    <s:type>Pillowcase</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/145373.jpg?v=1584950228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Pillowcase<br>
+        <strong>Price: </strong>
+            29.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Disposable</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Tissue layer provides comfort of soft absorbency</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Polyethylene layer provides water resistant protection</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">100/CS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposables</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383674089506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.23</s:price>
+      <s:sku>700023</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383663898658</id>
+    <published>2017-11-15T13:33:06-06:00</published>
+    <updated>2017-11-15T13:33:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-cups-5-oz"/>
+    <title>5 oz. Drinking Cup AOSS Translucent Plastic Disposable</title>
+    <s:type>Drinking Cup</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4250.png?v=1594911276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Drinking Cup<br>
+        <strong>Price: </strong>
+            57.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Translucent Plastic</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Raised sidewall rings increase strength and provide secure gripping surface</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">5 oz.</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">2500/CS</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383663898658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.50</s:price>
+      <s:sku>4250</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383606390818</id>
+    <published>2017-11-15T12:52:11-06:00</published>
+    <updated>2017-11-15T12:52:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-m-fold-towel"/>
+    <title>AOSS Premium Multi-Fold Paper Towel 9.25” x 9” Inch</title>
+    <s:type>Paper Towel</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/154442_usn.jpg?v=1563819847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Paper Towel<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<ul class="styled-list">
+<li>Soft and absorbent C-Fold towels.</li>
+<li>For basic hand drying needs.</li>
+<li>Provides the perfect combination of quality, performance and value.</li>
+<li>Fast absorbency helps to control usage, so you save on reduced waste and maintenance time.</li>
+<li>Embossed to enhance hand feel and maximize absorbency.</li>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Brand</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">9.25” x 9”</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Multifold hand towel</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">150/PK, 16PK/CS = 2400</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Sold by the Case</span></li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>c fold paper towel</s:tag>
+    <s:tag>paper towel</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383606390818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>BAN21000</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+</feed>

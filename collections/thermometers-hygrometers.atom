@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/thermometers-hygrometers.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-06T03:15:22-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/407081648162</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/probe-and-well-kit-wa02893-000"/>
+    <title>SureTemp Probe and Well Kit - 1 each</title>
+    <s:type>Probe and Well Kit</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/WEL02893.jpg?v=1585260107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Probe and Well Kit<br>
+        <strong>Price: </strong>
+            137.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName"></span></h3>
+<div id="dnn_ctr533_ViewItemDetail_divContent">
+<h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">WELCH ALLYN SURETEMP® THERMOMETER ACCESSORIES</span></h3>
+<p>Probe, Oral with Well, For SureTemp® Model 690 (US Only)</p>
+<div title="Page 108">
+<div>
+<div>
+<div>
+<p>Probe and well kit<br> 4’ accessory for Sur- Temp Plus 692 and 690 thermometer</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul id="itemFeatures"></ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/407081648162</id>
+      <title>Default Title</title>
+      <s:price currency="USD">137.42</s:price>
+      <s:sku>WEL 02893-000</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406961192994</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/thermometer-probe-covers-303030-96-ctn-22-ctn-cs"/>
+    <title>Thermometer Probe Covers -  96/ctn, 22 ctn/cs</title>
+    <s:type>Thermometer Probe Cover</s:type>
+    <s:vendor>Covidien/Medical Supplies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/999086132.jpg?v=1585260181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien/Medical Supplies<br>
+        <strong>Type: </strong>Thermometer Probe Cover<br>
+        <strong>Price: </strong>
+            7.16 - 157.45
+            <a href="https://aossmedicalsupply.com/products/thermometer-probe-covers-303030-96-ctn-22-ctn-cs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span id="dnn_ctr533_ViewItemDetail_lblProductName">COVIDIEN/MEDICAL SUPPLIES GENIUS2™ TYMPANIC THERMOMETER</span></h3>
+<p>Thermometer Probe Covers, 96/ctn, 22 ctn/cs (Continental US Only)</p>
+<div id="dnn_ctr533_ViewItemDetail_divContent">Utilizes infrared technology to derive the most accurate body temperature from the tympanic membrane. Records and analyzes up to 100 temperature measurement, and selects the highest and most accurate in less than 2 seconds. Reduces the chance of an inaccurate reading due to improper technique or patient movement. Durable tip-based sensor technology improves durability and accuracy, minimizing the need for recalibration. Small tapered tip facilitates proper alignment with the tympanic ear canal to minimize technique errors, enhance patient comfort and facilitate pediatric use. One to two second response time. Provides actual current temperature status unlike predictive devices. Shows oral, rectal, auxiliary and core or an absolute temperature reading in the ear setting, and can be customized according to hospital protocol. No contact with mucosal membranes and the no-touch probe cover application and release reduce potential of cross-contamination.</div>
+<ul id="itemFeatures"></ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406961192994</id>
+      <title>BX/96</title>
+      <s:price currency="USD">7.16</s:price>
+      <s:sku>KEN 303030-B</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406961192994</id>
+      <title>CS/2112</title>
+      <s:price currency="USD">157.45</s:price>
+      <s:sku>KEN 303030-C</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406681223202</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/tech-med-digital-forceps-thermometer-jars"/>
+    <title>Tech-Med Forceps &amp; Thermometer Jars</title>
+    <s:type>Containers and Jars</s:type>
+    <s:vendor>Dukal Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_26.png?v=1585260142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal Corporation<br>
+        <strong>Type: </strong>Containers and Jars<br>
+        <strong>Price: </strong>
+            12.50 - 29.60
+            <a href="https://aossmedicalsupply.com/products/tech-med-digital-forceps-thermometer-jars">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless steelware is constructed without seams to prevent bacteria growth and to allow for easy cleaning.</p>
+<ol>
+<li>Forceps Jar, Small, 2" X 4½"</li>
+<li>Forceps Jar, Large, 2" x 7½"</li>
+<li>Thermometer Jar, Large, 1" x 4"</li>
+</ol>
+<ul id="itemFeatures"></ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406681223202</id>
+      <title>1. Forceps Jar Small 2&quot; X 4½&quot;</title>
+      <s:price currency="USD">21.80</s:price>
+      <s:sku>4234</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406681223202</id>
+      <title>2. Forceps Jar Large 2&quot; x 7½&quot;</title>
+      <s:price currency="USD">29.60</s:price>
+      <s:sku>4235</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406681223202</id>
+      <title>3. Thermometer Jar Large 1&quot; x 4&quot;</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>4236</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406678011938</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/tech-med-digital-thermometer-1"/>
+    <title>Tech-Med Digital Thermometer Dual Scale - 1 each</title>
+    <s:type>Digital Thermometer</s:type>
+    <s:vendor>Dukal Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_25.png?v=1585260138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal Corporation<br>
+        <strong>Type: </strong>Digital Thermometer<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 10 second, easy to read LCD display with 200 hours battery life. Auto shuts off after 9 minutes of non use.</p>
+<p>Digital Thermometer, Dual Scale</p>
+<ul>
+<li>Quick 10 Second Read with easy to read large LCD display and low Battery Indication</li>
+<li>Reads both Centigrade and Fahrenheit; Range: 32° – 43.9°C, 90º – 109.9º F</li>
+<li>Alarm/Beeper when reading is complete</li>
+<li>Battery life: 200 hours of continuous operation</li>
+<li>Auto shut off after 9 minutes of non use</li>
+<li>Built in memory enabling display of the previously measured value</li>
+</ul>
+<ul id="itemFeatures"></ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406678011938</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>TEC 3210D</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406668509218</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/tech-med-digital-thermometer"/>
+    <title>Tech-Med Digital Thermometer Probe Covers Non-Sterile - 100/box</title>
+    <s:type>Thermometer Probe Cover</s:type>
+    <s:vendor>Dukal Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/TMS-3211.jpg?v=1585260141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal Corporation<br>
+        <strong>Type: </strong>Thermometer Probe Cover<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 10 second, easy to read LCD display with 200 hours battery life. Auto shuts off after 9 minutes of non use.</p>
+<p>Probe Covers, Non-Sterile, 100/bx</p>
+<ul id="itemFeatures"></ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406668509218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>TEC 3211</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406664609826</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/welch-allyn-suretemp%C2%AE-plus-electronic-thermometer"/>
+    <title>Welch Allyn Suretemp® Plus Electronic Thermometer - 1 each</title>
+    <s:type>Digital Thermometer</s:type>
+    <s:vendor>Welch Allyn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i61015.jpg?v=1585260778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welch Allyn<br>
+        <strong>Type: </strong>Digital Thermometer<br>
+        <strong>Price: </strong>
+            447.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Model 690 Electronic Thermometer, Oral Probe, Oral Probe Well, 2-Year Limited Warranty (US Only)</p>
+<h4 id="prodfeats">Features</h4>
+<ul id="itemFeatures">
+<li>Easy to use with intuitive operation, reduces the risk of cross-contamination with removable probe well and provides more reliable readings with improved accuracy.</li>
+<li>Takes approximately 4-to-6 second oral temperatures, 10-second axillary and rectal temperatures and 15-second adult axillary temperatures.</li>
+<li>Has last temperature recall capability</li>
+<li>Waterproof, stainless steel probe shaft</li>
+<li>Color-coded, interchangeable and removable probe will minimize the risk of cross-contamination</li>
+</ul>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406664609826</id>
+      <title>Default Title</title>
+      <s:price currency="USD">447.78</s:price>
+      <s:sku>WEL 01690-200</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/406660448290</id>
+    <published>2017-12-06T03:15:22-06:00</published>
+    <updated>2017-12-06T03:15:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/tidi-mercury-oral-thermometer-sheath"/>
+    <title>Tidi Mercury Oral Thermometer Sheath</title>
+    <s:type>Oral Thermometer Sheaths</s:type>
+    <s:vendor>TIDI Products, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/BAT20521-original.png?v=1585260182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TIDI Products, LLC<br>
+        <strong>Type: </strong>Oral Thermometer Sheaths<br>
+        <strong>Price: </strong>
+            200.86 - 308.72
+            <a href="https://aossmedicalsupply.com/products/tidi-mercury-oral-thermometer-sheath">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mercury Oral Thermometer Sheaths</p>
+<ol>
+<li>100/bx, 50 bx/cs</li>
+<li>500/bx, 10 bx/cs</li>
+<li>Bulk, 11000/cs</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thermometer</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406660448290</id>
+      <title>1. 100/bx 50 bx/cs</title>
+      <s:price currency="USD">209.20</s:price>
+      <s:sku>20521</s:sku>
+      <s:grams>2472</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406660448290</id>
+      <title>2. 500/bx 10 bx/cs</title>
+      <s:price currency="USD">200.86</s:price>
+      <s:sku>20524</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/406660448290</id>
+      <title>3. Bulk 11000/cs</title>
+      <s:price currency="USD">308.72</s:price>
+      <s:sku>20538</s:sku>
+      <s:grams>5089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/414918869026</id>
+    <published>2017-11-20T10:13:02-06:00</published>
+    <updated>2017-11-20T10:13:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/memory-loc%E2%84%A2-datalogging-traceable%C2%AE-hygrometer"/>
+    <title>Memory-Loc™ Datalogging Traceable® Hygrometer</title>
+    <s:type>Hygrometer</s:type>
+    <s:vendor>Traceable® Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/6454maincc_475px.jpg?v=1584956436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Traceable® Products<br>
+        <strong>Type: </strong>Hygrometer<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Traceable® Memory-Loc™ Datalogging Humidity/Thermometer</strong></p>
+<p>The perfect unit for hoods, storerooms, cleanrooms, incubators, drying and environmental chambers</p>
+<ul type="disc">
+<li>Fixed memory structure, maintains 688,086 humidity and temperature observations</li>
+<li>Smart-Alarm™ features a visual/audible alarm that continues to alarm even if the unit returns to non-alarm conditions</li>
+<li>Stores up to 30 unique alarm events</li>
+<li>Memory can NOT be cleared on unit after downloading data to USB stick</li>
+<li>Hassle-free retrieval of data - unit can remain in use while downloading and analyzing data</li>
+<li>Status indicators - Low battery, memory full, USB data transfer and active alarm state</li>
+</ul>
+<p> </p>
+<p><strong>Hi/Lo Alarms and Time/Date Stamps</strong></p>
+<p>HI/LO alarms can be set for relative humidity and temperature. Alarm tracking feature stores in memory each alarm event detailing when the alarm state occurred, as well as when the unit returned back to within range. Alarm state indicators include audio alerts and flashing LCD segments. Data for up to 30 different alarm events can be retrieved with the most current event viewable on display.</p>
+<p><strong>Smart-Alarm™ signals out-of-range conditions</strong></p>
+<p>When an out-of-range condition is sensed, the Smart-Alarm™ triggers. Smart-Alarm™ features visual and audible indicators which signal continuously until acknowledged, even if conditions return to non-alarm range.</p>
+<p><strong>Memory-Loc™ Features</strong></p>
+<p>Monitor readings overnight, on weekends, or for any time period with rolling data log. User-defined datalogging interval of one observation/minute to one observation/12 hours. Memory capacity maintains 2 years of recorded data when using 2 minute intervals and longer when using larger intervals. No software is needed for computer interface. Each device has a unique ID allowing multiple units to be used in the same location. Recorded data in a CSV format can be transferred from the hygrometer to any computer using a USB flash drive. The data on each unit cannot be overwritten or modified, thus reliably securing information that should not be deleted.</p>
+<p><strong>Measuring Ranges</strong></p>
+<p>High-accuracy ambient and external probe relative humidity range: 0 to 95%RH, non-condensing and resolution of 0.1% and maintains an accuracy of ±3% RH between 5 to 75%, otherwise ±5% RH. Ambient temperature range: 32 to 145°F (0 to 65°C) and external probe temperature range: –4.0 to 158.0°F (–20.0 to 70.0°C) and resolution of 0.1° and maintains an accuracy of ±0.4°C across entire temperature range for both ambient and external probe.</p>
+<p><strong>Traceable® Certificate</strong></p>
+<p>Multi-point calibration on an individually-numbered Traceable® Certificate which assures accuracy from our <a href="https://traceable.com/media/wysiwyg/Technical/5252016/ISOIEC17025_A2LA_Accredited_Laboratory2.pdf" target="_blank" rel="noopener noreferrer">ISO/IEC 17025:2005 (1750.01)</a> calibration laboratory accredited by <a href="https://www.a2la.org/genweb/about.cfm" target="_blank" rel="noopener noreferrer">A2LA</a>.  It indicates traceability of measurements to the SI units through <a href="https://www.nist.gov/about-nist" target="_blank" rel="noopener noreferrer">NIST</a> or other recognized national measurement institutes (<a href="http://www.measurement.gov.au/Pages/default.aspx" target="_blank" rel="noopener noreferrer">NMI</a>) that are signatories to the CIPM Mutual Recognition Agreement. High-impact, chemical-resistant ABS plastic case is 5-1/2 x 3-1/4 x 1 inches. Weight is 6 ounces. Supplied: probe, stand, Velcro®, magnetic backing, wall mount, Traceable® Certificate, and batteries. Replacement battery Cat. No. 1105.</p>
+<p> </p>
+<table class="data-table" id="product-attribute-specs-table">
+<colgroup> <col width="25%"> <col> </colgroup>
+<tbody>
+<tr class="first odd">
+<th class="label">RH Range</th>
+<td class="data last">0% to 95%RH, non-condensing</td>
+</tr>
+<tr class="even">
+<th class="label">RH Resolution</th>
+<td class="data last">0.1% RH</td>
+</tr>
+<tr class="odd">
+<th class="label">RH Accuracy</th>
+<td class="data last">±3% RH between 5 to 75%, otherwise ±5% RH</td>
+</tr>
+<tr class="even">
+<th class="label">Temperature Range</th>
+<td class="data last">0 to 65°C</td>
+</tr>
+<tr class="odd">
+<th class="label">Probe Temperature Range</th>
+<td class="data last">–20 to 70°C</td>
+</tr>
+<tr class="even">
+<th class="label">Temperature Resolution</th>
+<td class="data last">0.1°C</td>
+</tr>
+<tr class="odd">
+<th class="label">Temperature Accuracy</th>
+<td class="data last">±0.4°C</td>
+</tr>
+<tr class="last even">
+<th class="label">Cable Length</th>
+<td class="data last">6'</td>
+</tr>
+</tbody>
+</table>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dataloggers</s:tag>
+    <s:tag>hygrometer</s:tag>
+    <s:tag>Thermometer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/414918869026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>6454CC</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/414913757218</id>
+    <published>2017-11-20T10:13:02-06:00</published>
+    <updated>2017-11-20T10:13:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/traceablelive%C2%AE-ambient-datalogging-hygrometer"/>
+    <title>TraceableLIVE® Ambient Datalogging Hygrometer</title>
+    <s:type>Hygrometer</s:type>
+    <s:vendor>Traceable® Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/6520main475px_1.jpg?v=1585260727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Traceable® Products<br>
+        <strong>Type: </strong>Hygrometer<br>
+        <strong>Price: </strong>
+            275.00 - 290.00
+            <a href="https://aossmedicalsupply.com/products/traceablelive%C2%AE-ambient-datalogging-hygrometer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3> WIRELESS HUMIDITY/TEMPERATURE MONITORING</h3>
+<h3><span>WiFi Datalogger Ambient Monitoring Hygrometer/Thermometer with Remote Notification</span></h3>
+<h3>REQUIRES TRACEABLELIVE® SUBSCRIPTION</h3>
+<h3>FEATURES</h3>
+<ul>
+<li>Monitor remotely humidity and temperature—connect to existing WiFi</li>
+<li>Alerts: humidity alarm, connectivity interruption, low battery</li>
+<li>Cloud-based data interface—no local software required; web, Android, Apple IOS data visibility</li>
+<li>Continuous data transmission and monitoring using SSL encrypted SECURE connection</li>
+<li>Receive MOBILE PUSH / E-MAIL / TEXT notifications</li>
+<li>Unlimited scalability—use TraceableLIVE<sup>®</sup> in individual labs or an entire network of facilities</li>
+<li>Multiple point calibration traceable to NIST</li>
+</ul>
+<h3>TRACEABLE<sup>®</sup> CERTIFICATE</h3>
+<p>Multi-point calibration on an individually-numbered Traceable<sup>®</sup> Certificate which assures accuracy from an ISO/IEC 17025:2005 (1750.01) calibration laboratory accredited by A2LA. It indicates traceability of measurements to the SI units through NIST or other recognized national measurement institutes (NMI) that are signatories to the CIPM Mutual Recognition Agreement.</p>
+<h3>SUPPLIED WITH</h3>
+<p>1 Probe of your choice (choose above), Quick Start Guide, batteries, magnets, Velcro, wall mount, and Traceable<sup>®</sup> Certificate.</p>
+<table class="data-table" id="product-attribute-specs-table">
+<colgroup> <col width="25%"> <col> </colgroup>
+<tbody>
+<tr class="first odd">
+<th class="label">Temperature Range</th>
+<td class="data last">0.00 to 55.00°C (32.00 to 131.00°F)</td>
+</tr>
+<tr class="even">
+<th class="label">Temperature Resolution</th>
+<td class="data last">0.01°</td>
+</tr>
+<tr class="odd">
+<th class="label">Temperature Accuracy</th>
+<td class="data last">±0.4°C</td>
+</tr>
+<tr class="even">
+<th class="label">RH Range</th>
+<td class="data last">0.0 to 100%RH (non-condensing)</td>
+</tr>
+<tr class="odd">
+<th class="label">RH Accuracy</th>
+<td class="data last">±3% RH (20 to 80% RH), ±5% RH otherwise</td>
+</tr>
+<tr class="even">
+<th class="label">RH Resolution</th>
+<td class="data last">0.1</td>
+</tr>
+<tr class="last odd">
+<th class="label">Cable Length</th>
+<td class="data last">Remove Sensor : 6'</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dataloggers</s:tag>
+    <s:tag>hygrometer</s:tag>
+    <s:tag>Thermometer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/414913757218</id>
+      <title>Ambient Sensor</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>6520</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/414913757218</id>
+      <title>Remote Cable</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku>6521</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/392189673506</id>
+    <published>2017-11-20T10:13:02-06:00</published>
+    <updated>2017-11-20T10:13:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/excursion-trac%E2%84%A2-datalogging-traceable%C2%AE-hygrometer"/>
+    <title>Traceable® Excursion-Trac™ Datalogging Hygrometer</title>
+    <s:type>Hygrometer</s:type>
+    <s:vendor>Traceable® Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/6452main_475px.jpg?v=1559394100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Traceable® Products<br>
+        <strong>Type: </strong>Hygrometer<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Traceable® Excursion-Trac™ Datalogging Humidity/Thermometer</strong></p>
+<p><strong><span>Perfect for hoods, storerooms, cleanrooms and other environments that need to be monitored</span></strong></p>
+<p>The perfect unit for hoods, storerooms, cleanrooms, incubators, drying and environmental chambers</p>
+<ul type="disc">
+<li>Rolling memory structure, maintains 525,504 humidity and temperature observations</li>
+<li>Smart-Alarm™ features a visual/audible alarm that continues to alarm even if the unit returns to non-alarm conditions</li>
+<li>Stores up to 30 unique alarm events</li>
+<li>Memory can be cleared on unit after downloading data to USB stick</li>
+<li>Hassle-free retrieval of data - unit can remain in use while downloading and analyzing data</li>
+<li>Status indicators - Low battery, memory full, USB data transfer and active alarm state</li>
+</ul>
+<p><strong>Hi/Lo Alarms and Time/Date Stamps</strong></p>
+<p>HI/LO alarms can be set for relative humidity and temperature. Alarm tracking feature stores in memory each alarm event detailing when the alarm state occurred, as well as when the unit returned back to within range. Alarm state indicators include audio alerts and flashing LCD segments. Data for up to 30 different alarm events can be retrieved with the most current event viewable on display.</p>
+<p><strong>Smart-Alarm™ signals out-of-range conditions</strong></p>
+<p>When an out-of-range condition is sensed, the Smart-Alarm™ triggers. Smart-Alarm™ features visual and audible indicators which signal continuously until acknowledged, even if conditions return to non-alarm range.</p>
+<p><strong>Excursion-Trac™ Features</strong></p>
+<p>Monitor readings overnight, on weekends, or for any time period with rolling data log. User-defined datalogging interval of one observation/minute to one observation/12 hours. Memory capacity maintains 2 years of recorded data when using 2 minute intervals and longer when using larger intervals. No software is needed for computer interface. Each device has a unique ID allowing multiple units to be used in the same location. This device provides recorded data in a CSV format that can be transferred from the hygrometer to any computer with use of a USB flash drive. No specific software is needed for the device and data can be deleted from memory.</p>
+<p><strong>Measuring Ranges</strong></p>
+<p>High-accuracy ambient and external probe relative humidity range: 0 to 95%RH, non-condensing and resolution of 0.1% and maintains an accuracy of ±3% RH between 5 to 75%, otherwise ±5% RH. Ambient temperature range: 32 to 145°F (0 to 65°C) and external probe temperature range: –4.0 to 158.0°F (–20.0 to 70.0°C) and resolution of 0.1° and maintains an accuracy of ±0.4°C across entire temperature range for both ambient and external probe.</p>
+<p><strong>Traceable® Certificate</strong></p>
+<p>Multi-point calibration on an individually-numbered Traceable® Certificate which assures accuracy from our <a href="https://traceable.com/media/wysiwyg/Technical/5252016/ISOIEC17025_A2LA_Accredited_Laboratory2.pdf" target="_blank" rel="noopener noreferrer">ISO/IEC 17025:2005 (1750.01)</a> calibration laboratory accredited by <a href="https://www.a2la.org/genweb/about.cfm" target="_blank" rel="noopener noreferrer">A2LA</a>.  It indicates traceability of measurements to the SI units through <a href="https://www.nist.gov/about-nist" target="_blank" rel="noopener noreferrer">NIST</a> or other recognized national measurement institutes (<a href="http://www.measurement.gov.au/Pages/default.aspx" target="_blank" rel="noopener noreferrer">NMI</a>) that are signatories to the CIPM Mutual Recognition Agreement. High-impact, chemical-resistant ABS plastic case is 5-1/2 x 3-1/4 x 1 inches. Weight is 6 ounces. Supplied: probe, stand, Velcro®, magnetic backing, wall mount, Traceable® Certificate, and batteries. Replacement battery Cat. No. 1105.</p>
+<table class="data-table" id="product-attribute-specs-table">
+<colgroup> <col width="25%"> <col> </colgroup>
+<tbody>
+<tr class="first odd">
+<th class="label">RH Range</th>
+<td class="data last">0% to 95%RH, non-condensing</td>
+</tr>
+<tr class="even">
+<th class="label">RH Resolution</th>
+<td class="data last">0.1% RH</td>
+</tr>
+<tr class="odd">
+<th class="label">RH Accuracy</th>
+<td class="data last">±3% RH between 5 to 75%, otherwise ±5% RH</td>
+</tr>
+<tr class="even">
+<th class="label">Temperature Range</th>
+<td class="data last">0 to 65°C,</td>
+</tr>
+<tr class="odd">
+<th class="label">Probe Temperature Range</th>
+<td class="data last">–20 to 70°C</td>
+</tr>
+<tr class="even">
+<th class="label">Temperature Resolution</th>
+<td class="data last">0.1°C</td>
+</tr>
+<tr class="odd">
+<th class="label">Temperature Accuracy</th>
+<td class="data last">±0.4°C</td>
+</tr>
+<tr class="last even">
+<th class="label">Cable Length</th>
+<td class="data last">6'</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dataloggers</s:tag>
+    <s:tag>hygrometer</s:tag>
+    <s:tag>Thermometer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/392189673506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>6452CC</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

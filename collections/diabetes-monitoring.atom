@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/diabetes-monitoring.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-07-15T13:01:47-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3818981130274</id>
+    <published>2019-07-15T13:01:47-05:00</published>
+    <updated>2019-07-15T13:01:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/lancet-clarity-30g-sterile-blue-incision-device-100-bx"/>
+    <title>Lancet Clarity 30g Sterile Blue Incision Device 100/Bx</title>
+    <s:type>Lancet</s:type>
+    <s:vendor>Clarity Diagnostics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/41od4XFde6L._SX425.jpg?v=1563222284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarity Diagnostics<br>
+        <strong>Type: </strong>Lancet<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lancet Incision Device Clarity 30g _ Universal Conventional Plastic Twist-Off Top Sterile Not Made With Natural Rubber Latex Disposable Blue Tri-Beveled 100/Box</span></p>
+<ul class="attr-list">
+<li>
+<div class="field">BEVEL/GRADE</div>
+<div class="value">Tri-Beveled</div>
+</li>
+<li>
+<div class="field">BRAND</div>
+<div class="value">Clarity</div>
+</li>
+<li>
+<div class="field">CLOSURE</div>
+<div class="value">Twist-Off Top</div>
+</li>
+<li>
+<div class="field">COLOR</div>
+<div class="value">Blue</div>
+</li>
+<li>
+<div class="field">COMPOSITION/INGREDIENTS</div>
+<div class="value">Plastic</div>
+</li>
+<li>
+<div class="field">DISPOSABLE/REUSABLE/REPOSABLE</div>
+<div class="value">Disposable</div>
+</li>
+<li>
+<div class="field">ITEM</div>
+<div class="value">Lancet</div>
+</li>
+<li>
+<div class="field">ITEM TYPE</div>
+<div class="value">Incision Device</div>
+</li>
+<li>
+<div class="field">LATEX/LATEX-FREE</div>
+<div class="value">Not Made With Natural Rubber Latex</div>
+</li>
+<li>
+<div class="field">NEEDLE GAUGE</div>
+<div class="value">30g</div>
+</li>
+<li>
+<div class="field">NEEDLE LENGTH</div>
+<div class="value">_</div>
+</li>
+<li>
+<div class="field">QUANTITY</div>
+<div class="value">100/Box</div>
+</li>
+<li>
+<div class="field">SAFETY/PROTECTION</div>
+<div class="value">Conventional</div>
+</li>
+<li>
+<div class="field">SECONDARY SIZE</div>
+<div class="value">Universal</div>
+</li>
+<li>
+<div class="field">STERILE/NON-STERILE</div>
+<div class="value">Sterile</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood glucose</s:tag>
+    <s:tag>diabetes</s:tag>
+    <s:tag>diabetes care</s:tag>
+    <s:tag>diabetes testing</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3818981130274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DTG-GL7</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3818979590178</id>
+    <published>2019-07-15T11:07:00-05:00</published>
+    <updated>2019-07-15T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/clarity-diagnostics-clarity-lancing-device"/>
+    <title>Clarity Diagnostics Clarity Lancing Device</title>
+    <s:type>Lancing Device</s:type>
+    <s:vendor>Clarity Diagnostics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/iv13225.jpg?v=1563222264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarity Diagnostics<br>
+        <strong>Type: </strong>Lancing Device<br>
+        <strong>Price: </strong>
+            15.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><li>Device Lancing Clarity 28g/30g _ Universal Conventional Plastic Clear Cap Variable Settings For Most Generic Twist Cap Lancets Non-Sterile Not Made With Natural Rubber Latex Reusable White Each</li>
+<table class="table">
+<colgroup> <col width="35%"> <col> </colgroup>
+<tbody>
+<tr>
+<th>Specifications</th>
+<th>Values</th>
+</tr>
+<tr>
+<td>Brand</td>
+<td>Clarity</td>
+</tr>
+<tr>
+<td>Closure</td>
+<td>Clear Cap</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Composition/Ingredients</td>
+<td>Plastic</td>
+</tr>
+<tr>
+<td>Depth Control</td>
+<td>Variable Settings</td>
+</tr>
+<tr>
+<td>Disposable/Reusable/Reposable</td>
+<td>Reusable</td>
+</tr>
+<tr>
+<td>For</td>
+<td>Most Generic Twist Cap Lancets</td>
+</tr>
+<tr>
+<td>Item</td>
+<td>Device</td>
+</tr>
+<tr>
+<td>Item Type</td>
+<td>Lancing</td>
+</tr>
+<tr>
+<td>Latex/Latex-Free</td>
+<td>Not Made With Natural Rubber Latex</td>
+</tr>
+<tr>
+<td>Needle Gauge</td>
+<td>28g/30g</td>
+</tr>
+<tr>
+<td>Needle Length</td>
+<td>_</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>Each</td>
+</tr>
+<tr>
+<td>Safety/Protection</td>
+<td>Conventional</td>
+</tr>
+<tr>
+<td>Secondary Size</td>
+<td>Universal</td>
+</tr>
+<tr>
+<td>Sterile/Non-Sterile</td>
+<td>Non-Sterile</td>
+</tr>
+</tbody>
+</table>
+<h6>Due to manufacturer restrictions, this item is non-returnable.</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diabetes</s:tag>
+    <s:tag>diabetes testing</s:tag>
+    <s:tag>glucose</s:tag>
+    <s:tag>glucose lancing device</s:tag>
+    <s:tag>lancet device</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3818979590178</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.25</s:price>
+      <s:sku>DTG-GL6</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3774503092258</id>
+    <published>2019-06-19T14:51:15-05:00</published>
+    <updated>2019-06-19T14:51:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/embrace-pro-blood-glucose-meter-strips-50-bx"/>
+    <title>Embrace Pro Blood Glucose Meter Strips- 50/BX</title>
+    <s:type>Blood Glucose Monitor Strips</s:type>
+    <s:vendor>Omnis Health</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/473eddb9-0abb-4b21-b7b8-82084cba2c9b_1.79c0ddbf485dc3755ccfc5afe3067696.jpeg?v=1561050007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Omnis Health<br>
+        <strong>Type: </strong>Blood Glucose Monitor Strips<br>
+        <strong>Price: </strong>
+            10.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li class="showHiddenFeatureBullets"><span>Product Description Embrace Pro Strips with alternate site testing, five-second test, and auto coding. Side sampling: shorter consuctive path increases accuracy. Gold electrode increases reliability and accuracy.</span></li>
+<li>Gold electrode test strips technology for reliability and accuracy</li>
+<li>Very small sample size (0.5 ul) means testing with less pain</li>
+<li>Test strip release button for safety and convenience</li>
+<li>Alternate site testing</li>
+<li>Easy to handle strips</li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Sold as: Boxes of 50 Each</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">5 Second Test</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Auto Coding</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">For use with EmbracePRO or Victory Blood Glucose Meters ONLY</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3774503092258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.75</s:price>
+      <s:sku>ALL01AM0202</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3774494670882</id>
+    <published>2019-06-19T14:25:48-05:00</published>
+    <updated>2019-06-19T14:25:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/embrace-pro-blood-glucose-meter"/>
+    <title>Embrace Pro Blood Glucose Meter</title>
+    <s:type>Blood Glucose Monitor</s:type>
+    <s:vendor>Omnis Health</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/71r7rmgzlhL._SX522.jpg?v=1561050006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Omnis Health<br>
+        <strong>Type: </strong>Blood Glucose Monitor<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Auto coding technology</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Test strip release button for safety and convenience</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Gold electrode test strips technology for reliability and accuracy</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">500-test memory with date, time and condition settings for enhanced data management</span></li>
+<li class="showHiddenFeatureBullets"><span class="a-list-item">Very small sample size (0.5 ul) means testing with less pain</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3774494670882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>ALL01AM0200</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3774146052130</id>
+    <published>2019-06-19T09:03:03-05:00</published>
+    <updated>2019-06-19T09:03:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/caretouch-da-lancing-device-with-ejector"/>
+    <title>CareTouch DA Lancing Device with Ejector</title>
+    <s:type>Diabetic Lancing Device</s:type>
+    <s:vendor>CareTouch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/CTLDA.jpg?v=1561050005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CareTouch<br>
+        <strong>Type: </strong>Diabetic Lancing Device<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span id="ctl00_MainContentHolder_lblDescriptionHeader">CareTouch DA Lancing Device with Ejector</span></h2>
+<p>The CareTouch Lancing Device with Ejector uses sophisticated technology to deliver high precision on their lancing device and lancets. This means that using their product diminishes pain and amount of blood sample required.</p>
+<p>It comes with an ergonomic design to promote comfortability when holding the device. In comparison to other lancing devices in the market, CareTouch Lancing Device with Ejector offers 10 adjustable depths of penetration. This is what allowed them to get rid of pain and the hassle of taking blood samples.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diabetes testing</s:tag>
+    <s:tag>lancing device</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3774146052130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3774145757218</id>
+    <published>2019-06-19T09:00:13-05:00</published>
+    <updated>2019-06-19T09:00:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/ge-diabetic-lancing-device"/>
+    <title>GE Diabetic Lancing Device</title>
+    <s:type>Diabetic Lancing Device</s:type>
+    <s:vendor>Veridian Healthcare GE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2_vr-ge100ld_650_1.jpg?v=1561050007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Veridian Healthcare GE<br>
+        <strong>Type: </strong>Diabetic Lancing Device<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Veridian Healthcare GE Diabetic Lancing Device makes testing both safer and cleaner. Easy press and release design is ideal for blood testing.</p>
+<ul>
+<li>Seven depth settings for taking blood samples at fingertips or alternate sites</li>
+<li>Depth settings promote user control and preference</li>
+<li>Ejectable lancet function with special safety switch</li>
+<li>Sleek and safe design</li>
+<li>New safety lock trigger protects accidental punctures while loading and handling before testing</li>
+<li>Ejectable lancet function</li>
+<li>Easy press and pull spring release</li>
+<li>Special safety switch</li>
+<li>Specially engineered to reduce pain</li>
+<li>Includes lancing device and detailed instruction guide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diabetes testing</s:tag>
+    <s:tag>lancing device</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3774145757218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1803166351394</id>
+    <published>2019-04-01T10:59:10-05:00</published>
+    <updated>2019-04-01T10:59:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/contour-blood-glucose-test-strips50-0-ea"/>
+    <title>CONTOUR Blood Glucose Test Strips 50 ea</title>
+    <s:type>Blood Glucose Test Strip</s:type>
+    <s:vendor>Ascensia Diabetes Care Holdings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/strips_contour-800x800.png?v=1584953322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ascensia Diabetes Care Holdings<br>
+        <strong>Type: </strong>Blood Glucose Test Strip<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="wag-list-show ml15 mb20 " itemprop="description">
+<ul>
+<li>Simple solution for testing needs</li>
+<li>No Coding technology</li>
+<li>Fast test time &amp; reliable results</li>
+</ul>
+</div>
+</div>
+<div>
+<p>CONTOUR™ Blood Glucose Test Strips for use with CONTOUR™ Blood Glucose Meter.</p>
+<p>Regents:</p>
+<ul>
+<li>6% w/w FAD glucose dehydrogenase(Aspergillus sp. 2.0 U/test strip)</li>
+<li>56% w/w potassium ferricyanide</li>
+<li>38% w/w non-reactive ingredients</li>
+</ul>
+<p>Sip-In Sampling, Automatic Strip-filling Action.</p>
+<p>Ascensia Diabetes Care Inc USA does not warrant use of the CONTOUR™ Blood Glucose Meter with any strip other than CONTOUR™ Blood Glucose Strips.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blood glucose</s:tag>
+    <s:tag>blood glucose test strips</s:tag>
+    <s:tag>diabetes care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1803166351394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>7098M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397166739490</id>
+    <published>2018-03-23T11:44:04-05:00</published>
+    <updated>2018-03-23T11:44:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-safety-lancet-surgilance%C2%AE-fixed-depth-lancet-needle-2-2-mm-depth-22-gauge-pressure-activated"/>
+    <title>Safety Lancet Surgilance® Needle 2.2 mm, 21G [SLN240] - Orange*</title>
+    <s:type>SLN240</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/srichiei13302.jpg?v=1585260009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLN240<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Orange</strong></li>
+<li><strong>Gauge: 21</strong></li>
+<li><strong>Depth: 2.2mm</strong></li>
+<li><strong>Flow: Medium (20-40ul)</strong></li>
+<li><strong>Use: Glucose Test &amp; Hematocrit Tube</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This Product Ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397166739490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MEDI-SLN240</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411529314338</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-2-8-mm-21g-sll21g280-pink"/>
+    <title>SurgiLance Lite™ Depth 2.8 mm, 21G [SLL21G280] - Pink*</title>
+    <s:type>SLL21G280</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLL21G280_53fe28cb-f1b9-4993-9ea0-a592d717beb8.jpg?v=1585260124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL21G280<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Needle, 2.8mm Penetration Depth, 21G, Pink, 100/bx</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411529314338</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.75</s:price>
+      <s:sku>SLL21G280</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411528560674</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-2-2-mm-28g-sll220-orange"/>
+    <title>SurgiLance Lite™ Depth 2.2 mm, 28G [SLL220] - Orange*</title>
+    <s:type>SLL220</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLL220jpg_96fc6229-2cdc-4715-b4fd-e170d9d66bd5.jpg?v=1585260122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL220<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Medipurpose/SurgiLance</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">28g needle, 2.2mm depth, 10-20 µL flow</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Orange</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Incorporate lancing device and needle into complete disposable unit</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">One step activation mechanism</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Lancets are color coded for easy recognition</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Lancet is inoperative after single use</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">High speed delivery; OSHA compliant</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Latex free and Hypoallergenic</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">100/bx</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411528560674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.75</s:price>
+      <s:sku>SLL220</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411527643170</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-2-2-mm-21g-sll21g220-green-1"/>
+    <title>SurgiLance Lite™ Depth 2.2 mm, 21G [SLL21G220] - Green*</title>
+    <s:type>SLL21G220</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLL21G220jpg_01548745-7fb9-4698-bb44-c88a4babb9c7.jpg?v=1585260120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL21G220<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Needle, 2.2mm Penetration Depth, 21G, Green, 100/bx</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411527643170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.75</s:price>
+      <s:sku>SLL21G220</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411526627362</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-1-8-mm-28g-sll180-gray"/>
+    <title>SurgiLance Lite™ Depth 1.8 mm, 28G [SLL180] - Gray*</title>
+    <s:type>SLL180</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLL180_0c905d9e-8e93-4cea-85f3-c5986eefc213.jpg?v=1585260116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL180<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Medipurpose/SurgiLance</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">28g needle, 1.8mm depth, 5-10 µL flow</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Grey</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Incorporate lancing device and needle into complete disposable unit</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">One step activation mechanism</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Lancets are color coded for easy recognition</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Lancet is inoperative after single use</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">High speed delivery; OSHA compliant</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Latex free and Hypoallergenic</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">100/bx</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411526627362</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.75</s:price>
+      <s:sku>SLL180</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411525251106</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-1-8-mm-21g-sll21g180-purple-1"/>
+    <title>SurgiLance Lite™ Depth 1.8 mm, 21G [SLL21G180] - Purple*</title>
+    <s:type>SLL21G180</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/lite_lancets.jpg-250_6c9c3f22-373f-4c13-9e27-57c362167ba0.jpg?v=1585260115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL21G180<br>
+        <strong>Price: </strong>
+            19.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Needle, 1.8mm Penetration Depth, 21G, Purple, 100/bx</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411525251106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.75</s:price>
+      <s:sku>SLL21G180</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/411524759586</id>
+    <published>2017-11-27T15:03:30-06:00</published>
+    <updated>2017-11-27T15:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-surgilance-lite%E2%84%A2-depth-1-4-mm-28g-sll140-yellow-1"/>
+    <title>SurgiLance Lite™ Depth 1.4 mm, 28G [SLL140] - Yellow*</title>
+    <s:type>SLL140</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLL140_4c9f317f-5c45-4125-bd21-b6edbf6c34bd.jpg?v=1585260113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLL140<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medipurpose/SurgiLance</span></p>
+<p><span>28g needle, 1.4mm depth, 2-5 µL flow</span></p>
+<p><span>Yellow</span></p>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<p><span>One step activation mechanism</span></p>
+<p><span>Lancets are color coded for easy recognition</span></p>
+<p><span>Lancet is inoperative after single use</span></p>
+<p><span>High speed delivery; OSHA compliant</span></p>
+<p><span>Latex free and Hypoallergenic</span></p>
+<p><span>100/bx</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/411524759586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SLL140</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383119261730</id>
+    <published>2017-11-15T03:18:49-06:00</published>
+    <updated>2017-11-15T03:18:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/onetouch%C2%AE-ultra%C2%AE-test-strips"/>
+    <title>Blood Glucose Test Strip OneTouch® Ultra® 50 Test Strips per Box</title>
+    <s:type>Blood Glucose Test Strip</s:type>
+    <s:vendor>LifeScan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/850708.jpg?v=1580940101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LifeScan<br>
+        <strong>Type: </strong>Blood Glucose Test Strip<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">OneTouch® Ultra®;</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Fast draw design</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Results in 5 seconds</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Automatically draws blood into test strip</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">50/BX</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diabetic Supplies</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383119261730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>20246</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397169819682</id>
+    <published>2017-11-15T02:47:43-06:00</published>
+    <updated>2017-11-15T02:47:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-safety-lancet-surgilance%C2%AE-fixed-depth-lancet-blade-2-3-mm-g18-slb250"/>
+    <title>Safety Lancet Surgilance® Blade 2.3mm 18G [SLB250] - Blue*</title>
+    <s:type>SLB250</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/srichiei13300.jpg?v=1585260004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLB250<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Blue</strong></li>
+<li><strong>Gauge: 18</strong></li>
+<li><strong>Depth: 2.3mm</strong></li>
+<li><strong>Flow: High (100-150ul)</strong></li>
+<li><strong>Use: Microcollection Tube</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This product ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397169819682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>MEDI-SLB250</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397167231010</id>
+    <published>2017-11-15T02:47:43-06:00</published>
+    <updated>2017-11-15T02:47:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-safety-lancet-surgilance%C2%AE-fixed-depth-lancet-needle-2-8-mm-depth-21-gauge-pressure-activated"/>
+    <title>Safety Lancet Surgilance® Needle 2.8mm, 21G [SLN300] - Pink*</title>
+    <s:type>SLN300</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/srichiei13303.jpg?v=1585260011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLN300<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Pink</strong></li>
+<li><strong>Gauge: 21</strong></li>
+<li><strong>Depth: 2.8mm</strong></li>
+<li><strong>Flow: High (40-60ul)</strong></li>
+<li><strong>Use: Glucose Test &amp; Hematocrit Tube</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This Product Ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397167231010</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MEDI-SLN300</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397166346274</id>
+    <published>2017-11-15T02:47:43-06:00</published>
+    <updated>2017-11-15T02:47:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-safety-lancet-surgilance%C2%AE-fixed-depth-lancet-needle-1-8-mm-depth-23-gauge-pressure-activated"/>
+    <title>Safety Lancet Surgilance® Needle 1.8 mm, 21G [SLN200] - Gray*</title>
+    <s:type>SLN200</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/srichiei13301.jpg?v=1582573106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLN200<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Grey</strong></li>
+<li><strong>Gauge: 21</strong></li>
+<li><strong>Depth: 1.8mm</strong></li>
+<li><strong>Flow: Low (10-20ul)</strong></li>
+<li><strong>Use: Glucose Test</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This product ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397166346274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MEDI-SLN200</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/397165199394</id>
+    <published>2017-11-15T02:47:43-06:00</published>
+    <updated>2017-11-15T02:47:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/copy-of-safety-lancet-surgilance%C2%AE-fixed-depth-lancet-needle-1-0-mm-depth-26-gauge"/>
+    <title>Safety Lancet Surgilance® Needle 1.0mm, 21G [SLN100] - Yellow*</title>
+    <s:type>SLN100</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/srichiei13304-2.jpg?v=1585260006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLN100<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Yellow</strong></li>
+<li><strong>Gauge: 21</strong></li>
+<li><strong>Depth: 1.0mm</strong></li>
+<li><strong>Flow: Low (5-10ul)</strong></li>
+<li><strong>Use: Glucose Test &amp; Geriatrics</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This product ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/397165199394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MEDI-SLN100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/391463108642</id>
+    <published>2017-11-15T02:47:43-06:00</published>
+    <updated>2017-11-15T02:47:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/safety-lancet-surgilance%C2%AE-fixed-depth-lancet-blade-1-8-mm-depth-19-gauge-pressure-activated"/>
+    <title>Safety Lancet Surgilance® Blade 1.8mm 18G [SLB200] - Green*</title>
+    <s:type>SLB200</s:type>
+    <s:vendor>MediPurpose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SLB200.jpg?v=1585072953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MediPurpose<br>
+        <strong>Type: </strong>SLB200<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MediPurpose SurgiLance™</strong></p>
+<ul>
+<li><strong>Green</strong></li>
+<li><strong>Gauge: 18</strong></li>
+<li><strong>Depth: 1.8mm</strong></li>
+<li><strong>Flow: High (70-100ul)</strong></li>
+<li><strong>Use: Microcollection Tube</strong></li>
+</ul>
+<p><span>Incorporate lancing device and needle into complete disposable unit</span></p>
+<ul>
+<li><span>One step activation mechanism</span></li>
+<li><span><span class="search-highlight">Lancet</span>s are color coded for easy recognition</span></li>
+<li><span><span class="search-highlight">Lancet</span> is inoperative after single use</span></li>
+<li><span>High speed delivery; OSHA compliant</span></li>
+<li><span>Latex free and Hypoallergenic</span></li>
+<li>100/BX</li>
+<li>This Item Ships Free!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lancets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/391463108642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>MEDI-SLB200</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/aoss-brand.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-04T13:25:52-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383628247074</id>
+    <published>2021-02-04T13:25:52-06:00</published>
+    <updated>2021-02-04T13:25:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/eclipse-aoss-black-nitrile-exam-gloves-104"/>
+    <title>Eclipse® Black Powder-Free Nitrile Examination Gloves (Non Latex) All Sizes</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/new-glove_artwork-flyer-02.png?v=1588377613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            59.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #444444;">AOSS Brand Eclipse gloves are fully textured and powder-free. These gloves conform to ASTM D6319 standards. At 5.5 grams and boasting a high tensile strength even when aged, you know you’re covered when you are wearing Eclipse black nitrile gloves. Step it up to “The Next Level of Protection” with Eclipse Black Nitrile Gloves!</span>
+<ul>
+<li style="text-align: left;"><span style="color: #444444;">Powder-Free Nitrile Examination Gloves, Eclipse®</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Latex Fee / Powder-Free</span></li>
+<li style="text-align: left;">Fully Textured*</li>
+<li style="text-align: left;"><span style="color: #444444;">Ambidextrous</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Single-Use Only</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Non-Sterile</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Color: Black</span></li>
+<li style="text-align: left;"><span style="color: #444444;">Bar-Coded for Inventory Control</span></li>
+<li style="text-align: left;"><span style="color: #444444;">100/BX</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Nitrile</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>X-Small, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-5-B</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Small, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-6-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Medium, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>X-Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383628247074</id>
+      <title>2X-Large, BOX (100)</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>104-0-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383286050850</id>
+    <published>2021-02-04T12:38:29-06:00</published>
+    <updated>2021-02-04T12:38:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-latex-powder-free-exam-gloves"/>
+    <title>TrueDerma® Latex Glove, Powder-Free (Nitrile-Free)</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/True_Derma_PF.png?v=1555184178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            25.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>AOSS Brand TrueDerma Latex Gloves are chlorinated examination gloves. TrueDerma Gloves conform to ASTM D3578-05 and EN 455 Part 1, 2 &amp; 3 Standards. These gloves are made of natural rubber latex and are micro-textured for added grip. TrueDerma gloves are also ambidextrous with a beaded cuff and high tensile strength.</strong></h4>
+<p> </p>
+<ul>
+<li>Powder Free</li>
+<li>4.0 mil</li>
+<li>Medical Grade </li>
+<li>Surface Finish: Finger Textured / Full textured </li>
+<li>Bar-Coded for Inventory Control</li>
+<li>100/BX, 10BX/CS = 1000/CASE</li>
+<li>Part# 107</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Latex</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-5-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-6-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381825515554</id>
+    <published>2021-02-04T12:23:01-06:00</published>
+    <updated>2021-02-04T12:23:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-vinyl-gloves"/>
+    <title>AOSS Simply Gloves® Powder-Free Vinyl Exam Gloves</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/105-simplyGloves.jpg?v=1558445767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Simply Gloves are made of PVC material which does not cause a latex allergic reaction. Simply gloves are ambidextrous and powder free. Simply Gloves meet or exceed ISO 9001 requirements. When you are looking for a glove to give you that “bare hand” feeling without all the added costs, the choice is simple. Simply Gloves!</h4>
+<ul>
+<ul>
+<li>4 mil</li>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>Clear</li>
+<li>Cuff Finishing:Beaded</li>
+<li>Ambidextrous</li>
+<li>Surface: Smooth</li>
+<li>100/BX</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Vinyl</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381825515554</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>105-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383667044386</id>
+    <published>2020-02-10T12:29:02-06:00</published>
+    <updated>2020-02-10T12:29:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-hand-sanitizer"/>
+    <title>Hand Sanitizer AOSS Pure Vital® 4 oz. Alcohol (Ethyl) Gel Bottle</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/aoss274_HandSanitizer.png?v=1559890833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            299.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span face="Helvetica Neue" size="2" color="#000000">AOSS Brand </span><span face="Helvetica Neue" size="2" color="#000000">extra thick hand sanitizer quickly cleans and sanitizes hands and skin. </span>Ideal for situations where water is not available. Contains 62% Ethyl alcohol. Special skin conditioner prevents skin from drying out.</h4>
+<ul>
+<li>AOSS Hand Sanitizer</li>
+<li>4 oz. (118 mL)</li>
+<li>Helps reduce harmful bacteria on skin.</li>
+<li>No water required for user's convenience.</li>
+<li>Dries quickly, leaves no sticky residue.</li>
+<li>Gentle formula is ideal for frequent use; moisturizes as it sanitizes.</li>
+<li>Active Ingredient: 62% Ethyl Alcohol.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383667044386</id>
+      <title>CS/60</title>
+      <s:price currency="USD">299.40</s:price>
+      <s:sku>AOSSC274CASE</s:sku>
+      <s:grams>7938</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1706199777314</id>
+    <published>2019-02-11T10:54:17-06:00</published>
+    <updated>2019-02-11T10:54:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-blood-pressure-sleeve-protector"/>
+    <title>AOSS Blood Pressure Sleeve Protector</title>
+    <s:type>Personal Protection</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSS_Blood_Pressure_Sleeve_Protector.png?v=1557372446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Personal Protection<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Blood Pressure Sleeve Protectors reduces the risk of hospital-acquired infections. Fast and easy to apply. Saves time from cleaning and disinfecting your cuff after each use. White. Elastic at both ends.</h4>
+<p><span>500/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aoss brand</s:tag>
+    <s:tag>blood pressure sleeve protector</s:tag>
+    <s:tag>personal protection</s:tag>
+    <s:tag>Sleeve Protector</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1706199777314</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>MS1801</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1706154000418</id>
+    <published>2019-02-11T09:16:06-06:00</published>
+    <updated>2019-02-11T09:16:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-disposable-underpads-8-5-by-12"/>
+    <title>AOSS Disposable Underpads 8.5&quot; by 12&quot;</title>
+    <s:type>AOSS Underpad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/aoss_underpad_c9538aa9-b01a-4f81-a552-5aab0ac05b2c.png?v=1559106065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>AOSS Underpad<br>
+        <strong>Price: </strong>
+            20.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS brand Disposable Underpads have a cellulose fill that does not shift during use. Le<span>ak proof backing and sealed edges. Not treated with scents or harsh chemicals. </span><span>Spread them on top of bedding, seating and wheelchairs to protect surfaces.</span>
+</h4>
+<ul>
+<li><span>8.5"X12" 500/case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AOSS Brand</s:tag>
+    <s:tag>chuc</s:tag>
+    <s:tag>chuc pad</s:tag>
+    <s:tag>chuck</s:tag>
+    <s:tag>chucks</s:tag>
+    <s:tag>chucs</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>home health</s:tag>
+    <s:tag>hospital</s:tag>
+    <s:tag>housekeeping</s:tag>
+    <s:tag>incontinence</s:tag>
+    <s:tag>long term care</s:tag>
+    <s:tag>underpad</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1706154000418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.43</s:price>
+      <s:sku>1805</s:sku>
+      <s:grams>7212</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383563563042</id>
+    <published>2018-04-16T10:06:12-05:00</published>
+    <updated>2018-04-16T10:06:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-gauze-pad-3x3-4ply-sterile"/>
+    <title>AOSS Gauze Pad, 3 x 3 Inch, 4-Ply (Sterile 2s)</title>
+    <s:type>Non-Woven Sponge</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/3x3_4-Ply_Sterile.JPG?v=1584708570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Non-Woven Sponge<br>
+        <strong>Price: </strong>
+            10.77 - 46.69
+            <a href="https://aossmedicalsupply.com/products/aoss-gauze-pad-3x3-4ply-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span color="#000000" size="2" face="Helvetica Neue">AOSS Brand Gauze Pad. <span>Ideal for applying ointments, prepping, wiping needles, cleaning slides, etc</span></span> </h4>
+<ul>
+<li>3" x 3"</li>
+<li>4-Ply</li>
+<li>Sterile 2s</li>
+<li>50 Pads/Tray, 48 Trays/Case = 2400 Gauze/Case</li>
+<li>2pk, 25 pk/Tray, 48 Tray/Case</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383563563042</id>
+      <title>CS/2400</title>
+      <s:price currency="USD">46.69</s:price>
+      <s:sku>AOSS8043-C</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383563563042</id>
+      <title>BX/50</title>
+      <s:price currency="USD">10.77</s:price>
+      <s:sku>AOSS8043-B</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383302402082</id>
+    <published>2017-12-26T16:20:25-06:00</published>
+    <updated>2017-12-26T16:20:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-iv-sponge-2x-2"/>
+    <title>AOSS IV Gauze Drain Dressing 2&quot;x 2&quot; 6-Ply - STERILE</title>
+    <s:type>IV Gauze</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2x2-ivGauze-1200.jpg?v=1559106065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>IV Gauze<br>
+        <strong>Price: </strong>
+            10.90 - 28.00
+            <a href="https://aossmedicalsupply.com/products/aoss-iv-sponge-2x-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>
+<span id="dnn_ctr533_ViewItemDetail_lblProductName" class="Head">AOSS DRAIN GAUZE. <span>For wound dressing, prepping and scrubbing</span><br><span>Highly absorbent with less linting.</span></span> </h4>
+<ul>
+<li>IV Sponge</li>
+<li>2" x 2"</li>
+<li>6-Ply</li>
+<li>AOSS Brand</li>
+<li>Sterile</li>
+<li>For wound dressing, prepping and scrubbing</li>
+<li>Highly absorbent with less linting</li>
+<li>35/box, 20 boxes/case</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:tag>intavenous therapy</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383302402082</id>
+      <title>BX/35</title>
+      <s:price currency="USD">10.90</s:price>
+      <s:sku>1200/4610-B</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383302402082</id>
+      <title>CS/700</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>1200/4610-C</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/415645007906</id>
+    <published>2017-12-15T10:55:24-06:00</published>
+    <updated>2017-12-15T10:55:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/6-x-9-ice-packs-instant-24-case-j2192"/>
+    <title>AOSS 5 x 9 Instant Ice Pack - 24/Case</title>
+    <s:type>Instant Cold Pack</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/J2192-instant-ice-pk.jpg?v=1557372442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Instant Cold Pack<br>
+        <strong>Price: </strong>
+            18.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 x 9 Instant Ice Pack - 24/Case (J2192)</p>
+<p>For use whenever immediate cold therapy is needed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cold Therapy</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/415645007906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.55</s:price>
+      <s:sku>J2192</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383710199842</id>
+    <published>2017-11-15T14:08:07-06:00</published>
+    <updated>2017-11-15T14:08:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-towel"/>
+    <title>AOSS Procedure Towel Blue, Waffle Embossed</title>
+    <s:type>Procedure Towel</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/163350.jpg?v=1581760865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Procedure Towel<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Blue</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">2 Ply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Poly waffle embossed</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">500/CS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383710199842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.81</s:price>
+      <s:sku>400001</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383679922210</id>
+    <published>2017-11-15T13:51:04-06:00</published>
+    <updated>2017-11-15T13:51:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-shoe-covers"/>
+    <title>AOSS Blue Latex-Free Shoe Cover - One Size Fits Most</title>
+    <s:type>Shoe Cover</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4668.jpg?v=1557372448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Shoe Cover<br>
+        <strong>Price: </strong>
+            33.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Manufactured of spunbonded polypropylene</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Seams are sewn</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Elastic opening provides snug comfortable fit</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Latex free</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">100 PAIR/CS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:tag>Shoe Cover</s:tag>
+    <s:tag>Shoe Covers</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383679922210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.84</s:price>
+      <s:sku>4668</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383674089506</id>
+    <published>2017-11-15T13:49:07-06:00</published>
+    <updated>2017-11-15T13:49:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-disposable-pillowcase"/>
+    <title>AOSS Pillowcase - Standard White Disposable</title>
+    <s:type>Pillowcase</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/145373.jpg?v=1584950228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Pillowcase<br>
+        <strong>Price: </strong>
+            29.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Disposable</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Tissue layer provides comfort of soft absorbency</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Polyethylene layer provides water resistant protection</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">100/CS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposables</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383674089506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.23</s:price>
+      <s:sku>700023</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/386915500066</id>
+    <published>2017-11-15T13:27:08-06:00</published>
+    <updated>2017-11-15T13:27:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/swabstick-aoss-cotton-tip-wood-shaft-6-inch-nonsterile-1000-per-box"/>
+    <title>Wooden Applicator 6&quot; NONSTERILE - BOX or CASE</title>
+    <s:type>Tongue Depressor</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Hot-100-X-Tongue-Depressor-Craft-Applicator-Wooden-Stick-Tattoo-Waxing-Wax-Stick-Medical-6-Inch.jpg_640x640_6d892118-05d7-4e7e-bc19-b8f7c3c1b107.jpg?v=1564690148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Tongue Depressor<br>
+        <strong>Price: </strong>
+            13.40 - 142.80
+            <a href="https://aossmedicalsupply.com/products/swabstick-aoss-cotton-tip-wood-shaft-6-inch-nonsterile-1000-per-box">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 12">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Applicators Wood 6" Non-Sterile</strong></p>
+<p><span>Used to mix, stir, applicate or scrape.<br> Hardwood stick provides strength with smooth finish</span></p>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>NonSterile</li>
+<li>6 inch (15.2 cm)</li>
+<li>Wood Shaft</li>
+<li>Single Use</li>
+<li><span>1000/BX</span></li>
+<li><span>20 boxes/CASE = 20,000 Total/CASE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>Tongue Depressors</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/386915500066</id>
+      <title>BX/1,000</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>360</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/386915500066</id>
+      <title>CS/20,000</title>
+      <s:price currency="USD">142.80</s:price>
+      <s:sku>360CASE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383662161954</id>
+    <published>2017-11-15T13:27:08-06:00</published>
+    <updated>2017-11-15T13:27:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-cotton-tip-applicator-sterile-non-sterile"/>
+    <title>AOSS Big Tip Cotton Sterile Applicators 6&quot; STERILE</title>
+    <s:type>Swabstick</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/541400B-cotton-applicators.jpg?v=1557372445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Swabstick<br>
+        <strong>Price: </strong>
+            15.00 - 30.00
+            <a href="https://aossmedicalsupply.com/products/aoss-cotton-tip-applicator-sterile-non-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>AOSS Cotton-Tipped Applicators</li>
+<li>2/ Pack; 1000 Packs/ Case = <span>2000/CS</span>
+</li>
+<li>6” - Sterile</li>
+<li>Tightly wound cotton head for reduced linting Wooden shaft provides flexibility</li>
+<li>2/pack, 100/box, 1000/CS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applicators</s:tag>
+    <s:tag>back to school</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383662161954</id>
+      <title>BX/100</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>541400-B</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383662161954</id>
+      <title>CS/1000</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>541400-C</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383659343906</id>
+    <published>2017-11-15T13:22:30-06:00</published>
+    <updated>2017-11-15T13:22:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-bouffant-cap"/>
+    <title>AOSS Blue Elastic Bouffant Cap - 100/BOX</title>
+    <s:type>Bouffant Cap</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/13520172958Elastic-Bouffant-Cap-P.png?v=1557372447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Bouffant Cap<br>
+        <strong>Price: </strong>
+            50.00 - 100.00
+            <a href="https://aossmedicalsupply.com/products/aoss-bouffant-cap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Brand</span></li>
+<li>
+<span face="Helvetica Neue" size="2" color="#000000"></span>Blue</li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Fluid resistant</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Soft elastic headband</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Spunbound polypropylene construction</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Well ventilated</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">100/BX, 5BX/Case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caps</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Protective Headwear</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383659343906</id>
+      <title>BX/100</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>233B-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383659343906</id>
+      <title>CS/500</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>233B-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383658033186</id>
+    <published>2017-11-15T13:20:09-06:00</published>
+    <updated>2017-11-15T13:20:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-alcohol-prep-pad"/>
+    <title>Alcohol Prep Pad AOSS Isopropyl Alcohol, 70% Individual Packet Medium Sterile</title>
+    <s:type>Alcohol Prep Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/5150-Alcohol-Prep.jpg?v=1557372363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Alcohol Prep Pad<br>
+        <strong>Price: </strong>
+            12.99 - 65.00
+            <a href="https://aossmedicalsupply.com/products/aoss-alcohol-prep-pad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Medium</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Saturated with 70% isopropyl alcohol</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Sterile</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Non-Woven, 2 ply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Designed for moderate cleansing</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Individually wrapped</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000" mce-data-marked="1">200/Box , 20/Case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Prep</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383658033186</id>
+      <title>BX/200</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>AOSS5150-B</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383658033186</id>
+      <title>CS/4000</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>AOSS5150-C</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/386902392866</id>
+    <published>2017-11-15T12:58:19-06:00</published>
+    <updated>2017-11-15T12:58:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-tourniquet-18-inch-synthetic-rubber"/>
+    <title>AOSS Tourniquet Synthetic Rubber 18 Inch BLUE (Latex-Free) - 100/ BOX</title>
+    <s:type>Tourniquet Strap</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4408BLUE-tourniquet-box.jpg?v=1582766684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Tourniquet Strap<br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>AOSS Brand</li>
+<li>Blue synthetic rubber</li>
+<li>Latex free </li>
+<li>100/BX</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tourniquets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/386902392866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.65</s:price>
+      <s:sku>4408BLUE</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383611600930</id>
+    <published>2017-11-15T12:58:19-06:00</published>
+    <updated>2017-11-15T12:58:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-1-tourniquet"/>
+    <title>AOSS Tourniquet Strap 18 Inch Latex - 250/ BOX</title>
+    <s:type>Tourniquet Strap</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/tourni_LatexTourniquet.jpg?v=1584950236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Tourniquet Strap<br>
+        <strong>Price: </strong>
+            33.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand; 18" Disposable; Latex - 250/BX</h4>
+<ul>
+<li>Individually rolled and banded</li>
+<li>Packaging designed for kit assembly</li>
+</ul>
+<table class="table table-hover blue">
+<tbody>
+<tr>
+<td class="text-nowrap">Manufacturer #</td>
+<td>TOURNI</td>
+</tr>
+<tr>
+<td class="text-nowrap">Manufacturer</td>
+<td>AOSS Medical Supply</td>
+</tr>
+<tr>
+<td class="text-nowrap">Application</td>
+<td>Tourniquet Strap</td>
+</tr>
+<tr>
+<td class="text-nowrap">Color</td>
+<td>Natural</td>
+</tr>
+<tr>
+<td class="text-nowrap">Length</td>
+<td>18 Inch</td>
+</tr>
+<tr>
+<td class="text-nowrap">Material</td>
+<td>Latex</td>
+</tr>
+<tr>
+<td class="text-nowrap">Securing Method</td>
+<td>Tie</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tourniquets</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383611600930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.16</s:price>
+      <s:sku>TOURNI</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383606390818</id>
+    <published>2017-11-15T12:52:11-06:00</published>
+    <updated>2017-11-15T12:52:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-m-fold-towel"/>
+    <title>AOSS Premium Multi-Fold Paper Towel 9.25” x 9” Inch</title>
+    <s:type>Paper Towel</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/154442_usn.jpg?v=1563819847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Paper Towel<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<ul class="styled-list">
+<li>Soft and absorbent C-Fold towels.</li>
+<li>For basic hand drying needs.</li>
+<li>Provides the perfect combination of quality, performance and value.</li>
+<li>Fast absorbency helps to control usage, so you save on reduced waste and maintenance time.</li>
+<li>Embossed to enhance hand feel and maximize absorbency.</li>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Brand</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">9.25” x 9”</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Multifold hand towel</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">150/PK, 16PK/CS = 2400</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Sold by the Case</span></li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>c fold paper towel</s:tag>
+    <s:tag>paper towel</s:tag>
+    <s:tag>Towels</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383606390818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>BAN21000</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/387171221538</id>
+    <published>2017-11-15T12:41:37-06:00</published>
+    <updated>2017-11-15T12:41:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/gauze-sponge-aoss-savannah-supreme-4-ply-4-x-4-inch-square-nonsterile"/>
+    <title>4 X 4 Inch, 4-Ply (Sterile) AOSS Gauze Pad</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSS8044-SS_4x4_be7f2fcd-7244-40b5-bb69-ba4fe27afae6.jpg?v=1554340852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            13.00 - 82.72
+            <a href="https://aossmedicalsupply.com/products/gauze-sponge-aoss-savannah-supreme-4-ply-4-x-4-inch-square-nonsterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Savannah Supreme gauze are ideal for multiple applications and are extra soft for increased patient comfort. AOSS offers gauze in both sterile or non-sterile to meet all your needs.</h4>
+<ul>
+<li>AOSS Gauze Pad</li>
+<li>4" x 4", 4-Ply, Sterile</li>
+<li>25/BX, 24 BX/CS (600/Case)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/387171221538</id>
+      <title>BX/25</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>AOSS8044BX</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/387171221538</id>
+      <title>CS/600</title>
+      <s:price currency="USD">82.72</s:price>
+      <s:sku>AOSS8044-C</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383581716514</id>
+    <published>2017-11-15T12:41:37-06:00</published>
+    <updated>2017-11-15T12:41:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-all-purpose-sponge-4x4"/>
+    <title>4 X 4 Inch, 8-Ply (Non-Sterile) Gauze Pad AOSS - BAG or CASE</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4408-SS-4x4.jpg?v=1554340853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            12.66 - 89.80
+            <a href="https://aossmedicalsupply.com/products/aoss-all-purpose-sponge-4x4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Savannah Supreme gauze are ideal for multiple applications and are extra soft for increased patient comfort. </h4>
+<ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li>4 X 4; 8 ply; Non-Sterile</li>
+<li>200/BG, 20BG/CS</li>
+</ul>
+<p> </p>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383581716514</id>
+      <title>BG/200</title>
+      <s:price currency="USD">12.66</s:price>
+      <s:sku>4408-B</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383581716514</id>
+      <title>CS/4000</title>
+      <s:price currency="USD">89.80</s:price>
+      <s:sku>4408-C</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383578505250</id>
+    <published>2017-11-15T12:39:26-06:00</published>
+    <updated>2017-11-15T12:39:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-cover-sponge-4x3-sterile"/>
+    <title>AOSS Cover Sponge 4 X 3 Inch (Sterile)</title>
+    <s:type>Cover Sponge</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/3x4-coverSponge-AOSS3157.jpg?v=1584708562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Cover Sponge<br>
+        <strong>Price: </strong>
+            13.54 - 94.96
+            <a href="https://aossmedicalsupply.com/products/aoss-cover-sponge-4x3-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand. <span face="Helvetica Neue" size="2" color="#000000">For heavy to moderate exudating wounds, </span>Good absorbent capacity</h4>
+<ul>
+<li><span style="font-size: 15px;">4 X 3</span></li>
+<li><span style="font-size: 15px;">Sterile</span></li>
+<li>50/BX, 24BX/CS</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponges</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383578505250</id>
+      <title>BX/25</title>
+      <s:price currency="USD">13.54</s:price>
+      <s:sku>3157-B</s:sku>
+      <s:grams>4354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383578505250</id>
+      <title>CS/600</title>
+      <s:price currency="USD">94.96</s:price>
+      <s:sku>3157-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383534268450</id>
+    <published>2017-11-15T12:21:34-06:00</published>
+    <updated>2017-11-15T12:21:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-gauze-pad-2x-2-4ply-sterile"/>
+    <title>AOSS Gauze Pad, 2 x 2 Inch, 4-Ply (Sterile 2s) - CASE</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSS8042-SS-2x2.jpg?v=1581574652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            42.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Gauze Pad. <span>Ideal for applying ointments, prepping, wiping needles, cleaning slides, etc.</span>
+</h4>
+<ul>
+<li>2" x 2"</li>
+<li>4-ply</li>
+<li>Sterile 2s</li>
+<li><span>100 Pads/Tray, 30 Trays/Case = 3000 Gauze/Case</span></li>
+</ul>
+<p title="Page 11" class="page"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383534268450</id>
+      <title>CS/3000</title>
+      <s:price currency="USD">42.10</s:price>
+      <s:sku>AOSS8042</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383534268450</id>
+      <title>BX/100</title>
+      <s:price currency="USD">42.10</s:price>
+      <s:sku>AOSS8042BX</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/415081758754</id>
+    <published>2017-11-14T16:33:35-06:00</published>
+    <updated>2017-11-14T16:33:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/2-x-2-inch-8-ply-sterile-gauze-pad-case-228s"/>
+    <title>AOSS Gauze Pad, 2 x 2 Inch, 8-Ply (Sterile 2s) - Case</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/228S-2x2-Gauze-8ply.jpg?v=1581574653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            11.13 - 37.00
+            <a href="https://aossmedicalsupply.com/products/2-x-2-inch-8-ply-sterile-gauze-pad-case-228s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Gauze Pad (228S) <span>Ideal for applying ointments, prepping, wiping needles, cleaning slides, etc.</span>
+</h4>
+<ul>
+<li>2" x 2"</li>
+<li>8-Ply</li>
+<li>Sterile 2s</li>
+<li>100/BX, 30BX/CS = 3000Gauze/CS (2 gauze per envelope)</li>
+</ul>
+<p style="text-align: left;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/415081758754</id>
+      <title>CS/3000</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>228SCASE</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/415081758754</id>
+      <title>BX/100</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>228STAY</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/415075237922</id>
+    <published>2017-11-14T16:33:35-06:00</published>
+    <updated>2017-11-14T16:33:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/2-x-2-inch-8-ply-non-sterile-woven-sponge-case"/>
+    <title>AOSS Gauze Pad, 2 x 2 Inch, 8-Ply (Non-Sterile Woven)</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2208-Alpha-One-2x2-8ply-small.jpg?v=1584708568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            12.00 - 32.50
+            <a href="https://aossmedicalsupply.com/products/2-x-2-inch-8-ply-non-sterile-woven-sponge-case">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS Brand Gauze Pad. <span>Ideal for applying ointments, prepping, wiping needles, cleaning slides, etc.</span>
+</h4>
+<ul>
+<li>2" x 2"</li>
+<li>8-Ply</li>
+<li>Non-Sterile</li>
+<li>Woven</li>
+<li>200/BG, 25BG/CS = 5000 Gauze/CS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gauze</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/415075237922</id>
+      <title>CS/5000</title>
+      <s:price currency="USD">32.50</s:price>
+      <s:sku>2208/P157115</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/415075237922</id>
+      <title>BG/200</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>2208-BAG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

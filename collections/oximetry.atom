@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/oximetry.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-12-12T18:37:59-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413086679074</id>
+    <published>2017-12-12T18:37:59-06:00</published>
+    <updated>2017-12-12T18:37:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/adc-advantage%E2%84%A2-2200-digital-fingertip-pulse-oximeter"/>
+    <title>ADC Advantage™ 2200 Digital Fingertip Pulse Oximeter</title>
+    <s:type>Finger Pulse Oximeter</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/800908.jpg?v=1554340862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>Finger Pulse Oximeter<br>
+        <strong>Price: </strong>
+            56.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h4><strong>A portable fingertip pulse oximeter ideally suited for home, sport, or aviation use. <span>(US Only)</span></strong></h4>
+<ul>
+<li>Reads SPO2 and Pulse Rate</li>
+<li>Accuracy: SPO2 ±2% / HR ±5 BPM</li>
+<li>2 changeable display modes</li>
+<li>Bright red LED display</li>
+<li>Fits fingers with a thickness of 8mm-20mm (0.31"-0.79")</li>
+<li>Carry Lanyard</li>
+<li>2 “AAA” Batteries</li>
+<li>Instruction Booklet</li>
+<li>1 year limited warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413086679074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.86</s:price>
+      <s:sku>ADC 2200</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

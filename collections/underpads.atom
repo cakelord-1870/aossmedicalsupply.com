@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/underpads.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-02-11T09:16:06-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1706154000418</id>
+    <published>2019-02-11T09:16:06-06:00</published>
+    <updated>2019-02-11T09:16:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-disposable-underpads-8-5-by-12"/>
+    <title>AOSS Disposable Underpads 8.5&quot; by 12&quot;</title>
+    <s:type>AOSS Underpad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/aoss_underpad_c9538aa9-b01a-4f81-a552-5aab0ac05b2c.png?v=1559106065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>AOSS Underpad<br>
+        <strong>Price: </strong>
+            20.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>AOSS brand Disposable Underpads have a cellulose fill that does not shift during use. Le<span>ak proof backing and sealed edges. Not treated with scents or harsh chemicals. </span><span>Spread them on top of bedding, seating and wheelchairs to protect surfaces.</span>
+</h4>
+<ul>
+<li><span>8.5"X12" 500/case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AOSS Brand</s:tag>
+    <s:tag>chuc</s:tag>
+    <s:tag>chuc pad</s:tag>
+    <s:tag>chuck</s:tag>
+    <s:tag>chucks</s:tag>
+    <s:tag>chucs</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>home health</s:tag>
+    <s:tag>hospital</s:tag>
+    <s:tag>housekeeping</s:tag>
+    <s:tag>incontinence</s:tag>
+    <s:tag>long term care</s:tag>
+    <s:tag>underpad</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1706154000418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.43</s:price>
+      <s:sku>1805</s:sku>
+      <s:grams>7212</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383714885666</id>
+    <published>2017-11-15T14:10:06-06:00</published>
+    <updated>2017-11-15T14:10:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-underpad"/>
+    <title>AOSS Underpad 17 X 24 Inch Disposable</title>
+    <s:type>Underpad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/1804_Underpad.jpg?v=1559106069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Underpad<br>
+        <strong>Price: </strong>
+            49.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">17" x 24"</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Cellulose fill that does not shift during use</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Leak proof backing and sealed edges</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Not treated with scents or harsh chemicals</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">50/bag, 300/CS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chuc</s:tag>
+    <s:tag>chuc pad</s:tag>
+    <s:tag>chuck</s:tag>
+    <s:tag>chucks</s:tag>
+    <s:tag>chucs</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Disposables</s:tag>
+    <s:tag>incontinence</s:tag>
+    <s:tag>underpad</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383714885666</id>
+      <title>CS/300</title>
+      <s:price currency="USD">49.88</s:price>
+      <s:sku>1804-C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

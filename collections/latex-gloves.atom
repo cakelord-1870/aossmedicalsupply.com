@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/latex-gloves.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-04T13:06:15-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4727800823868</id>
+    <published>2021-02-04T13:06:15-06:00</published>
+    <updated>2021-02-04T13:06:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sempermed-starmed-powder-free-latex-gloves-glove-100-bx"/>
+    <title>SEMPERMED STARMED POWDER-FREE LATEX GLOVES GLOVE (100/BX)</title>
+    <s:type>GLOVES</s:type>
+    <s:vendor>Sempermed USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l500_3.jpg?v=1612465575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sempermed USA<br>
+        <strong>Type: </strong>GLOVES<br>
+        <strong>Price: </strong>
+            25.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-features" data-mce-fragment="1">
+<li data-mce-fragment="1">StarMed® powder-free latex exam gloves are designed to provide the perfect combination of protection, tactile sensitivity and value</li>
+<li data-mce-fragment="1">Our advanced manufacturing technology and online chlorination process creates a glove that is strong, flexible and goes on with ease</li>
+<li data-mce-fragment="1">The micro-rough textured surface improves tactile sensitivity and allows for increased gripping capabilities</li>
+<li data-mce-fragment="1">Inside coated with synthetic material</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727800823868</id>
+      <title>M</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>SM-103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727800823868</id>
+      <title>L</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>SM-104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727800823868</id>
+      <title>S</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>SM-102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383286050850</id>
+    <published>2021-02-04T12:38:29-06:00</published>
+    <updated>2021-02-04T12:38:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-latex-powder-free-exam-gloves"/>
+    <title>TrueDerma® Latex Glove, Powder-Free (Nitrile-Free)</title>
+    <s:type>Exam Gloves</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/True_Derma_PF.png?v=1555184178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Exam Gloves<br>
+        <strong>Price: </strong>
+            25.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>AOSS Brand TrueDerma Latex Gloves are chlorinated examination gloves. TrueDerma Gloves conform to ASTM D3578-05 and EN 455 Part 1, 2 &amp; 3 Standards. These gloves are made of natural rubber latex and are micro-textured for added grip. TrueDerma gloves are also ambidextrous with a beaded cuff and high tensile strength.</strong></h4>
+<p> </p>
+<ul>
+<li>Powder Free</li>
+<li>4.0 mil</li>
+<li>Medical Grade </li>
+<li>Surface Finish: Finger Textured / Full textured </li>
+<li>Bar-Coded for Inventory Control</li>
+<li>100/BX, 10BX/CS = 1000/CASE</li>
+<li>Part# 107</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Latex</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-5-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Small, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-6-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Medium, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-7-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-8-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383286050850</id>
+      <title>X-Large, BX/100</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>107-9-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

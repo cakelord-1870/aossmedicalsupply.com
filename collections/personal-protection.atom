@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/personal-protection.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-04T13:20:59-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4712006254652</id>
+    <published>2021-02-04T13:20:59-06:00</published>
+    <updated>2021-02-04T13:20:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/nitriderm-ultra-blue-powder-free-nitrile-gloves-medium-100-bx"/>
+    <title>NitriDerm - Ultra Blue Powder-free Nitrile Gloves Medium (100/BX)</title>
+    <s:type>Nitrile Glove</s:type>
+    <s:vendor>Innovative Healthcare Corp., Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/157200_ec9d6d6e-9f0d-48c7-8f73-83bce06fa9a6.jpg?v=1610144927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Innovative Healthcare Corp., Inc.<br>
+        <strong>Type: </strong>Nitrile Glove<br>
+        <strong>Price: </strong>
+            35.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table align="center">
+<tbody>
+<tr>
+<td>
+<div id="ds_div">
+<p><span>Characteristics:</span>  Exceptionally soft, low modulus nitrile synthetic compound is very comfortable for extended periods. Very good donning properties. Slightly tacky exterior finish provides excellent gripping properties. Light blue color. Tested to provide maximum protection from fentanyl exposure.</p>
+<p><span>Description:</span>  Gloves, Exam, Nitrile, Chemo, Non-Sterile, Powder-Free, Textured, Fentanyl</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4712006254652</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.88</s:price>
+      <s:sku>157200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4727787487292</id>
+    <published>2021-02-04T12:19:03-06:00</published>
+    <updated>2021-02-04T12:19:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-simply-sentinel-nitrile-gloves-100-bx"/>
+    <title>AOSS Simply Sentinel Nitrile Gloves  (100/BX)</title>
+    <s:type>Nitrile Glove</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/209-7_1.png?v=1612462744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Nitrile Glove<br>
+        <strong>Price: </strong>
+            35.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table align="center" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div id="ds_div" data-mce-fragment="1"><span size="4" style="font-size: large;" data-mce-fragment="1" rwr="1"><span data-mce-fragment="1">These gloves have a beaded cuff and textured fingertips to give added protection with increased grip. Simply Sentinel gloves are easy to don, soft, comfortable and provide all of the required barrier properties for a wide range of healthcare applications.</span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>100/BX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727787487292</id>
+      <title>S</title>
+      <s:price currency="USD">35.88</s:price>
+      <s:sku>209-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727787487292</id>
+      <title>M</title>
+      <s:price currency="USD">35.88</s:price>
+      <s:sku>209-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4727787487292</id>
+      <title>L</title>
+      <s:price currency="USD">35.88</s:price>
+      <s:sku>209-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4711919124540</id>
+    <published>2021-01-08T14:34:25-06:00</published>
+    <updated>2021-01-08T14:34:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/3m-8511-particulate-sanding-respirator-n95-with-valve-10-masks"/>
+    <title>3M 8511 Particulate Sanding Respirator N95 With Valve 10 Masks</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/8511.jpg?v=1610138067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            45.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The 3M 8511 N95 Masks offer comfortable extended wear in dusty environments. This particulate respirator is durable and has no spare parts to clean. 3M 8511 masks feature 3M's patented Advanced Electret Media and the Cool Flow Exhalation Valve to make breathing easier and cooler. An innovative M-nose clip adjusts easily to provide an effective seal to reduce eyewear fogging. The soft inner material of the 3M 8511 N95 mask provides added comfort while the cup shape design makes this respirator spacious &amp; durable. Constructed with braided headbands and an adjustable M-noseclip are designed to help enhance user comfort and increase extended wear-time.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The 3M 8511 N95 Mask is a disposable particulate respirator designed to provide reliable respiratory protection against certain non-oil based particles. The respirator has been developed for use in applications such as grinding, sanding, sweeping, sawing, bagging or other dusty operations. It can also help reduce inhalation exposures to certain airborne biological particles including: mold, Bacillus Anthracis or Mycobacterium Tuberculosis. NIOSH approved and compatible with a variety of protective eyewear and hearing protection. Made in USA. </span><span data-mce-fragment="1">10 respirators per box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4711919124540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.88</s:price>
+      <s:sku>3M8511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4710180814908</id>
+    <published>2021-01-04T17:04:35-06:00</published>
+    <updated>2021-01-04T17:04:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/instagard-procedure-masks-by-cardinal-mask"/>
+    <title>Instagard Procedure Masks By Cardinal - Mask,</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Baxter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/3T3151.jpg?v=1609801477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baxter<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            23.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Instagard Procedure Masks By Cardinal - Mask, Tie, Insta Guard, Fluid Resistant - Cardinal Health Medical Products</span></p>
+<p><span data-mce-fragment="1">50/BX (1 BOX)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4710180814908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.88</s:price>
+      <s:sku>1540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4707714859068</id>
+    <published>2020-12-30T17:03:31-06:00</published>
+    <updated>2020-12-30T17:03:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/3m-1833-ultra-soft-tie-on-surgical-mask-50-box"/>
+    <title>3M 1833 Ultra-Soft Tie-On Surgical Mask 50/BOX</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/MMM1833.jpg?v=1609369407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            26.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span id="ctl00_MainContentHolder_lblDescriptionHeader">Overview for 3M 1833 Ultra-Soft Tie-On Surgical Mask</span></h2>
+<p>3M's Ultra-Soft Tie-On Surgical Mask is designed for users with sensitive skin in a variety of environments and applications with its dye-free construction and soft inner liner.</p>
+<p>This highly breathable tie-on surgical mask features a flat design with bi-directional pleats to increase comfort. It uses vertical ties and includes a medical grade, anti-fog non-woven strip over the wearer's nose; this reduces fogging of eyewear, an important safety feature. The Ultra-Soft Tie-On Surgical Mask is latex-free and uses a multilayer construction to protect the wearer: polyethylene inner web, polypropylene filter web, and a polypropylene outer web. The mask is also hypoallergenic and fiberglass-free. It has a filtration efficiency of &gt;99% BFE (bacterial filtration efficiency) and &gt;99% PFE (particle filtration efficiency).</p>
+<p>50/BOX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4707714859068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.88</s:price>
+      <s:sku>3M1833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4665430245436</id>
+    <published>2020-10-26T09:04:31-05:00</published>
+    <updated>2020-10-26T09:04:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kn95-5-ply-disposable-particulate-respirators-25-bx-2-pack-50-masks"/>
+    <title>KN95 5-Ply Disposable Particulate Respirators- 25/BX</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/kn95PRODUCTPIC_0362bf84-a904-4b11-9dbc-1d617681e9ab.jpg?v=1603721075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            78.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>KN95 SAFETY RESPIRATOR FACE MASKS  (N95 EQUIVALENT)</h2>
+<p><strong>High Breathability:</strong><span> </span><span>KN95 Has High Breath-ability. High filtering ability, extremely low resistance, easy to breathe.</span><br><strong>Face Mask with ≥ 95% Filtration:</strong><span> </span><span>KN95 has at least 95% of airborne particles (0.3 microns) particles.</span><br><strong>Comfortable Fit to Face:</strong><span> </span><span>KN95 Face Masks Easily Fits Face. Soft and flexible nose bridge can be adjusted to the face.</span><br></p>
+<p><span>25/BX or 2 Pack Bundle (50 Masks)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4665430245436</id>
+      <title>1 Box (25 Face Masks)</title>
+      <s:price currency="USD">78.88</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4612746903612</id>
+    <published>2020-08-05T14:35:53-05:00</published>
+    <updated>2020-08-05T14:35:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-children-hygiene-mask-20-bx"/>
+    <title>AOSS Children Hygiene Mask (20/BX)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AOSSC105Packaging.png?v=1596656155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            16.88 - 39.88
+            <a href="https://aossmedicalsupply.com/products/aoss-children-hygiene-mask-20-bx">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="about-product-title heading-b font-normal font-headline-4">3 Layers - The masks are made of 3 layers of high-quality non-woven fabric, moisture-proof with strong filtering that’s soft and comfortable. Small size to fit snugly on a child's face covering their nose and mouth.<br></p>
+<ul>
+<li>Choose from 8 different designs</li>
+<li>Shipped from USA</li>
+<li>20/BX</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Blue Monster</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Pink Monster</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Yellow Monster</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Blue Bear</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Pink Bear</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Pink Smiley</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Pink Dinosaur</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>Pink Plum Blossom</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>AOSSC105-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Blue Monster</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Pink Monster</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Yellow Monster</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Blue Bear</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Pink Bear</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Pink Smiley</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Pink Dinosaur</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612746903612</id>
+      <title>3 Box Bundle (60 Children&apos;s Face Masks) Pink Plum Blossom</title>
+      <s:price currency="USD">39.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4612741103676</id>
+    <published>2020-08-05T14:22:23-05:00</published>
+    <updated>2020-08-05T14:22:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/3-layer-disposable-face-masks-50-bx"/>
+    <title>3-Layer Disposable Face Masks</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/D105.jpg?v=1596655344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.88 - 79.88
+            <a href="https://aossmedicalsupply.com/products/3-layer-disposable-face-masks-50-bx">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>The 3-layer mask features a non-abrasive inner layer and outer layer made from breathable, non-woven fabric and an antibacterial filter middle layer. The elastics sit comfortably on the ears and the moldable nose piece ensures a secure fit on the face to prevent shifting during movement. Ideal for daily use at home and at work, travel or trips to the supermarket and gym, this 50-pack of masks help prevent the spread of germs and protect against airborne dust and allergens.</span></div>
+<ul class="list">
+<li class="list__item">50/BX: of disposable face masks or 3 box bundle (150 total masks)</li>
+<li class="list__item">3-ply design: protects against airborne allergens, pollen and large droplets</li>
+<li class="list__item">Fits securely over face: to prevent shifting during movement</li>
+<li class="list__item">Store in a dry and ventilated location 23°F to 122°F (minus 5°C to 50°C, relative humidity less than 80%)</li>
+<li class="list__item">Non-abrasive against skin</li>
+<li class="list__item">Shipped from USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612741103676</id>
+      <title>1 BX (50 Face Masks)</title>
+      <s:price currency="USD">29.88</s:price>
+      <s:sku>D105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612741103676</id>
+      <title>3 Pack</title>
+      <s:price currency="USD">79.88</s:price>
+      <s:sku>D105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4612676124732</id>
+    <published>2020-08-05T13:01:44-05:00</published>
+    <updated>2020-08-05T13:01:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kn95-5-ply-disposable-particulate-respirators-25-bx"/>
+    <title>KN95 5-Ply Disposable Particulate Respirators- 25/BX (2-pack= 50 masks)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/kn95PRODUCTPIC.jpg?v=1596657101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            147.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>KN95 SAFETY RESPIRATOR FACE MASKS  (N95 EQUIVALENT)</h2>
+<p><strong>High Breathability:</strong><span> </span><span>KN95 Has High Breath-ability. High filtering ability, extremely low resistance, easy to breathe.</span><br><strong>Face Mask with ≥ 95% Filtration:</strong><span> </span><span>KN95 has at least 95% of airborne particles (0.3 microns) particles.</span><br><strong>Comfortable Fit to Face:</strong><span> </span><span>KN95 Face Masks Easily Fits Face. Soft and flexible nose bridge can be adjusted to the face.</span><br></p>
+<p><span>25/BX or 2 Pack Bundle (50 Masks)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4612676124732</id>
+      <title>2 Pack Bundle</title>
+      <s:price currency="USD">147.88</s:price>
+      <s:sku>KN95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3750426738722</id>
+    <published>2019-06-03T14:12:40-05:00</published>
+    <updated>2019-06-03T14:12:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/alpha-protech-coverall-full-face-shields-comfort-headband-100-cs"/>
+    <title>Alpha ProTech Coverall Full Face Shields, Comfort Headband, 100/cs</title>
+    <s:type>Face Shield</s:type>
+    <s:vendor>Alpha ProTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ALP-2802_1.jpg?v=1559626564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpha ProTech<br>
+        <strong>Type: </strong>Face Shield<br>
+        <strong>Price: </strong>
+            253.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Alpha ProTech Coverall Full Face Shields:</strong></p>
+<li>When you need total facial splash protection, choose the Coverall Face Shield.</li>
+<br>
+<li>The face shield gives you great peripheral vision while acting as a shield against dangerous splashes in the work environment.</li>
+<br>
+<li>You can wear the lightweight shield comfortably for long periods and it fits easily over glasses.</li>
+<br>
+<li>A double-sided anti-fog coating virtually eliminates fogging.</li>
+<br>
+<li>For safe working conditions, the shield is low distorting and 100% optically clear.</li>
+<br>
+<li>A soft polyurethane foam headband fits snugly against the forehead.</li>
+<br>
+<li>Full-face style provides complete coverage including the sides of the face.</li>
+<br>
+<li>Individually packaged.</li>
+<li>Latex Free</li>
+<li><strong>FREE SHIPPING!</strong></li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpha ProTech</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>dialysis</s:tag>
+    <s:tag>dialysis supplies</s:tag>
+    <s:tag>face shield</s:tag>
+    <s:tag>face shield replacement</s:tag>
+    <s:tag>safety eyewear</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3750426738722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">253.00</s:price>
+      <s:sku>4505</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/413034250274</id>
+    <published>2017-12-12T16:43:04-06:00</published>
+    <updated>2017-12-12T16:43:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/cpr-resuscitation-mask-adsafe%E2%84%A2"/>
+    <title>CPR Resuscitation Mask Adsafe™</title>
+    <s:type>CPR Resuscitation Mask</s:type>
+    <s:vendor>American Diagnostic Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ADC_CPR.JPG?v=1584953770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Diagnostic Corporation<br>
+        <strong>Type: </strong>CPR Resuscitation Mask<br>
+        <strong>Price: </strong>
+            7.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">ADC ADSAFE™ CPR POCKET RESUSCITATOR</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">CPR Valve Mask Resuscitator In Case, Orange (US Only)</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">1 each</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CPR</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/413034250274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.34</s:price>
+      <s:sku>ADC 4053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383659343906</id>
+    <published>2017-11-15T13:22:30-06:00</published>
+    <updated>2017-11-15T13:22:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-bouffant-cap"/>
+    <title>AOSS Blue Elastic Bouffant Cap - 100/BOX</title>
+    <s:type>Bouffant Cap</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/13520172958Elastic-Bouffant-Cap-P.png?v=1557372447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Bouffant Cap<br>
+        <strong>Price: </strong>
+            50.00 - 100.00
+            <a href="https://aossmedicalsupply.com/products/aoss-bouffant-cap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Brand</span></li>
+<li>
+<span face="Helvetica Neue" size="2" color="#000000"></span>Blue</li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Fluid resistant</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Soft elastic headband</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Spunbound polypropylene construction</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Well ventilated</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">100/BX, 5BX/Case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caps</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Protective Headwear</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383659343906</id>
+      <title>BX/100</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>233B-B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383659343906</id>
+      <title>CS/500</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>233B-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/382625579042</id>
+    <published>2017-11-14T20:52:29-06:00</published>
+    <updated>2017-11-14T20:52:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-procedure-gown-chemotherapy-drug-tested"/>
+    <title>Halyard Procedure Gown Chemotherapy Drug Tested</title>
+    <s:type>Procedure Gown</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/ChemoGownGlove_Body_Image-HYH_178x336_4701aaf9-a067-45c5-8bad-384c319751d9.jpg?v=1584954501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Procedure Gown<br>
+        <strong>Price: </strong>
+            235.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Halyard Health, LLC; Procedure Gown, Tested For Use with Chemotherapy Compounding &amp; Drug Administration, 22¾ x 12¾" x 15¾” (100/cs”)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382625579042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">235.78</s:price>
+      <s:sku>69606</s:sku>
+      <s:grams>8391</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/382546378786</id>
+    <published>2017-11-14T20:33:28-06:00</published>
+    <updated>2017-11-14T20:33:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-protective-coverall"/>
+    <title>Halyard Protective Coverall</title>
+    <s:type>Cover Gown</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/10075_model.jpg?v=1584954504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Cover Gown<br>
+        <strong>Price: </strong>
+            86.59 - 138.52
+            <a href="https://aossmedicalsupply.com/products/halyard-protective-coverall">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra Protective Coverall Option, Elastic Wrist &amp; Cuff Option, White or Blue, Size Options: </p>
+<ol>
+<li>Extra Protective Coverall, Elastic Wrist &amp; Cuff, White, X-Large, 24/cs</li>
+<li>Same as 1; White; XX-Large</li>
+<li>Same as 1; White; XXX-Large</li>
+<li>Protective Coverall, Blue, Large, 24/cs</li>
+<li>Same as 4; Blue, X-Large</li>
+<li>Same as 4; Blue, XX-Large</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>1. Extra Prot. Coverall/ Elastic/ White/ X-Large</title>
+      <s:price currency="USD">113.11</s:price>
+      <s:sku>10085</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>2. Extra Prot. Coverall/ Elastic/ White/ XX-Large</title>
+      <s:price currency="USD">113.11</s:price>
+      <s:sku>10095</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>3. Extra Prot. Coverall/ Elastic/ White/ XXX-Large</title>
+      <s:price currency="USD">138.52</s:price>
+      <s:sku>10096</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>4. Prot. Coverall/ Blue/ Large</title>
+      <s:price currency="USD">86.59</s:price>
+      <s:sku>75631</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>5. Prot. Coverall/ Blue/ X-Large</title>
+      <s:price currency="USD">96.91</s:price>
+      <s:sku>75641</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/382546378786</id>
+      <title>6. Prot. Coverall/ Blue/ XX-Large</title>
+      <s:price currency="USD">101.73</s:price>
+      <s:sku>75651</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381943119906</id>
+    <published>2017-11-14T17:20:16-06:00</published>
+    <updated>2017-11-14T17:20:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-standard-surgical-gowns"/>
+    <title>Halyard Standard Surgical Gowns</title>
+    <s:type>Surgical Gowns</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i61685.jpg?v=1584954521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Surgical Gowns<br>
+        <strong>Price: </strong>
+            164.19 - 164.81
+            <a href="https://aossmedicalsupply.com/products/halyard-standard-surgical-gowns">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halyard Health, LLC; Surgical Gown; <span> Towel; Sterile; </span>(2) Size/ Packaging Options: </p>
+<p>1.) Large, 36/cs</p>
+<p>2.) X-Large, 34/cs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381943119906</id>
+      <title>1. Large - 36/cs</title>
+      <s:price currency="USD">164.19</s:price>
+      <s:sku>90012</s:sku>
+      <s:grams>7076</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381943119906</id>
+      <title>2. X-Large - 34/cs</title>
+      <s:price currency="USD">164.81</s:price>
+      <s:sku>90042</s:sku>
+      <s:grams>7076</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381118185506</id>
+    <published>2017-11-14T11:13:32-06:00</published>
+    <updated>2017-11-14T11:13:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kimberly-clark-jackson-safety-v50-otg-safety-eyewear"/>
+    <title>Kimberly-Clark Jackson Safety V50 OTG Safety Eyewear</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>Kimberly-Clark Professional</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/jackson-goggles.jpg?v=1559890851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark Professional<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            73.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Jackson Safety Glasses, Clear Lens, Anti-Fog, Black Frame, 12/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Glasses</s:tag>
+    <s:tag>Protective Eyewear</s:tag>
+    <s:tag>safety eyewear</s:tag>
+    <s:tag>Safety Glasses</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381118185506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">73.06</s:price>
+      <s:sku>20746</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381112451106</id>
+    <published>2017-11-14T11:11:07-06:00</published>
+    <updated>2017-11-14T11:11:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kimberly-clark-jackson-safety-v40-glasses"/>
+    <title>Kimberly-Clark Jackson Safety V40 Glasses</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>Kimberly-Clark Professional</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/amber-kc-jackson-goggles.jpg?v=1559890850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark Professional<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            65.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Kimberly-Clark Professional; Jackson Safety Glasses, Amber, 12/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Glasses</s:tag>
+    <s:tag>Protective Eyewear</s:tag>
+    <s:tag>safety eyewear</s:tag>
+    <s:tag>Safety Glasses</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381112451106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.46</s:price>
+      <s:sku>20541</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381076078626</id>
+    <published>2017-11-14T10:52:38-06:00</published>
+    <updated>2017-11-14T10:52:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kimberly-clark-jackson-safety-v30-nemesis-safety-eyewear"/>
+    <title>Kimberly-Clark Jackson Safety V30 Nemesis Safety Eyewear</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>Kimberly-Clark Professional</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/31G3mMsnDHL._SX342.jpg?v=1559890846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark Professional<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            41.33 - 219.74
+            <a href="https://aossmedicalsupply.com/products/kimberly-clark-jackson-safety-v30-nemesis-safety-eyewear">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Kimberly-Clark Professional; </span><span face="Helvetica Neue" size="2" color="#000000">Jackson Safety Glasses; 12/cs; (19!) Type/ Color Option Below: </span></p>
+<ol>
+<li>Amber Lens/ Anti-Fog,/ Black Frame</li>
+<li>
+<p>Amber Lens/ Anti-Fog/ Black Frame</p>
+</li>
+<li>
+<p>Amber Lens/ Anti-Fog/ Camo Frame</p>
+</li>
+<li>
+<p>Blue Mirror Lens/ Black Frame</p>
+</li>
+<li>
+<p>Bronze Lens/ Anti-Fog/ Camo Frame</p>
+</li>
+<li>
+<p>Clear Lens/ Anti-Fog/ Black Frame</p>
+</li>
+<li>
+<p>Clear Lens/ Anti-Fog/ Camo Frame</p>
+</li>
+<li>
+<p>Clear Lens/ Black Frame</p>
+</li>
+<li>
+<p>Copper Blue Shield Lens/ Black Frame</p>
+</li>
+<li>
+<p>Indoor/Outdoor Lens/ Black Frame</p>
+</li>
+<li>
+<p>IRUV Shade 3 Lens/ Black Frame</p>
+</li>
+<li>
+<p>IRUV Shade 5 Lens/ Black Frame</p>
+</li>
+<li>
+<p>Light Blue Lens/ Black Frame</p>
+</li>
+<li>Polarized Brown Lenses/ Brown Frame</li>
+<li>
+<p>Polarized Smoke Lenses/ Gun Metal Frame</p>
+</li>
+<li>
+<p>Smoke Lens/ Anti-Fog/ Camo Frame</p>
+</li>
+<li>
+<p>Smoke Lens/ Red Frame</p>
+</li>
+<li>
+<p>Smoke Mirror Lens/ Anti-Fog/ Black Frame</p>
+</li>
+<li>
+<p>Smoke Mirror Lens/ Black Frame</p>
+</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dental</s:tag>
+    <s:tag>Glasses</s:tag>
+    <s:tag>Protective Eyewear</s:tag>
+    <s:tag>safety eyewear</s:tag>
+    <s:tag>Safety Glasses</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>1. Amber Lens/ Anti-Fog/ Black Frame</title>
+      <s:price currency="USD">63.11</s:price>
+      <s:sku>22476</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>2. Amber Lens/ Anti-Fog/ Black Frame</title>
+      <s:price currency="USD">48.50</s:price>
+      <s:sku>25659</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>3. Amber Lens/ Anti-Fog/ Camo Frame</title>
+      <s:price currency="USD">71.89</s:price>
+      <s:sku>22610</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>4. Blue Mirror Lens/ Black Frame</title>
+      <s:price currency="USD">50.69</s:price>
+      <s:sku>14481</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>5. Bronze Lens/ Anti-Fog/ Camo Frame</title>
+      <s:price currency="USD">68.44</s:price>
+      <s:sku>19644</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>6. Clear Lens/ Anti-Fog/ Black Frame</title>
+      <s:price currency="USD">48.44</s:price>
+      <s:sku>25679</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>7. Clear Lens/ Anti-Fog/ Camo Frame</title>
+      <s:price currency="USD">65.24</s:price>
+      <s:sku>22608</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>8. Clear Lens/ Black Frame</title>
+      <s:price currency="USD">41.33</s:price>
+      <s:sku>25676</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>9. Copper Blue Shield Lens/ Black Frame</title>
+      <s:price currency="USD">55.84</s:price>
+      <s:sku>19642</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>10. Indoor/Outdoor Lens/ Black Frame</title>
+      <s:price currency="USD">44.69</s:price>
+      <s:sku>25685</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>11. IRUV Shade 3 Lens/ Black Frame</title>
+      <s:price currency="USD">85.71</s:price>
+      <s:sku>25692</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>12. IRUV Shade 5 Lens/ Black Frame</title>
+      <s:price currency="USD">99.74</s:price>
+      <s:sku>25671</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>13. Light Blue Lens/ Black Frame</title>
+      <s:price currency="USD">48.50</s:price>
+      <s:sku>19639</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>14. Polarized Brown Lenses/ Brown Frame</title>
+      <s:price currency="USD">219.74</s:price>
+      <s:sku>28637</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>15. Polarized Smoke Lenses/ Gun Metal Frame</title>
+      <s:price currency="USD">219.74</s:price>
+      <s:sku>28635</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>16. Smoke Lens/ Anti-Fog/ Camo Frame</title>
+      <s:price currency="USD">58.20</s:price>
+      <s:sku>22609</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>17. Smoke Lens/ Red Frame</title>
+      <s:price currency="USD">59.41</s:price>
+      <s:sku>22611</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>18. Smoke Mirror Lens/ Anti-Fog/ Black Frame</title>
+      <s:price currency="USD">68.57</s:price>
+      <s:sku>22475</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381076078626</id>
+      <title>19. Smoke Mirror Lens/ Black Frame</title>
+      <s:price currency="USD">44.69</s:price>
+      <s:sku>25688</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381029711906</id>
+    <published>2017-11-14T10:22:30-06:00</published>
+    <updated>2017-11-14T10:22:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kimberly-clark-bouffant-cap"/>
+    <title>Kimberly-Clark Bouffant Cap</title>
+    <s:type>Bouffant Cap</s:type>
+    <s:vendor>Kimberly-Clark Professional</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/download_7.jpg?v=1559890844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark Professional<br>
+        <strong>Type: </strong>Bouffant Cap<br>
+        <strong>Price: </strong>
+            72.40 - 117.70
+            <a href="https://aossmedicalsupply.com/products/kimberly-clark-bouffant-cap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Kimberly-Clark Professional; Bouffant Cap, 24 Stretched Diameter, Latex Free, (</span><span face="Helvetica Neue" size="2" color="#000000">2) Options Below:</span></p>
+<ol>
+<li>
+<span face="Helvetica Neue" size="2" color="#000000">Kleenguard A10, </span>Large, White, 100/pk 10 pk/cs</li>
+<li>
+<span face="Helvetica Neue" size="2" color="#000000">Kleenguard A20, Breathable Particle Protection, </span>Double bagged for Cleanroom use, 100/bx 5bx/cs</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caps</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Protective Headwear</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381029711906</id>
+      <title>1. Kleenguard A10/ Large White/ 100/pk 10 pk/cs</title>
+      <s:price currency="USD">72.40</s:price>
+      <s:sku>36860</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381029711906</id>
+      <title>2. Kleenguard A20/ Breathable Particle/ Double bagged/ 100/bx 5bx/cs</title>
+      <s:price currency="USD">117.70</s:price>
+      <s:sku>66829</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381016375330</id>
+    <published>2017-11-14T10:11:35-06:00</published>
+    <updated>2017-11-14T10:11:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hospeco-proworks%C2%AE-disposable-bouffant-caps"/>
+    <title>Hospeco Proworks® Disposable Bouffant Caps</title>
+    <s:type>Bouffant Cap</s:type>
+    <s:vendor>Hospeco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i89821.jpg?v=1559890838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hospeco<br>
+        <strong>Type: </strong>Bouffant Cap<br>
+        <strong>Price: </strong>
+            21.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Hospeco; </span><span face="Helvetica Neue" size="2" color="#000000">Polypropylene Bouffant Cap, 21 - </span>500/cs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caps</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Protective Headwear</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381016375330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.71</s:price>
+      <s:sku>DA-BC210</s:sku>
+      <s:grams>3039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/381007626274</id>
+    <published>2017-11-14T10:03:36-06:00</published>
+    <updated>2017-11-14T10:03:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hospeco-proworks%C2%AE-disposable-aprons"/>
+    <title>Hospeco Proworks® Disposable Aprons</title>
+    <s:type>Apron</s:type>
+    <s:vendor>Hospeco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i89819.jpg?v=1584955458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hospeco<br>
+        <strong>Type: </strong>Apron<br>
+        <strong>Price: </strong>
+            74.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Hospeco; </span><span face="Helvetica Neue" size="2" color="#000000">Polyethylene Apron, 28 x 46" -- </span>500/cs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aprons</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/381007626274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.71</s:price>
+      <s:sku>DA-AP2846</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/377074679842</id>
+    <published>2017-11-13T10:08:48-06:00</published>
+    <updated>2017-11-13T10:08:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/halyard-surgical-gowns"/>
+    <title>Halyard Surgical Gowns</title>
+    <s:type>Surgical Gowns</s:type>
+    <s:vendor>Halyard Health, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i61693.jpg?v=1584954551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halyard Health, LLC<br>
+        <strong>Type: </strong>Surgical Gowns<br>
+        <strong>Price: </strong>
+            150.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span face="Helvetica Neue" size="2" color="#000000">Surgical Gown, Non Reinforced, Set-in Sleeves, Sterile, X-Large, Packaged Individually, 32/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gowns</s:tag>
+    <s:tag>Protective Apparel</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/377074679842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.07</s:price>
+      <s:sku>90048</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

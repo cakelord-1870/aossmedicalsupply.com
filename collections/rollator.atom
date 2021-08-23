@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/rollator.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-07-15T15:33:18-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819211915298</id>
+    <published>2019-07-15T15:33:18-05:00</published>
+    <updated>2019-07-15T15:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-dynago-quad-rollator"/>
+    <title>Dynarex DynaGo Quad Rollator</title>
+    <s:type>Rollator</s:type>
+    <s:vendor>Dynarex Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/68890.jpg?v=1563402256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex Corporation<br>
+        <strong>Type: </strong>Rollator<br>
+        <strong>Price: </strong>
+            72.95 - 79.99
+            <a href="https://aossmedicalsupply.com/products/dynarex-dynago-quad-rollator">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dynarex DynaGo Quad Rollators provide added support and mobility along with maximum user comfort. The Rollator Walker functions excellently on uneven surfaces. Dynarex Rollators are equipped with height adjustable handles, deluxe loop locks, and non-marking wheels. A basket is included for storage. The DynaGo Quad Rollator is available with 6" or 7.5" wheels.</span></p>
+<div class="sku-bullets">
+<ul class="list-unstyled">
+<li class="has-data-skus active-data-sku" data-skus="68890">
+<span> </span>300 lbs Weight Capacity</li>
+</ul>
+</div>
+<div class="feature-bullets">
+<ul>
+<li>Designed for user comfort</li>
+<li>Functions excellently on uneven surfaces</li>
+<li>Adjustable handle height</li>
+<li>Deluxe loop locks</li>
+<li>Non-marking wheels</li>
+<li>Basket included</li>
+<li>Available with 6" or 7.5" wheels</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 wheel rollator</s:tag>
+    <s:tag>dynago</s:tag>
+    <s:tag>rollator</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819211915298</id>
+      <title>6&quot; wheels -Blue</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>10201</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819211915298</id>
+      <title>7.5&quot; wheels -Red</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>10202</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819202183202</id>
+    <published>2019-07-15T15:19:09-05:00</published>
+    <updated>2019-07-15T15:19:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynago-zoom-aluminum-rollator-with-3-wheels-red-1pc-cs"/>
+    <title>DynaGo Zoom - Aluminum Rollator with 3&quot; Wheels, Red, 1pc/cs</title>
+    <s:type>Rollator</s:type>
+    <s:vendor>Dynarex Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/68889.jpg?v=1563402255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex Corporation<br>
+        <strong>Type: </strong>Rollator<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The DynaGo Zoom Rollator is ideal for movement through narrow spaces, with a focus on style and affordability. The rollator easily folds and remains folded in a standard position for simple transportation and storage. Equipped with loop lock hand brakes for safety and ergonomic, height adjustable handles, as well as a deep storage pouch.</p>
+<p>The Dynarex DynaGo Zoom Rollator is constructed with sturdy aluminum frame, and 7.5-inch non-marking wheels, it offers maneuverability and stability, while remaining lightweight. The rollator features removable, deep storage pouch with ample storage space and providing easy access to valuable and personal belongings. </p>
+<ul>
+<li>Lightweight Aluminum frame equipped with deluxe loop locks with a permanent reverse braking system.</li>
+<li><span>7.5-inch non-marking wheels.</span></li>
+<li><span>Convenient, removable, storage pouch keeping personal items secure and out of sight.</span></li>
+<li><span>Height adjustable ergonomic handles.</span></li>
+<li><span>Folds flat with storage pouch attached, making it easy for transportation and storage<br>.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 wheel rollator</s:tag>
+    <s:tag>dynazoom</s:tag>
+    <s:tag>rollator</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819202183202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>10200</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404736573474</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/hybrid-lx-rollator-transport-chair-lx1000t-lx1000b-titanium-or-majestic-blue"/>
+    <title>Hybrid LX Rollator Transport Chair, 26&quot;</title>
+    <s:type>Rollator / Transport Chair</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i24534.jpg?v=1584955461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>Rollator / Transport Chair<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div title="Page 9">
+<div title="Page 9">
+<div title="Page 9">
+<div title="Page 9">
+<p>Combines the function of a wheeled walker and transport chair Designed with secure handgrips, wide seat and backrest Durable aluminum frame weighs only 22 lbs<br> Ultra compact design - easy to assemble without tools Handbrakes allow both short term squeeze breaking and lock into park<br> Polyester backrest and 18” wide mesh seat with pull up strap Large 8” wheels<br> Available in Titanium and Majestic Blue<br> Designed to meet the requirements of HCPCS Code E0143 and</p>
+<p>Part</p>
+<ul>
+<li>#LX1000T - Titanium Part</li>
+<li>#LX1000B - Majestic Blue</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 7">
+<div>
+<div title="Page 7">
+<div title="Page 8">
+<div title="Page 8">
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+<div title="Page 8"></div>
+</div>
+<ul></ul>
+</div>
+</div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rollator</s:tag>
+    <s:tag>Rollators</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404736573474</id>
+      <title>Titanium</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>LX1000T</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404736573474</id>
+      <title>Majestic Blue</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>LX1000B</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404730773538</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sure-gait-ii-rollator-609101a"/>
+    <title>GF 3-Wheel Cruiser  Rollator</title>
+    <s:type>3-Wheel Rollator</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i11108.jpg?v=1585260105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>3-Wheel Rollator<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div title="Page 9">
+<div title="Page 9">
+<div>
+<div>
+<div>
+<div title="Page 9">
+<div>
+<div>
+<div>
+<p>Three wheel Rollator alluminum frame  Maximum maneuverability 250 lbs weight capacity</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>As an aluminium frame, three wheel rollator, the Cruiser provides maximum maneuverability and comfort for those who do no require the extra stability of a four wheel rollator. Chrome-plated steel frame. Adjustable handle height. Easy folding. Locking loop brakes. Puncture resistant 8" wheels for indoor and outdoor use. 250lb maximum weight capacity. Designed to meet the requirements of HCPCS code: E0143. Includes laminated color operating instructions. Limited lifetime warranty.</p>
+</div>
+</div>
+<div title="Page 7">
+<div>
+<div title="Page 7">
+<div title="Page 8">
+<div title="Page 8">
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+<div title="Page 8"></div>
+</div>
+<ul></ul>
+</div>
+</div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rollator</s:tag>
+    <s:tag>Rollators</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404730773538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>609101A</s:sku>
+      <s:grams>8482</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404726677538</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/deluxe-rollator-rj4200"/>
+    <title>Deluxe 4-Wheel Rollator - Blue</title>
+    <s:type>4 Wheel Rollator</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i24483.jpg?v=1584953776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>4 Wheel Rollator<br>
+        <strong>Price: </strong>
+            166.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div title="Page 9">
+<div>
+<div>
+<div>
+<div title="Page 9">
+<div>
+<div>
+<div>
+<p>Four oversized 8” wheels Powder coated steel frame Standard basket and removable tray HCPCS Codes E0149 and E0156 Includes laminated color instructions 500 lbs weight capacity<br> Part #RJ4200</p>
+</div>
+</div>
+</div>
+</div>
+<p>Four oversized 8" casters that provide a soft ride over all types of terrain. Powder coated heavy-duty steel frame. Anatomical grips with locking loop brakes. Standard with shopping basket and removable tray. Foldable for easy storage and transport. 500 lb maximum weight capacity. Includes laminated color operating instructions. Limited lifetime warranty.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 7">
+<div>
+<div title="Page 7">
+<div title="Page 8">
+<div title="Page 8">
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+<div title="Page 8"></div>
+</div>
+<ul></ul>
+</div>
+</div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rollator</s:tag>
+    <s:tag>Rollators</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404726677538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku>RJ4200A</s:sku>
+      <s:grams>9843</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/404718354466</id>
+    <published>2017-12-04T10:04:07-06:00</published>
+    <updated>2017-12-04T10:04:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/walkabout-lite-rollator"/>
+    <title>Walkabout Lite 4-Wheel Rollator</title>
+    <s:type>4 Wheel Rollator</s:type>
+    <s:vendor>GF Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i24672.jpg?v=1585260767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GF Medical<br>
+        <strong>Type: </strong>4 Wheel Rollator<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 7">
+<div title="Page 9">
+<div>
+<div>
+<div>
+<p>Four wheel Rollator<br> Only 14 1/2 lbs<br> Offered in variety of colors<br> 6” wheels for indoor or outdoor Folds easily and has folding strap 300 lbs weight capacity Part #RJ4300</p>
+<p>This new, lighter-weight rollator utilizes high-tech aluminum to reduce its weight to only 12 lb. Epoxy-coated aluminum frame. Padded seat and backrest. Ergonomic hand grips and easy-to-operate, locking loop hand brakes. Removable wire storage basket. Adjustable handle height. Folds quickly and easily for storage or transport. Designed to meet the requirements of HCPCS codes: E0143 and E0156. Limited lifetime warranty.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 7">
+<div>
+<div title="Page 7">
+<div title="Page 8">
+<div title="Page 8">
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+<div title="Page 8"></div>
+</div>
+<ul></ul>
+</div>
+</div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rollator</s:tag>
+    <s:tag>Rollators</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Aqua</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300AQ</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Blue</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300B</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Champagne</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300CH</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Teal Green</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300G</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Black</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300K</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Lavender</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300L</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Pink</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300P</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/404718354466</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>RJ4300R</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+</feed>

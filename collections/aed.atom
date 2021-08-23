@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/aed.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2019-07-15T10:42:21-05:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3818863165474</id>
+    <published>2019-07-15T10:42:21-05:00</published>
+    <updated>2019-07-15T10:42:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/zoll-trainer-2-aed-plus-aha-english-fully-automatic"/>
+    <title>Zoll Trainer 2, AED Plus, AHA, English Fully Automatic</title>
+    <s:type>AED Trainer</s:type>
+    <s:vendor>Zoll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i67537.jpg?v=1563222337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll<br>
+        <strong>Type: </strong>AED Trainer<br>
+        <strong>Price: </strong>
+            465.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ProductDescriptionContainer" itemprop="description">
+<p>ZOLL AED PLUS TRAINER II # 8008-000052-01 - AED Trainer 2, AED Plus, AHA, English Fully Automatic</p>
+<h3>Manufacturer Product Code</h3>
+<div class="ProductWarrantyContainer">8008-000052-01</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aed</s:tag>
+    <s:tag>aed education</s:tag>
+    <s:tag>aed trainer</s:tag>
+    <s:tag>school</s:tag>
+    <s:tag>teaching aid</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3818863165474</id>
+      <title>Default Title</title>
+      <s:price currency="USD">465.95</s:price>
+      <s:sku>8008-000052-01</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3682370453538</id>
+    <published>2019-05-22T15:36:10-05:00</published>
+    <updated>2019-05-22T15:36:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/philips-heartstart-onsite-aed"/>
+    <title>Philips HeartStart OnSite AED</title>
+    <s:type>AED</s:type>
+    <s:vendor>Philips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/heartstart_onsite.jpg?v=1558638062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Philips<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1275.00 - 1467.00
+            <a href="https://aossmedicalsupply.com/products/philips-heartstart-onsite-aed">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+<p>The Philips HeartStart OnSite AED is a solid choice for high-risk Sudden Cardiac Arrest (SCA) patients who are looking for an AED for home or office use. It’s the only defibrillator on the market that’s available for personal use without the prescription of a physician. The Philips HeartStart OnSite AED is designed to be intuitive for use by both laypeople and experienced rescuers alike. Featuring innovative technologies that make it easy to setup and successfully use, the HeartStart’s portability—it weighs just 3.3 lbs.—allows quick access and mobility during a SCA episode.</p>
+<p>The HeartStart Onsite features a clear, audible, and natural voice that guides the user through simple step-by-step instructions. The voice instructions are fashioned to be detailed enough for a novice user without being overly technical or confusing. In fact, the AED is so intuitive that it can identify if a step is accidentally skipped and can re-word the command in a different manner and ask the user to perform it again. An SCA scene can be chaotic; the HeartStart Onsite makes it easier for a layperson to respond in a crisis.</p>
+<p>The graphic-based visual instructions provided by the HeartStart OnSite work to provide another level of instruction for users who may respond better to visual cues. Additionally, the Phillips HeartStart Onsite is designed to deliver the maximum strength shock right from the get-go. It really is the choice for patients suffering from chronic heart issues which can put them at a higher risk of SCA incidents.</p>
+</div>
+</div>
+</div>
+<div class="LegalBadge"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AED</s:tag>
+    <s:tag>defibrialltor</s:tag>
+    <s:tag>defibrillation</s:tag>
+    <s:tag>defibrillator</s:tag>
+    <s:tag>onsite aed</s:tag>
+    <s:tag>philips</s:tag>
+    <s:tag>philips aed</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3682370453538</id>
+      <title>Slim Carry Case</title>
+      <s:price currency="USD">1275.00</s:price>
+      <s:sku>M5066A-C1</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3682370453538</id>
+      <title>HeartStart Hard Plastic Waterproof Case (+$192.00)</title>
+      <s:price currency="USD">1467.00</s:price>
+      <s:sku>M5066A-C2</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3682370453538</id>
+      <title>Standard Carry Case (+$101)</title>
+      <s:price currency="USD">1376.00</s:price>
+      <s:sku>M5066A-C3</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3682368716834</id>
+    <published>2019-05-22T14:52:55-05:00</published>
+    <updated>2019-05-22T14:52:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/philips-heartstart-home-aed"/>
+    <title>Philips HeartStart Home AED</title>
+    <s:type>AED</s:type>
+    <s:vendor>Philips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/1fd079607f2449c9a6d2a77c01426e32.png?v=1558638061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Philips<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription">Sudden cardiac arrest(SCA) strikes nearly 1,000 victims every day. Almost 80% of the time, the events occur in the home, where there's usually someone else who could potentially help. Defibrillation treats the most common form of SCA by shocking the heart back into a normal rhythm, and it greatly increases the chance of survival if used within the first 5 mins. of an arrest. Available for use in that crucial window until professional emergency medical help arrives, the Philips HeartStart Home Defibrillator arms you with potentially life-saving technology that's designed to be used by virtually anyone. HeartStart guides the user with calm interactive voice instructions which sense and adapt to her/his actions and determines if the heart rhythm is shockable, then advises a shock and only allows delivery if it detects a shockable heart rhythm.(You might also need to perform CPR,but HeartStart coaches you through that, too.) The 4-yr. lithium battery runs daily self-tests and alerts you with loud chirping if there's a problem, so HeartStart is ready for an emergency as are you, thanks to the included training DVD, quick-reference guide and coupons for discounted CPR training. Also includes carrying case and adult SMART Pads cartridge(which lasts 2 yrs.).</div>
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription">Please note: pads cartridge for children under 8 yrs./55 lbs. is sold separately and only with a prescription; you can't use HeartStart on yourself; you may have to kneel when using it; all instructions(verbal/written) are in English; and <strong>owning a defibrillator doesn't take the place of seeking medical care.</strong>
+</div>
+</div>
+</div>
+</div>
+<div class="LegalBadge"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AED</s:tag>
+    <s:tag>defibrialltor</s:tag>
+    <s:tag>defibrillation</s:tag>
+    <s:tag>defibrillator</s:tag>
+    <s:tag>home aed</s:tag>
+    <s:tag>philips</s:tag>
+    <s:tag>philips aed</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3682368716834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1275.00</s:price>
+      <s:sku>M5068A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1779986759714</id>
+    <published>2019-03-21T08:57:38-05:00</published>
+    <updated>2019-03-21T08:57:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/zoll-cpr-d-padz"/>
+    <title>Zoll CPR-D Padz</title>
+    <s:type>CPR-D-padz</s:type>
+    <s:vendor>Zoll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/cpr_d_padz.jpg?v=1585260818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll<br>
+        <strong>Type: </strong>CPR-D-padz<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>While the majority of AED pads come with one set of electrodes on two pads that must quickly be placed on the Sternum and Apex of a SCA victim, Zoll knew there must be an easier way. In order to help eliminate confusion and speed up the rescue process, the CPR-D padz were invented. A rescuer need only open up the padz package and place the pre-connected electrode directly in the center of the cardiac arrest victim’s chest. No confusion, no mistakes.This unique one-piece pad incorporates a pressure sensor, known as a “puck,” which allows the rescuer to know in real-time the effectiveness of his CPR compressions and modify his technique accordingly. Compression depth is shown on the Zoll AED Plus’s LCD screen. The AED Plus also responds with voice prompts that gives the rescuer immediate feedback such as “Good Compressions” or “Push Harder.” This advanced technology is enormously significant since most lay people do not compress to the AHA’s recommended depth of 2“.Additionally, the CPR-D Padz don’t just have advanced features, they are also easily maintained. With a shelf-life expiration date and battery expiration date of five (5) years, an attached rescue kit—which includes barrier mask, gloves, razor, scissors, and both a wet and dry wipe, these pads make AED ownership a breeze.</p>
+<p>Exp: 8/13/2022</p>
+<p><br>**RX Only, Must Have a Physician's License to Purchase this Product. Product will not be shipped until copy of Physicians License is received at customerservice@aossmedical.com or you can submit you license info <a href="https://aossmedicalsupply.com/pages/physicians-license" target="_blank" title="here" rel="noopener noreferrer">here</a>**</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AED</s:tag>
+    <s:tag>aed accessories</s:tag>
+    <s:tag>CPR Pads</s:tag>
+    <s:tag>CPR-D-padz</s:tag>
+    <s:tag>defibrillation</s:tag>
+    <s:tag>defibrillator accessories</s:tag>
+    <s:tag>ZOLL</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1779986759714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>8900-0800-01</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/1733297078306</id>
+    <published>2019-02-26T16:12:23-06:00</published>
+    <updated>2019-02-26T16:12:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/zoll-aed-plus"/>
+    <title>ZOLL AED PLUS</title>
+    <s:type>AED</s:type>
+    <s:vendor>Zoll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/AED_plus_kit.PNG?v=1556090643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1695.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>The ZOLL AED Plus by ZOLL Medical is a versatile and easy choice for anyone looking for an intuitively designed and reliable AED. Introduced by Zoll in 2001, this model immediately filled a gap in the AED market for untrained and trained rescuers alike.</strong></h4>
+<p>The vivid green outer casing of the Zoll AED Plus is so eye-catching that potential rescuers are easily cued to its location. The AED Plus also features simple-to-interpret graphical images that alert the potential rescuer that the lid can be propped under the victim’s head to help keep his/her airway open while emergency procedures are underway. The sizeable graphic images on the AED’s cover help to simplify the instructions and help untrained responders understand the step-by-step rescue process.</p>
+<p>The device’s visual and audio prompts help to guide the rescuer through each stage and alleviate any worry that steps are being missed. The Zoll AED Plus also helps the rescuer avoid the most common mistakes made during CPR—inadequate chest compression depth and rate.</p>
+<p>As CPR is being administered, the device displays a bar graph that allows the user to easily visualize the CPR they are administering. It also offers audio cues that will let the rescuer know whether CPR the CPR compressions they are administrating are adequate. If not, the user will be prompted to “Push Harder.”</p>
+<p>The Zoll AED Plus, Real CPR Help provides a metronome that uses real-time compression data to instantly adjust and help keep the rescuer administering chest compressions at the optimal rate. Another unique feature of the device is its one-piece electrode, which allows the pad to be placed quickly, directly in the center of the SCA victim’s chest. The easier the process, the more confidence a potential rescuer will have during a chaotic life or death event. When it comes to cardiac arrest, confidence can make the difference in a life being saved.</p>
+<p>The Zoll AED Plus uses long-lasting lithium batteries; in fact, it’s the only AED available on the market that utilizes them. Not only are these both affordable and accessible, they will last up to five years when the device is left in standby mode. AED maintenance is made even easier because the CPR-D adult electrode also lasts five years. No confusion, no hassle.</p>
+<p><span><strong>The ZOLL AED Plus Package Includes</strong>:</span></p>
+<p><span>•  ZOLL AED Plus</span><br><span>•  Soft Carrying Case</span><br><span>•  CPR-D Padz (One-piece pad with CPR Feedback)</span><br><span>•  Duracell Type 123 Lithium Batteries (set of 10)</span><br><span>•  ZOLL Demo/Training CD</span><br><span>•  5 Year Factory Warranty (7 Year with Product Registration)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aed</s:tag>
+    <s:tag>defibrialltor</s:tag>
+    <s:tag>defibrillation</s:tag>
+    <s:tag>defibrillator</s:tag>
+    <s:tag>Defibrillators</s:tag>
+    <s:tag>diagnostic intruments</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/1733297078306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1695.00</s:price>
+      <s:sku>21000010102011010</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/prep-pads.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-11-15T13:20:09-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383658033186</id>
+    <published>2017-11-15T13:20:09-06:00</published>
+    <updated>2017-11-15T13:20:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/aoss-alcohol-prep-pad"/>
+    <title>Alcohol Prep Pad AOSS Isopropyl Alcohol, 70% Individual Packet Medium Sterile</title>
+    <s:type>Alcohol Prep Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/5150-Alcohol-Prep.jpg?v=1557372363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Alcohol Prep Pad<br>
+        <strong>Price: </strong>
+            12.99 - 65.00
+            <a href="https://aossmedicalsupply.com/products/aoss-alcohol-prep-pad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span face="Helvetica Neue" size="2" color="#000000">AOSS Medical Supply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Medium</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Saturated with 70% isopropyl alcohol</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Sterile</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Non-Woven, 2 ply</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Designed for moderate cleansing</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000">Individually wrapped</span></li>
+<li><span face="Helvetica Neue" size="2" color="#000000" mce-data-marked="1">200/Box , 20/Case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>dental</s:tag>
+    <s:tag>Prep</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383658033186</id>
+      <title>BX/200</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>AOSS5150-B</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383658033186</id>
+      <title>CS/4000</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>AOSS5150-C</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+</feed>

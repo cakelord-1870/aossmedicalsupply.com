@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/wound-care.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2021-02-11T10:13:05-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4731753168956</id>
+    <published>2021-02-11T10:13:05-06:00</published>
+    <updated>2021-02-11T10:13:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/mpm-foam-dressing-sterile-4-x-4-square-with-border-fenestrated-30-bag"/>
+    <title>MPM Foam Dressing, Sterile, 4 x 4 Square with Border, Fenestrated (30/BAG)</title>
+    <s:type>foam dressing</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/MP00500CN.jpg?v=1613059986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>foam dressing<br>
+        <strong>Price: </strong>
+            118.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Sterile</li>
+<li data-mce-fragment="1">Multiple sizes available</li>
+<li data-mce-fragment="1">Bordered and borderless options</li>
+<li data-mce-fragment="1">Individually packaged for convenience and sterility</li>
+<li data-mce-fragment="1">Ideal for post-surgical healing</li>
+<li data-mce-fragment="1">Hydrophilic foam construction</li>
+<li data-mce-fragment="1">Highly absorbent</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4731753168956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">118.88</s:price>
+      <s:sku>MP00500CN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4678014468156</id>
+    <published>2020-11-13T16:42:07-06:00</published>
+    <updated>2020-11-13T16:42:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/3m-1626w-tegaderm-transparent-film-dressing-4-in-x-4-in-1-bx"/>
+    <title>3M 1626W Tegaderm Transparent Film Dressing 4 in. x 4¾ in. (1 BX)</title>
+    <s:type>Wound Dressing</s:type>
+    <s:vendor>3M Health Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/s-l500_1.png?v=1605307328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M Health Care<br>
+        <strong>Type: </strong>Wound Dressing<br>
+        <strong>Price: </strong>
+            32.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="card__header" data-mce-fragment="1">
+<h2 class="card__title heading h3" data-mce-fragment="1">Description</h2>
+</div>
+<div class="card__section" data-mce-fragment="1">
+<div class="rte text--pull" data-mce-fragment="1">
+<p data-mce-fragment="1">3M Healthcare Tegaderm™ Transparent Adhesive Film Dressing Picture Frame Style 4" x 4-3/4", Water-proof, Sterile </p>
+<p data-mce-fragment="1">3M Tegaderm™ Transparent Film Dressing Picture Frame Style is used to cover and secure IV sites to protect at-risk skin or as a primary or secondary dressing over acute wounds, surgical sites and chronic wounds. It conforms to the body and flex with skin for greater patient comfort. Frame style allows customization of shape and size to fit any site.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3M Tegaderm™ Transparent Film Dressing Picture Frame Style is sterile, Water-proof dressing which provides a bacterial and viral barrier.</li>
+<li data-mce-fragment="1">Easy window-out frame delivery.</li>
+<li data-mce-fragment="1">Unique sacral shape is designed for challenging and difficult-to-dress areas.</li>
+<li data-mce-fragment="1">Breathable film allows moisture vapor and oxygen exchange Provides a moist environment for enhanced wound healing.</li>
+<li data-mce-fragment="1">Unique, thin film conforms to the body and flexes with the skin for greater patient comfort.</li>
+</ul>
+<div data-mce-fragment="1"><b data-mce-fragment="1">50/BX</b></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEGADERM</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4678014468156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.88</s:price>
+      <s:sku>1626W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/4477001859132</id>
+    <published>2020-03-18T09:25:46-05:00</published>
+    <updated>2020-03-18T09:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-kendall-ultra-soft-foam-wound-dressing"/>
+    <title>Covidien Kendall Ultra-Soft Foam Wound Dressing</title>
+    <s:type>Wound Dressing</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/55544.jpg?v=1584953764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Wound Dressing<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Medtronic Covidien Kendall Ultra-Soft Foam Wound Dressing is a super absorbent hydrophillic foam dressing that protects and cushions wounds. Top-sheet material found on Kendall foam dressing allows moisture vapor transmission while preventing strike through. Small pores decrease the chance of tissue migration into the foam dressing. Highly conformable in difficult to dress areas.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/4477001859132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>55544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3824865607714</id>
+    <published>2019-07-18T14:23:05-05:00</published>
+    <updated>2019-07-18T14:23:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/kleenex-jr-facial-tissue-8-4-x-5-8-2-ply-white"/>
+    <title>Kleenex Jr. Facial Tissue 8.4&quot; x 5.8&quot; 2 Ply White</title>
+    <s:type>Kleenex</s:type>
+    <s:vendor>Kimberly-Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/kleenex-facial-tissues.jpg?v=1563624804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly-Clark<br>
+        <strong>Type: </strong>Kleenex<br>
+        <strong>Price: </strong>
+            49.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Delivers premium quality and preferred for superior softness, strength and absorbency, our </span><strong>Kleenex Facial Tissues</strong><span> are a great addition to any room for when you need to wipe, noses, hands, face, and more.</span></p>
+<div class="tab-switcher product-description">
+<div class="attr-content">Kleenex® Jr. Facial Tissue, 8.4" x 5.8", 2-Ply, White.</div>
+</div>
+<div class="tab-switcher">
+<h3 class="specification-tab">Specification</h3>
+<div class="attr-content">
+<ul>
+<li>Dimensions: 8.4" x 5.8"</li>
+<li>2-Ply</li>
+<li>Color: White</li>
+<li>40 Tissue/Box</li>
+<li>80 Box/ Case</li>
+<li>Sold by the case</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>facial tissue</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>paper products</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3824865607714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.65</s:price>
+      <s:sku>21195-04</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3819234852898</id>
+    <published>2019-07-15T16:20:05-05:00</published>
+    <updated>2019-07-15T16:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-dynavac-ems-suction-canister-1200cc-40-cs"/>
+    <title>Dynarex DynaVac EMS Suction Canister, 1200cc, 40/Cs</title>
+    <s:type>Suction Canister</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/4675.jpg?v=1563402257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Suction Canister<br>
+        <strong>Price: </strong>
+            125.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Durable plastic container system</li>
+<li>Float shut-off with built-in filter</li>
+<li>Foam guard and float valve ultrasonically welded in place</li>
+<li>Universal design easily fits wall mounts</li>
+<li>Port caps attached to lid</li>
+<li>Patient port designed with 20° angle (1200cc model) or straight port (800cc model)</li>
+</ul>
+<p><span>Dynarex 4675, DynaVac 1200cc EMS Suction Canister, is designed to fit EMS vehicles. Superior quality, durable plastic. Lids constructed with common ports and connectors. A safe disposable option for infectious medical waste. 40/cs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>respiration</s:tag>
+    <s:tag>Suction</s:tag>
+    <s:tag>suction canister</s:tag>
+    <s:tag>suction cannister</s:tag>
+    <s:tag>suction equipment</s:tag>
+    <s:tag>suction supplies</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3819234852898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.75</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3818793959458</id>
+    <published>2019-07-15T08:58:57-05:00</published>
+    <updated>2019-07-15T08:58:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-secure-abdomnal-combine-pad-5-x-9-sterile"/>
+    <title>Dynarex Secure Abdomnal Combine Pad, 5&quot; x 9&quot;, Sterile</title>
+    <s:type>ABD Pads</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i55367.jpg?v=1563222271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>ABD Pads<br>
+        <strong>Price: </strong>
+            2.75 - 55.15
+            <a href="https://aossmedicalsupply.com/products/dynarex-secure-abdomnal-combine-pad-5-x-9-sterile">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The<span> </span><strong>Dynarex Combine Pads</strong><span> </span>provide areas in the abdomen region with the coverage from a wound dressing in order to match areas that are flatter and more elongated. The high absorbency wounds are able to catch and retain wounds with high drainage to keep the fluids from seeping out and staining clothing, causing a mess on the skin and being a home for germs and bacteria if not cleaned properly; optimal for<span> </span><a href="https://www.vitalitymedical.com/wound-care.html" title="Wound Care — Gauze Packing Strips, Gauze Sponges, Hydrogels, Silicone Gel Sheeting"><strong>wound care</strong></a>.</p>
+<p>The Dynarex Sterile Combine Abdominal Pad is offered in a few sizes to provide comfort - the sizes range from a 5 X 9-inches, 8 X 7 1/2-inches, and 8 X 10-inches, all are able to cover wounds that are more commonly found around abdomen areas either naturally through injuries and accidents or by surgery such as medical incisions. The rectangle shape of the<span> </span><a href="https://www.vitalitymedical.com/abd-dressings.html" title="Abdominal Pads"><strong>abdominal pad</strong></a><span> </span>is made with a non-woven design, this is a great feature when it comes to removing of the pad because it will not pull on the scab or wound healing around it, and will not cause itching or harm to the patient - the less pain, the better.</p>
+<p>The Dynarex NonWoven Combine Pad with High Absorbency as mentioned, is provided and packaged individually for sterilization - as long as the package is not accidentally opened before use. Using a sterile pad reduces the risk of bacteria, virus, and fungi growth on wounds when in the healing stage. The sterile pads are best used for post-surgery procedures and are the preferred medial method of treating surgical wounds.</p>
+<p><strong>Product Features and Benefits</strong></p>
+<ul>
+<li>High Absorbency for Draining Wounds</li>
+<li>Variety of Size for Different Size Wounds</li>
+<li>Non-Woven Design</li>
+<li>Provided Sterile and Individually Packaged</li>
+<li>Rectangle Shape for Best Abdominal Coverage</li>
+</ul>
+<p><strong>Product Specifications</strong></p>
+<ul>
+<li>Manufacturer:<span> </span><a href="https://www.vitalitymedical.com/dynarex-brand.html" title="Dynarex"><strong>Dynarex</strong></a>
+</li>
+<li>Product SKU: 3501, 3502, 3503</li>
+<li>Application: Abdominal Pad</li>
+<li>Material: NonWoven / Fluff</li>
+<li>Number Per Pack: 1 per Pouch</li>
+<li>Shape: Rectangle</li>
+<li>Sterility: Sterile</li>
+<li>Latex Free Indicator: Not Made with Natural Rubber Latex</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abd pad</s:tag>
+    <s:tag>abdominal pad</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3818793959458</id>
+      <title>20/Tray</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>3501-Tray</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3818793959458</id>
+      <title>400/CS</title>
+      <s:price currency="USD">55.15</s:price>
+      <s:sku>3501-CS</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3814129008674</id>
+    <published>2019-07-11T13:39:34-05:00</published>
+    <updated>2019-07-11T13:39:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/andover-healthcare-powertape-cohesive-bandage-1-5-x-15-yd-white"/>
+    <title>Andover Healthcare PowerTape Cohesive Bandage 2&quot; x 15 yd, White</title>
+    <s:type>Cover Tape</s:type>
+    <s:vendor>Andover Healthcare, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/7437.jpg?v=1563222253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andover Healthcare, Inc.<br>
+        <strong>Type: </strong>Cover Tape<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Powertape is a cohesive athletic tape that sticks only to itself or to PowerFlex® creating the strongest combination taping system in existence.</span>
+<ul>
+<li>Use with PowerFlex for the best possible support for athletic taping</li>
+</ul>
+<ul>
+<li>Replaces traditional cloth athletic tape </li>
+</ul>
+<ul>
+<li>Hand tears – sticks to itself for quick wrapping </li>
+</ul>
+<ul>
+<li>Contains less than 1% stretch. Sweat resistant and breathable</li>
+</ul>
+<span>PowerTape and Powerflex can be used to replace traditional cloth athletic tape (Zinc Oxide tape and Underwrap) for taping areas such as ankles.</span>
+<ul>
+<li><span>Ankle and lower leg preventative taping instruction video from Andover Healthcare using PowerFlex and PowerTape.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle tape</s:tag>
+    <s:tag>atheltic</s:tag>
+    <s:tag>athletic tape</s:tag>
+    <s:tag>cover tape</s:tag>
+    <s:tag>power tape</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>sports tape</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3814129008674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>ACP 130-020-024</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3787958485026</id>
+    <published>2019-06-28T10:43:53-05:00</published>
+    <updated>2019-06-28T10:43:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sureseal-pressure-adhesive-bandage"/>
+    <title>SureSeal Pressure Adhesive Bandage</title>
+    <s:type>Pressure Bandage</s:type>
+    <s:vendor>Grainor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/14851979.jpg?v=1561860968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grainor<br>
+        <strong>Type: </strong>Pressure Bandage<br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>SureSeal®</strong> pressure bandage consists of a cellulose sponge pad on an adhesive strip<br>
+<p> </p>
+<p>The<span> </span><strong>SureSeal Adhesive Bandage</strong><span> </span>works by expanding when the material makes contact with blood. The expansion of the bandage will exert pressure on the site to help control the bleeding. In addition, there are adhesive strips that surround the pad on each side. The adhesive strips help secure the bandage in place, which ensures a stable and protective seal.</p>
+<p><strong>SureSeal Pressure Adhesive Bandage Features and Benefits</strong></p>
+<ul>
+<li>Expanding material.</li>
+<li>More effective than gauze.</li>
+<li>Versatile.</li>
+</ul>
+<p><strong>SureSeal Pressure Adhesive Bandage Specifications</strong></p>
+<ul>
+<li>Product Number: 85100</li>
+<li>Sizes: 1 x 2-3/4" </li>
+<li>Application: Hemostasis.</li>
+<li>Manufacturer: Gainor.</li>
+<li>100/BX</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>advanced wound care</s:tag>
+    <s:tag>pressure bandage</s:tag>
+    <s:tag>pressure dressing</s:tag>
+    <s:tag>sureseal</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3787958485026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku>85100</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3778083815458</id>
+    <published>2019-06-21T13:33:22-05:00</published>
+    <updated>2019-06-21T13:33:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/mpm-medical-excelginate-ag-calcium-alginate-dressing-2-x-2"/>
+    <title>MPM Medical ExcelGinate AG Calcium Alginate Dressing 2&quot; x 2&quot;</title>
+    <s:type>Calcium Alginate Dressing</s:type>
+    <s:vendor>MPM Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/MP00830_ExcelGinateAg_0115_ol_160x160_9da782d4-d0bf-45c1-bf48-e1a8ad69aded.jpg?v=1561240090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MPM Medical<br>
+        <strong>Type: </strong>Calcium Alginate Dressing<br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An effective barrier to microbial penetration for moderate to heavy exudating partial and full-thickness wounds, including pressure ulcers, venous ulcers, diabetic ulcers, donor and graft sites, traumatic and surgical wounds and 1st and 2nd degree burns.</span></p>
+<p><span>Box of 10</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burn treatment</s:tag>
+    <s:tag>calcim alginate</s:tag>
+    <s:tag>silver antimicrobial dressing</s:tag>
+    <s:tag>silver dressing</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3778083815458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.75</s:price>
+      <s:sku>MP00830</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3768295489570</id>
+    <published>2019-06-14T15:21:54-05:00</published>
+    <updated>2019-06-14T15:21:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/smartsite-infusion-burette-set-60ml"/>
+    <title>SmartSite Infusion Burette Set, 60mL</title>
+    <s:type>Infusion Set</s:type>
+    <s:vendor>CareFusion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/2441-0006_m.jpg?v=1560605110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CareFusion<br>
+        <strong>Type: </strong>Infusion Set<br>
+        <strong>Price: </strong>
+            155.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Smallbore Tubing Segments</li>
+<li>2 Check Valves</li>
+<li>Needle-Free Valve (Burette)</li>
+<li>2 Needle-Free Valves</li>
+<li>Ball Valve Drip Chamber</li>
+<li>Vented/Nonvented</li>
+<li>Non-latex</li>
+<li>10/CS</li>
+<li>*This order requires a Physician's License. Click <strong>Here</strong> to submit. Order will be held until it is received."</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>burette</s:tag>
+    <s:tag>burette set</s:tag>
+    <s:tag>carefusion</s:tag>
+    <s:tag>smartsite</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3768295489570</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.95</s:price>
+      <s:sku>10012293</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754753064994</id>
+    <published>2019-06-06T13:02:02-05:00</published>
+    <updated>2019-06-06T13:02:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-xeroform-petrolatum-gauze-dressing-4-x-4-patch-peelable-foil-packs"/>
+    <title>Covidien Xeroform PETROLATUM GAUZE DRESSING 4&quot; x 4&quot; Patch peelable foil packs</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_17297_705f88a8-1d50-4488-ad1a-aa9421850692.jpg?v=1559890827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            198.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>3% Bismuth Tribromophenate in a special petrolatum blend on fine mesh gauze. Non-adherent. Clings and conforms to all body contours. Bacteriostatic action. Sterile.</span></p>
+<ul>
+<li>150/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754753064994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">198.19</s:price>
+      <s:sku>8884433500</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754750476322</id>
+    <published>2019-06-06T13:00:19-05:00</published>
+    <updated>2019-06-06T13:00:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-xeroform-petrolatum-gauze-dressing-2-x-2-patch-peelable-foil-packs"/>
+    <title>Covidien Xeroform PETROLATUM GAUZE DRESSING 2&quot; x 2&quot; Patch peelable foil packs</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_17297_27da132b-4fa9-4ae4-9b36-9c155215ecfb.jpg?v=1559890825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            138.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>3% Bismuth Tribromophenate in a special petrolatum blend on fine mesh gauze. Non-adherent. Clings and conforms to all body contours. Bacteriostatic action. Sterile.</span></p>
+<ul>
+<li>150/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754750476322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">138.71</s:price>
+      <s:sku>8884433400</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754745987106</id>
+    <published>2019-06-06T12:57:57-05:00</published>
+    <updated>2019-06-06T12:57:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-xeroform-petrolatum-gauze-dressing1-x-8-patch-peelable-foil-packs"/>
+    <title>Covidien Xeroform PETROLATUM GAUZE DRESSING1&quot; x 8&quot; Patch peelable foil packs</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_17297_259244f1-a0e2-45e8-aeb2-67d9c954797d.jpg?v=1559890827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            138.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>3% Bismuth Tribromophenate in a special petrolatum blend on fine mesh gauze. Non-adherent. Clings and conforms to all body contours. Bacteriostatic action. Sterile.</span></p>
+<ul>
+<li>200/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754745987106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">138.46</s:price>
+      <s:sku>8884432000</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754730684450</id>
+    <published>2019-06-06T12:49:06-05:00</published>
+    <updated>2019-06-06T12:49:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-1-x-8-strips-overwrap-peelable-foil"/>
+    <title>Covidien Xeroform PETROLATUM GAUZE DRESSING 4&quot; x 3 yd. Roll peelable foil packs</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/image_17297.jpg?v=1559890826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            258.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>3% Bismuth Tribromophenate in a special petrolatum blend on fine mesh gauze. Non-adherent. Clings and conforms to all body contours. Bacteriostatic action. Sterile.</span></p>
+<ul>
+<li>36/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754730684450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">258.86</s:price>
+      <s:sku>8884432000</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754533847074</id>
+    <published>2019-06-06T10:50:47-05:00</published>
+    <updated>2019-06-06T10:50:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-petrolatum-gauze-strip-in-peelable-foil-packs-1-x-36"/>
+    <title>Covidien Petrolatum Gauze Strip in Peelable Foil Packs 1&quot; x 36&quot;</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Covidien-Vaseline-Petrolatum-Gauze-1024x1024_9224c814-2cf0-4991-b146-0b2db4388f44.jpg?v=1559890822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            73.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fine mesh, absorbent gauze impregnated with white petrolatum. Non-adherent. Clings and conforms to all body contours. Petrolatum impregnate remains moist, nontoxic, nonsensitizing and nonirritating. Sterile.</span></p>
+<ul>
+<li>72/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754533847074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">73.07</s:price>
+      <s:sku>8884412600</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754515628066</id>
+    <published>2019-06-06T10:44:35-05:00</published>
+    <updated>2019-06-06T10:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-petrolatum-gauze-strip-in-peelable-foil-packs-3-x-18"/>
+    <title>Covidien Petrolatum Gauze Strip in Peelable Foil Packs 3&quot; x 18&quot;</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Covidien-Vaseline-Petrolatum-Gauze-1024x1024_a524642a-e468-49c4-a812-14910fc0714d.jpg?v=1559890823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            69.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fine mesh, absorbent gauze impregnated with white petrolatum. Non-adherent. Clings and conforms to all body contours. Petrolatum impregnate remains moist, nontoxic, nonsensitizing and nonirritating. Sterile.</span></p>
+<ul>
+<li>72/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754515628066</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.89</s:price>
+      <s:sku>8884414600</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3754508025890</id>
+    <published>2019-06-06T10:34:29-05:00</published>
+    <updated>2019-06-06T10:34:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/covidien-petrolatum-gauze-x-72-tube-foil-overwrap-peelable-foil-packs"/>
+    <title>Covidien Petrolatum Gauze ½&quot; x 72&quot; Tube Foil Overwrap Peelable Foil Packs</title>
+    <s:type>Petrolatum Gauze</s:type>
+    <s:vendor>Covidien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Covidien-Vaseline-Petrolatum-Gauze-1024x1024.jpg?v=1559890824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Covidien<br>
+        <strong>Type: </strong>Petrolatum Gauze<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fine mesh, absorbent gauze impregnated with white petrolatum. Non-adherent. Clings and conforms to all body contours. Petrolatum impregnate remains moist, nontoxic, nonsensitizing and nonirritating. Sterile.</span></p>
+<ul>
+<li>72/CS</li>
+<li>This item usually ships with-in 7-14 days.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>petrolatum</s:tag>
+    <s:tag>petrolatum gauze</s:tag>
+    <s:tag>petroleum</s:tag>
+    <s:tag>petroleum gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3754508025890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>8884421600</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3746035531810</id>
+    <published>2019-05-31T16:19:31-05:00</published>
+    <updated>2019-05-31T16:19:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-emergency-high-strength-pressure-bandages"/>
+    <title>Dynarex Emergency High Strength Pressure Bandages</title>
+    <s:type>Pressure Bandage</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/DYNAREX-EMERGENCY-HIGH-STRENGTH-PRESSURE-BANDAGE-4-29714475-400_300.jpg?v=1559394064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Pressure Bandage<br>
+        <strong>Price: </strong>
+            5.25 - 395.85
+            <a href="https://aossmedicalsupply.com/products/dynarex-emergency-high-strength-pressure-bandages">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div itemprop="description" class="productDescriptionContent">
+<p>Dynarex Emergency High Strength Pressure Bandages combine a thick non-adherent dressing, elastic bandage, pressure applicator, and closure clip in one simple unit. For fast response to severe bleeding and trauma situations use the Emergency High Strength Pressure Bandage.</p>
+</div>
+<ul>
+<li>Quick and easy application</li>
+<li>Sterile, Single Use Only</li>
+<li>Available in 4” and 6”</li>
+<li>Latex free</li>
+</ul>
+<p>100/CS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emergency</s:tag>
+    <s:tag>emergency kit</s:tag>
+    <s:tag>pressure bandage</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3746035531810</id>
+      <title>1/EA</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>3683-EA</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3746035531810</id>
+      <title>100/CS</title>
+      <s:price currency="USD">395.85</s:price>
+      <s:sku>3683-CS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745932836898</id>
+    <published>2019-05-31T13:52:53-05:00</published>
+    <updated>2019-05-31T13:52:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dynarex-compressed-krinkle-gauze-4-5-x-4-1yds-sterile"/>
+    <title>Dynarex Compressed Krinkle Gauze, 4.5&quot; x 4.1yds, Sterile</title>
+    <s:type>Gauze</s:type>
+    <s:vendor>Dynarex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Dynarex-Compressed-Krinkle-Gauze-29370339-400_300.jpg?v=1559394063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynarex<br>
+        <strong>Type: </strong>Gauze<br>
+        <strong>Price: </strong>
+            199.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Krinkle Gauze Rolls Features and Benefits</strong></p>
+<ul>
+<li>The rolls are krinkle textured for better absorption</li>
+<li>The bandages are good for large quantity of exudate</li>
+<li>They can be used for primary or secondary dressings</li>
+<li>The rolls provide a soft texture that cushions and protects the wound.</li>
+</ul>
+<p>Sold by the Case: 100/CS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745932836898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.92</s:price>
+      <s:sku>3160</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745920942114</id>
+    <published>2019-05-31T13:32:05-05:00</published>
+    <updated>2019-05-31T13:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dukal-conforming-stretch-gauze-non-sterile-clean-wrap-4-x-4-1yds"/>
+    <title>Dukal Conforming Stretch Gauze- Non Sterile Clean Wrap, 4 x 4.1yds</title>
+    <s:type>Gauze</s:type>
+    <s:vendor>Dukal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/DUK604PB-96.jpg?v=1559394034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal<br>
+        <strong>Type: </strong>Gauze<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dukal Conforming Stretch Gauze is made from rayon poly knitted stretch gauze. It is designed with a special weave construction and finish that prevents unraveling and linting.</p>
+<p>It provides a small amount of compression to the site while securely holding to the body. It is non-slip for your convenience. </p>
+<p>This product is clean wrap, a non-sterile gauze individually packaged in a polybag. Available in a variety of sizes.</p>
+<p>Purchase right here online, simply select a size from the drop box above and press add to cart! </p>
+<p>Sold by the Case: 96 Rolls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid kit supplies</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>general wound care</s:tag>
+    <s:tag>Wound Care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745920942114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.25</s:price>
+      <s:sku>604PB-96</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745822081058</id>
+    <published>2019-05-31T11:21:38-05:00</published>
+    <updated>2019-05-31T11:21:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/proadvantage-adhesive-bandage-knuckle-bands-1-1-2-x-3"/>
+    <title>ProAdvantage Adhesive Bandage, Knuckle Bands, 1 1/2&quot; x 3&quot;</title>
+    <s:type>Adhesive Bandages</s:type>
+    <s:vendor>Proadvantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/23751.jpg?v=1559394085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Proadvantage<br>
+        <strong>Type: </strong>Adhesive Bandages<br>
+        <strong>Price: </strong>
+            5.65 - 58.95
+            <a href="https://aossmedicalsupply.com/products/proadvantage-adhesive-bandage-knuckle-bands-1-1-2-x-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-sm-12"><span itemprop="description">Pro Advantage Fabric Adhesive Bandage, Knuckle Bands, 1½" x 3". Ideally suited for areas where flexibility is important. Absorbent, breathable island pad cushions and protects wound. Long lasting adhesive stays secure even when wet. Latex free.</span></div>
+<p> </p>
+<p>100/BX, 1200/CS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>back to school</s:tag>
+    <s:tag>bandage</s:tag>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>bandaid</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid kit supplies</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>general wound care</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745822081058</id>
+      <title>100/BX</title>
+      <s:price currency="USD">5.65</s:price>
+      <s:sku>P150110-BX</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745822081058</id>
+      <title>1200/CS</title>
+      <s:price currency="USD">58.95</s:price>
+      <s:sku>P150110-CS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745819754530</id>
+    <published>2019-05-31T11:11:12-05:00</published>
+    <updated>2019-05-31T11:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/proadvantage-p150125-flexible-large-adhesive-bandages-2-x-4"/>
+    <title>ProAdvantage P150125 Flexible Large Adhesive Bandages 2&quot; x 4&quot;</title>
+    <s:type>Adhesive Bandages</s:type>
+    <s:vendor>Proadvantage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/i19018.jpg?v=1559394086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Proadvantage<br>
+        <strong>Type: </strong>Adhesive Bandages<br>
+        <strong>Price: </strong>
+            5.75 - 50.75
+            <a href="https://aossmedicalsupply.com/products/proadvantage-p150125-flexible-large-adhesive-bandages-2-x-4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pro Advantage Sheer Adhesive Bandage, Strips, 2" x 4". Absorbent breathable island pad cushions and protects wound. Long-lasting adhesive stays secure even when wet. Latex free. Sterile. </span></p>
+<p><span>50/bx, 12 bx/cs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandage</s:tag>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>bandaid</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid kit supplies</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>general wound care</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745819754530</id>
+      <title>50/BX</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>P150123-BX</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745819754530</id>
+      <title>600/CS</title>
+      <s:price currency="USD">50.75</s:price>
+      <s:sku>P150123-CS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745803927586</id>
+    <published>2019-05-31T10:51:14-05:00</published>
+    <updated>2019-05-31T10:51:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/pro-advantage%C2%AE-gauze-sponges-non-sterile-gauze-sponge-4-x-4-12-ply"/>
+    <title>PRO ADVANTAGE® GAUZE SPONGES - NON-STERILE Gauze Sponge, 4&quot; x 4&quot; 12 Ply</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/NDCP157112_1ef0753b-08b7-4936-8ac1-38ef6b0fda23.jpg?v=1559394084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            13.70 - 51.93
+            <a href="https://aossmedicalsupply.com/products/pro-advantage%C2%AE-gauze-sponges-non-sterile-gauze-sponge-4-x-4-12-ply">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-img-box">
+<div class="promo-links">
+<div class="promo-links-frame">
+<p>Pro Advantage® Gauze Sponges, Non-Sterile, are made from 100% premium bleached cotton.</p>
+<p>These highly absorbent sponges are available in a broad range of sizes and plies. Sponges are specially bleached to maximize absorbency.</p>
+<p>Useful for dressing, general cleaning, prepping, packing and debriding wounds. Products are non-sterile, and have new, improved packaging.</p>
+</div>
+<div class="promo-links-frame"><strong>Product Highlights</strong></div>
+</div>
+</div>
+<div id="ctl00_MainContentHolder_ProductControlsPanel" class="product-description">
+<div id="pnlProductHightlight">
+<div class="box-description">
+<ul>
+<li>
+<strong>Made</strong><span> </span>from 100% premium cotton gauze</li>
+<li>
+<strong>Applicable</strong><span> </span>for wound dressing, general cleaning, prepping, packing and debriding wounds</li>
+<li>
+<strong>Bleached</strong><span> </span>for maximum absorbency</li>
+<li>
+<strong>Non</strong>-Sterile - With new, improved packaging</li>
+</ul>
+<p>200/BX, 2000/CS</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid kit supplies</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745803927586</id>
+      <title>200/BX</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>P157114-BX</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745803927586</id>
+      <title>2000/CS</title>
+      <s:price currency="USD">51.93</s:price>
+      <s:sku>P157114-CS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745799864354</id>
+    <published>2019-05-31T10:43:14-05:00</published>
+    <updated>2019-05-31T10:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/pro-advantage%C2%AE-gauze-sponges-non-sterile-gauze-sponge-3-x-3"/>
+    <title>PRO ADVANTAGE® GAUZE SPONGES - NON-STERILE Gauze Sponge, 3&quot; x 3&quot;</title>
+    <s:type>Gauze Pad</s:type>
+    <s:vendor>AOSS Medical Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/NDCP157112.jpg?v=1559394083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AOSS Medical Supply<br>
+        <strong>Type: </strong>Gauze Pad<br>
+        <strong>Price: </strong>
+            10.26 - 57.26
+            <a href="https://aossmedicalsupply.com/products/pro-advantage%C2%AE-gauze-sponges-non-sterile-gauze-sponge-3-x-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-img-box">
+<div class="promo-links">
+<div class="promo-links-frame">
+<p>Pro Advantage® Gauze Sponges, Non-Sterile, are made from 100% premium bleached cotton.</p>
+<p>These highly absorbent sponges are available in a broad range of sizes and plies. Sponges are specially bleached to maximize absorbency.</p>
+<p>Useful for dressing, general cleaning, prepping, packing and debriding wounds. Products are non-sterile, and have new, improved packaging.</p>
+</div>
+<div class="promo-links-frame"><strong>Product Highlights</strong></div>
+</div>
+</div>
+<div id="ctl00_MainContentHolder_ProductControlsPanel" class="product-description">
+<div id="pnlProductHightlight">
+<div class="box-description">
+<ul>
+<li>
+<strong>Made</strong><span> </span>from 100% premium cotton gauze</li>
+<li>
+<strong>Applicable</strong><span> </span>for wound dressing, general cleaning, prepping, packing and debriding wounds</li>
+<li>
+<strong>Bleached</strong><span> </span>for maximum absorbency</li>
+<li>
+<strong>Non</strong>-Sterile - With new, improved packaging</li>
+</ul>
+<p>200/BX, 4000/CS</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid kit supplies</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>gauze</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745799864354</id>
+      <title>200/BX</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>P157113-BX</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745799864354</id>
+      <title>4000/CS</title>
+      <s:price currency="USD">57.26</s:price>
+      <s:sku>P157113-CS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/3745790787618</id>
+    <published>2019-05-31T10:25:32-05:00</published>
+    <updated>2019-05-31T10:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/dukal-non-adherent-pads-non-adherent-pad-3-x-4"/>
+    <title>Dukal NUTRAMAX NON-ADHERENT PAD WITH ADHESIVE. Non-Adherent Pad, 3&quot; x 4&quot;</title>
+    <s:type>Non-Adherent Dressing</s:type>
+    <s:vendor>Dukal Corporation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/Non-Adherent-Pads-420x300.jpg?v=1559394035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dukal Corporation<br>
+        <strong>Type: </strong>Non-Adherent Dressing<br>
+        <strong>Price: </strong>
+            14.53 - 127.99
+            <a href="https://aossmedicalsupply.com/products/dukal-non-adherent-pads-non-adherent-pad-3-x-4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dukal Corporation. NUTRAMAX NON-ADHERENT PAD WITH ADHESIVE Protect and cushion the wound while absorbing drainage. The non-stick surface prevents adhesion to the wound, while the non-adherent pad with adhesive provides a convenient one-step application. Latex free.</span></p>
+<p><span>100/bx, 12 bx/cs (CS)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bandages &amp; dressings</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid kit</s:tag>
+    <s:tag>first aid supplies</s:tag>
+    <s:tag>non-adherent dressing</s:tag>
+    <s:tag>wound care</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745790787618</id>
+      <title>100/BX</title>
+      <s:price currency="USD">14.53</s:price>
+      <s:sku>7675033-BX</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/3745790787618</id>
+      <title>1200/CS</title>
+      <s:price currency="USD">127.99</s:price>
+      <s:sku>7675033-CS</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

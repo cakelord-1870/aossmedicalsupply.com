@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/test-kits.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-11-15T03:57:39-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383147212834</id>
+    <published>2017-11-15T03:57:39-06:00</published>
+    <updated>2017-11-15T03:57:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/sterichek-water-hardness-test-strips"/>
+    <title>SteriChek®  Sensitive Low-Range Water Hardness</title>
+    <s:type>Test Kit</s:type>
+    <s:vendor>Hach Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/SC_LRHardness_Intl.jpg?v=1585260098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hach Company<br>
+        <strong>Type: </strong>Test Kit<br>
+        <strong>Price: </strong>
+            67.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hach Company; SteriChek</p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Provide quick means of testing the level of hardness after water softener stage of the water treatment process</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Color block levels at 0, 5, 10 and 20-ppm</span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">Indicator pad changes color relative to the level of calcium and magnesium present </span></p>
+<p><span face="Helvetica Neue" size="2" color="#000000">300/BX</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dialysis test strip</s:tag>
+    <s:tag>Testing</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383147212834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.70</s:price>
+      <s:sku>811911</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

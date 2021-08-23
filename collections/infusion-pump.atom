@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aossmedicalsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aossmedicalsupply.com/collections/infusion-pump.atom"/>
+  <title>AOSS Medical Supply</title>
+  <updated>2017-11-15T04:54:26-06:00</updated>
+  <author>
+    <name>AOSS Medical Supply</name>
+  </author>
+  <entry>
+    <id>https://aossmedicalsupply.com/products/383168544802</id>
+    <published>2017-11-15T04:54:26-06:00</published>
+    <updated>2017-11-15T04:54:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://aossmedicalsupply.com/products/iv-pump"/>
+    <title>Infusion Pump Baxter 6201</title>
+    <s:type>Infusion Pump</s:type>
+    <s:vendor>Monet Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2545/6632/products/705137.jpg?v=1584955471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monet Medical<br>
+        <strong>Type: </strong>Infusion Pump<br>
+        <strong>Price: </strong>
+            1420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Infusion Pump (Refurbished) Baxter 6201</h4>
+<ul class="product-features">
+<li>1 year warranty</li>
+<li>Flow Check Occlusion Alarm-An In-Line Resistance Display Of Incremental Back Pressure</li>
+<li>Flow Rate Calculation Is Automatic After Volume And Time Are Selected</li>
+<li>Slide Clamp Option Offers An Additional Step To Protect Against Inadvertent Gravity Free Flow</li>
+<li>Programmed Delivery Profile Allows Up To 10 Steps, Individualizing Control Of Infusion Ramping And Tapering</li>
+<li>Automatic Piggybacking Of Secondary Medications</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baxter</s:tag>
+    <s:tag>infusion</s:tag>
+    <s:tag>Infusion Pump</s:tag>
+    <s:tag>intavenous therapy</s:tag>
+    <s:variant>
+      <id>https://aossmedicalsupply.com/products/383168544802</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku>6201R1</s:sku>
+      <s:grams>20100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
